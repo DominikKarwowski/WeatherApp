@@ -44,7 +44,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Temperature.
         /// </summary>
-        public float Temperature
+        public double Temperature
         {
             get { return _weatherDetails.Temperature; }
             set
@@ -59,7 +59,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Temperature according to the human perception of weather.
         /// </summary>
-        public float TemperatureFeelsLike
+        public double TemperatureFeelsLike
         {
             get { return _weatherDetails.TemperatureFeelsLike; }
             set
@@ -74,7 +74,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Minimum temperature at the moment.
         /// </summary>
-        public float TemperatureMin
+        public double TemperatureMin
         {
             get { return _weatherDetails.TemperatureMin; }
             set
@@ -88,7 +88,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Maximum temperature at the moment.
         /// </summary>
-        public float TemperatureMax
+        public double TemperatureMax
         {
             get { return _weatherDetails.TemperatureMax; }
             set
