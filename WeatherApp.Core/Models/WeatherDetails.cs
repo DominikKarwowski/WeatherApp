@@ -6,6 +6,11 @@
     public class WeatherDetails
     {
         /// <summary>
+        /// Name of the city.
+        /// </summary>
+        public string CityName { get; set; }
+
+        /// <summary>
         /// Weather condition description.
         /// </summary>
         public string Description { get; set; }

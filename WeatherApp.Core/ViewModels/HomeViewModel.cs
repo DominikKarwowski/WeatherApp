@@ -11,12 +11,12 @@ namespace DjK.WeatherApp.Core.ViewModels
     {
         private readonly IMvxNavigationService _navigationService;
 
-        private string city;
+        private string cityName;
 
-        public string City
+        public string CityName
         {
-            get { return city; }
-            set { SetProperty(ref city, value); }
+            get { return cityName; }
+            set { SetProperty(ref cityName, value); }
         }
 
 
@@ -33,7 +33,8 @@ namespace DjK.WeatherApp.Core.ViewModels
             //TODO: get actual WeatherDetails based on the provided city and replace dummy WeatherDetails
             var weatherDetails = new WeatherDetails()
             {
-                Description = $"dummy weather description for {City}",
+                CityName = CityName,
+                Description = $"dummy weather description for {CityName}",
                 Temperature = 100,
                 TemperatureFeelsLike = 99,
                 TemperatureMax = 103,
