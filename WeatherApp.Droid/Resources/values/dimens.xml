@@ -1,3 +1,5 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+	<dimen name="weather_details_textview_margin">6dp</dimen>
+	<dimen name="textinputlayout_margin">26dp</dimen>
 </resources>
