@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace DjK.WeatherApp.Core.Models
+﻿namespace DjK.WeatherApp.Core.Models
 {
     public class WeatherResponse
     {
@@ -12,9 +8,9 @@ namespace DjK.WeatherApp.Core.Models
         public WeatherDetails WeatherDetails { get; }
         
         /// <summary>
-        /// Response from a service retrieving weather data. Can contain error details in case the data could not be obtained.
+        /// Reason phrase from a service retrieving weather data. Can contain error details in case the data could not be obtained.
         /// </summary>
-        public string ResponseMessage { get; }
+        public string ReasonPhrase { get; }
         
         /// <summary>
         /// Describes if data were correctly retrieved.
@@ -25,12 +21,12 @@ namespace DjK.WeatherApp.Core.Models
         /// Response received from an IWeatherService.
         /// </summary>
         /// <param name="weatherDetails">Obtained weather details.</param>
-        /// <param name="responseMessage">Response that accompanies the weather details.</param>
+        /// <param name="reasonPhrase">Reason phrase that accompanies the weather details response.</param>
         /// <param name="isSuccessful">Response status.</param>
-        public WeatherResponse(WeatherDetails weatherDetails, string responseMessage, bool isSuccessful)
+        public WeatherResponse(WeatherDetails weatherDetails, string reasonPhrase, bool isSuccessful)
         {
             WeatherDetails = weatherDetails;
-            ResponseMessage = responseMessage;
+            ReasonPhrase = reasonPhrase;
             IsSuccessful = isSuccessful;
         }
     }
