@@ -14,11 +14,18 @@ namespace DjK.WeatherApp.Core.ViewModels
         private readonly IWeatherService _weatherService;
 
         private string cityName;
+        private string errorMessage;
 
         public string CityName
         {
             get { return cityName; }
             set { SetProperty(ref cityName, value); }
+        }
+
+        public string ErrorMessage
+        {
+            get { return errorMessage; }
+            set { SetProperty(ref errorMessage, value); }
         }
 
 
@@ -33,9 +40,25 @@ namespace DjK.WeatherApp.Core.ViewModels
 
         private async Task ShowWeatherDetails()
         {
-            var weatherResponse = await _weatherService.GetWeatherResponseForLocation(CityName);
-            if (weatherResponse.IsSuccessful)
-                await _navigationService.Navigate(typeof(WeatherDetailsViewModel), weatherResponse.WeatherDetails);
+            try
+            {
+                var weatherResponse = await _weatherService.GetWeatherResponseForLocation(CityName);
+                if (weatherResponse.IsSuccessful)
+                {
+                    ErrorMessage = string.Empty;
+                    await _navigationService.Navigate(typeof(WeatherDetailsViewModel), weatherResponse.WeatherDetails);
+                }
+                else
+                {
+                    ErrorMessage = weatherResponse.ReasonPhrase;
+                }
+
+            }
+            catch (Exception)
+            {
+                // TODO: add logging
+                ErrorMessage = "Unexpected exception";
+            }
         }
     }
 }

@@ -28,23 +28,31 @@ namespace DjK.WeatherApp.Core.Services
         /// <returns>WeatherResponse object. If request was not successful, WetherDetails object is null.</returns>
         public async Task<WeatherResponse> GetWeatherResponseForLocation(string cityName)
         {
-            var uri = BuildRequestUri(cityName);
-            var response = await _restService.GetHttpResponseMessage(uri);
-            var reasonPhrase = response.ReasonPhrase;
-            var content = await response.Content.ReadAsStringAsync();
+            try
+            {
+                var uri = BuildRequestUri(cityName);
+                var response = await _restService.GetHttpResponseMessage(uri);
+                var reasonPhrase = response.ReasonPhrase;
+                var content = await response.Content.ReadAsStringAsync();
 
-            if (response.IsSuccessStatusCode)
-            {
-                var weatherDetails = ParseResponseContent(content, WeatherDataParser);
-                return new WeatherResponse(weatherDetails, reasonPhrase, isSuccessful: true);
+                if (response.IsSuccessStatusCode)
+                {
+                    var weatherDetails = ParseResponseContent(content, WeatherDataParser);
+                    return new WeatherResponse(weatherDetails, reasonPhrase, isSuccessful: true);
+                }
+                else
+                {
+                    var message = ParseResponseContent(content, UnsuccessfulResponseParser);
+                    return new WeatherResponse(
+                        weatherDetails: default,
+                        reasonPhrase: $"{reasonPhrase}: {message}",
+                        isSuccessful: false);
+                }
             }
-            else
+            catch (Exception)
             {
-                var message = ParseResponseContent(content, UnsuccessfulResponseParser);
-                return new WeatherResponse(
-                    weatherDetails: default,
-                    reasonPhrase: $"{reasonPhrase}: {message}",
-                    isSuccessful: false);
+                // TODO: add logging
+                throw;
             }
         }
 
