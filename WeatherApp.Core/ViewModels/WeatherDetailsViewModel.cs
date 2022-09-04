@@ -13,6 +13,21 @@ namespace DjK.WeatherApp.Core.ViewModels
         private WeatherDetails _weatherDetails;
 
         /// <summary>
+        /// Name of the city.
+        /// </summary>
+        public string CityName
+        {
+            get { return _weatherDetails.CityName; }
+            set
+            {
+                if (_weatherDetails.CityName == value) return;
+                _weatherDetails.CityName = value;
+                RaisePropertyChanged(nameof(CityName));
+            }
+        }
+
+
+        /// <summary>
         /// Weather condition description.
         /// </summary>
         public string Description
@@ -84,8 +99,10 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
-        public IMvxAsyncCommand CloseCommand => new MvxAsyncCommand(Close);
+        public IMvxAsyncCommand SaveAsFavouriteCommand => new MvxAsyncCommand(SaveAsFavourite);
 
+
+        public IMvxAsyncCommand CloseCommand => new MvxAsyncCommand(Close);
 
         public WeatherDetailsViewModel(IMvxNavigationService navigationService)
         {
@@ -99,6 +116,11 @@ namespace DjK.WeatherApp.Core.ViewModels
         public override void Prepare(WeatherDetails weatherDetails)
         {
             _weatherDetails = weatherDetails;
+        }
+
+        private async Task SaveAsFavourite()
+        {
+            throw new NotImplementedException();
         }
 
         private async Task Close()
