@@ -1,4 +1,5 @@
 ﻿using DjK.WeatherApp.Core.Models;
+using DjK.WeatherApp.Core.Services.Abstractions;
 using MvvmCross.Commands;
 using MvvmCross.Navigation;
 using MvvmCross.ViewModels;
@@ -10,6 +11,7 @@ namespace DjK.WeatherApp.Core.ViewModels
     public class HomeViewModel : MvxViewModel
     {
         private readonly IMvxNavigationService _navigationService;
+        private readonly IWeatherService _weatherService;
 
         private string cityName;
 
@@ -23,24 +25,15 @@ namespace DjK.WeatherApp.Core.ViewModels
         public IMvxAsyncCommand ShowWeatherDetailsCommand => new MvxAsyncCommand(ShowWeatherDetails);
 
 
-        public HomeViewModel(IMvxNavigationService navigationService)
+        public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
+            _weatherService = weatherService ?? throw new ArgumentNullException(nameof(weatherService));
         }
 
         private async Task ShowWeatherDetails()
         {
-            //TODO: get actual WeatherDetails based on the provided city and replace dummy WeatherDetails
-            var weatherDetails = new WeatherDetails()
-            {
-                CityName = CityName,
-                Description = $"dummy weather description for {CityName}",
-                Temperature = 100,
-                TemperatureFeelsLike = 99,
-                TemperatureMax = 103,
-                TemperatureMin = 97
-            };
-
+            var weatherDetails = await _weatherService.GetWeatherDetailsForLocation(CityName);
             await _navigationService.Navigate(typeof(WeatherDetailsViewModel), weatherDetails);
         }
     }
