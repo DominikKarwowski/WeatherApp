@@ -8,6 +8,6 @@ namespace DjK.WeatherApp.Core.Services.Abstractions
 {
     public interface IWeatherService
     {
-        Task<WeatherDetails> GetWeatherDetailsForLocation(string cityName);
+        Task<WeatherResponse> GetWeatherResponseForLocation(string cityName);
     }
 }
