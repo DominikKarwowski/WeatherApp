@@ -33,8 +33,9 @@ namespace DjK.WeatherApp.Core.ViewModels
 
         private async Task ShowWeatherDetails()
         {
-            var weatherDetails = await _weatherService.GetWeatherResponseForLocation(CityName);
-            await _navigationService.Navigate(typeof(WeatherDetailsViewModel), weatherDetails);
+            var weatherResponse = await _weatherService.GetWeatherResponseForLocation(CityName);
+            if (weatherResponse.IsSuccessful)
+                await _navigationService.Navigate(typeof(WeatherDetailsViewModel), weatherResponse.WeatherDetails);
         }
     }
 }
