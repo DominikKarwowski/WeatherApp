@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:showIn="@layout/activity_weather_details">
+
+        <TextView
+            android:id="@+id/location_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/location"
+            style="@style/label_text"/>
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/location_label"
+            app:MvxBind="Text CityName"
+            style="@style/value_text"/>
+
+        <TextView
+            android:id="@+id/description_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/location"
+            android:text="@string/description"
+            style="@style/label_text"/>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/description_label"
+            app:MvxBind="Text Description"
+            style="@style/value_text"/>
+
+        <TextView
+            android:id="@+id/temperature_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/description"
+            android:text="@string/temperature"
+            style="@style/label_text"/>
+
+        <TextView
+            android:id="@+id/temperature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_label"
+            app:MvxBind="Text Temperature"
+            style="@style/value_text"/>
+
+        <TextView
+            android:id="@+id/temperature_feels_like_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature"
+            android:text="@string/temperature_feels_like"
+            style="@style/label_text"/>
+
+        <TextView
+            android:id="@+id/temperature_feels_like"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_feels_like_label"
+            app:MvxBind="Text TemperatureFeelsLike"
+            style="@style/value_text"/>
+
+        <TextView
+            android:id="@+id/temperature_min_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_feels_like"
+            android:text="@string/temperature_min"
+            style="@style/label_text"/>
+
+        <TextView
+            android:id="@+id/temperature_min"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_min_label"
+            app:MvxBind="Text TemperatureMin"
+            style="@style/value_text"/>
+
+        <TextView
+            android:id="@+id/temperature_max_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_min"
+            android:text="@string/temperature_max"
+            style="@style/label_text"/>
+
+        <TextView
+            android:id="@+id/temperature_max"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_max_label"
+            app:MvxBind="Text TemperatureMax"
+            style="@style/value_text"/>
+
+    </RelativeLayout>
+</ScrollView>
