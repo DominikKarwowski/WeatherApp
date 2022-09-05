@@ -35,6 +35,7 @@
         android:layout_height="wrap_content"
         android:src="@drawable/ic_favorite"
         android:layout_marginEnd="@dimen/textinputlayout_margin"
+        android:contentDescription="@string/add_to_favourities"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@id/city_input"
         app:layout_constraintBottom_toBottomOf="@id/city_input"
