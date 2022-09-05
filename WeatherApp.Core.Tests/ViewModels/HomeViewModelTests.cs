@@ -51,7 +51,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             sut.CityName = "New CityName";
 
             // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -67,7 +67,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             sut.ErrorMessage = "New error message";
 
             // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
 
@@ -108,10 +108,12 @@ namespace WeatherApp.Core.Tests.ViewModels
 
             // Act
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
-
-            // Assert
-            Assert.That(sut.Language, Is.EqualTo("en"));
-            Assert.That(sut.IsMetric, Is.EqualTo(true));
+            
+            Assert.Multiple(() =>
+            {
+                Assert.That(sut.Language, Is.EqualTo("en"));
+                Assert.That(sut.IsMetric, Is.True);
+            });
         }
 
         [Test]
@@ -190,7 +192,6 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.ShowWeatherDetailsCommand.Execute();
 
-            // Assert
             Assert.That(sut.ErrorMessage, Is.EqualTo(string.Empty));
         }
 
@@ -246,7 +247,6 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.ShowWeatherDetailsCommand.Execute();
 
-            // Assert
             Assert.That(sut.ErrorMessage, Is.EqualTo(testReasonPhrase));
         }
 
@@ -268,7 +268,6 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.ShowWeatherDetailsCommand.Execute();
 
-            // Assert
             Assert.That(sut.ErrorMessage, Is.EqualTo("Unexpected exception"));
         }
 

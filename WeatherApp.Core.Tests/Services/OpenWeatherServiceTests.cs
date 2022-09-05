@@ -33,15 +33,16 @@ namespace WeatherApp.Core.Tests.Services
 
             // Act
             var result = await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true);
-            
-            //Assert
-            Assert.That(result.IsSuccessful);
-            Assert.That(result.WeatherDetails.CityName, Is.EqualTo("Zocca"));
-            Assert.That(result.WeatherDetails.Description, Is.EqualTo("broken clouds"));
-            Assert.That(result.WeatherDetails.Temperature, Is.EqualTo(296.26));
-            Assert.That(result.WeatherDetails.TemperatureFeelsLike, Is.EqualTo(296.4));
-            Assert.That(result.WeatherDetails.TemperatureMin, Is.EqualTo(292.8));
-            Assert.That(result.WeatherDetails.TemperatureMax, Is.EqualTo(297.64));
+            Assert.Multiple(() =>
+            {
+                Assert.That(result.IsSuccessful);
+                Assert.That(result.WeatherDetails.CityName, Is.EqualTo("Zocca"));
+                Assert.That(result.WeatherDetails.Description, Is.EqualTo("broken clouds"));
+                Assert.That(result.WeatherDetails.Temperature, Is.EqualTo(296.26));
+                Assert.That(result.WeatherDetails.TemperatureFeelsLike, Is.EqualTo(296.4));
+                Assert.That(result.WeatherDetails.TemperatureMin, Is.EqualTo(292.8));
+                Assert.That(result.WeatherDetails.TemperatureMax, Is.EqualTo(297.64));
+            });
         }
 
         [Test]
@@ -60,12 +61,13 @@ namespace WeatherApp.Core.Tests.Services
             // Act
             var result = await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true);
 
-            //Assert
-            Assert.That(!result.IsSuccessful);
-            Assert.That(result.WeatherDetails, Is.EqualTo(null));
-            Assert.That(result.ReasonPhrase, Is.EqualTo("Not Found: city not found"));
+            Assert.Multiple(() =>
+            {
+                Assert.That(!result.IsSuccessful);
+                Assert.That(result.WeatherDetails, Is.EqualTo(null));
+                Assert.That(result.ReasonPhrase, Is.EqualTo("Not Found: city not found"));
+            });
         }
-
 
         [Test]
         public void WeatherService_throws_JsonReaderException_when_receives_incorrectly_formed_data()
@@ -80,7 +82,6 @@ namespace WeatherApp.Core.Tests.Services
             restServiceFake.Setup(s => s.GetHttpResponseMessage(It.IsAny<string>())).ReturnsAsync(response);
             var sut = CreateOpenWeatherService();
 
-            //Assert
             Assert.ThrowsAsync<JsonReaderException>(
                 async () => await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true));
         }

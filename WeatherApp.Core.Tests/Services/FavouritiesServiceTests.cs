@@ -49,7 +49,6 @@ namespace WeatherApp.Core.Tests.Services
             // Act
             var result = await sut.LoadFavouriteCity();
 
-            // Assert
             Assert.That(result, Is.EqualTo(testCityName));
         }
 

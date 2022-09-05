@@ -44,14 +44,16 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.Prepare(weatherDetails);
 
-            // Assert
-            Assert.That(sut.CityName, Is.EqualTo(testCityName));
-            Assert.That(sut.Description, Is.EqualTo(testDescription));
-            Assert.That(sut.Temperature, Is.EqualTo(testTemperature));
-            Assert.That(sut.TemperatureFeelsLike, Is.EqualTo(testTemperatureFeelsLike));
-            Assert.That(sut.TemperatureMin, Is.EqualTo(testTemperatureMin));
-            Assert.That(sut.TemperatureMax, Is.EqualTo(testTemperatureMax));
-            Assert.That(sut.TemperatureUnit, Is.EqualTo(testTemperatureUnit));
+            Assert.Multiple(() =>
+            {
+                Assert.That(sut.CityName, Is.EqualTo(testCityName));
+                Assert.That(sut.Description, Is.EqualTo(testDescription));
+                Assert.That(sut.Temperature, Is.EqualTo(testTemperature));
+                Assert.That(sut.TemperatureFeelsLike, Is.EqualTo(testTemperatureFeelsLike));
+                Assert.That(sut.TemperatureMin, Is.EqualTo(testTemperatureMin));
+                Assert.That(sut.TemperatureMax, Is.EqualTo(testTemperatureMax));
+                Assert.That(sut.TemperatureUnit, Is.EqualTo(testTemperatureUnit));
+            });
         }
 
         [Test]
@@ -68,8 +70,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.CityName = "New CityName";
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -86,8 +87,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.Description = "New description";
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -104,8 +104,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.Temperature = 102;
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -122,8 +121,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.TemperatureFeelsLike = 102;
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -140,8 +138,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.TemperatureMin = 102;
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -158,8 +155,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.TemperatureMax = 102;
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
@@ -176,8 +172,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.TemperatureUnit = "C";
 
-            // Assert
-            Assert.IsTrue(propertyChangedRaised);
+            Assert.That(propertyChangedRaised, Is.True);
         }
 
         [Test]
