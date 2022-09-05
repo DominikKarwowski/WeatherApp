@@ -11,4 +11,5 @@
 	<string name="temperature_feels_like">Temperature feels like</string>
 	<string name="temperature_min">Min temperature</string>
 	<string name="temperature_max">Max temperature</string>
+	<string name="added_as_favourite">Added city as favourite: </string>
 </resources>

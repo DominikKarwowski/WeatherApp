@@ -6,18 +6,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:showIn="@layout/activity_home">
-
+    
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/city_input"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:hint="@string/city_name"
+        android:layout_marginTop="@dimen/textinputlayout_margin"
         android:layout_marginStart="@dimen/textinputlayout_margin"
         android:layout_marginEnd="@dimen/textinputlayout_margin"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/add_to_favourities"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         app:MvxBind="Error ErrorMessage">
 
@@ -28,6 +28,17 @@
             app:MvxBind="Text CityName"/>
 
     </com.google.android.material.textfield.TextInputLayout>
+
+    <ImageButton
+        android:id="@+id/add_to_favourities"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_favorite"
+        android:layout_marginEnd="@dimen/textinputlayout_margin"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/city_input"
+        app:layout_constraintBottom_toBottomOf="@id/city_input"
+        app:MvxBind="Click SaveFavouriteCityCommand"/>
 
     <Button
         android:id="@+id/get_weather"

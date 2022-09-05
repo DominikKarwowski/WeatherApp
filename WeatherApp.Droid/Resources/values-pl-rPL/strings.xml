@@ -11,4 +11,5 @@
 	<string name="temperature_feels_like">Temperatura odczuwalna</string>
 	<string name="temperature_min">Temperatura min</string>
 	<string name="temperature_max">Temperatura max</string>
+	<string name="added_as_favourite">Miasto zapisano jako ulubione:</string>
 </resources>
