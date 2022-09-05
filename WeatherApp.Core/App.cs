@@ -13,6 +13,11 @@ namespace DjK.WeatherApp.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
+            CreatableTypes()
+                .EndingWith("Repository")
+                .AsInterfaces()
+                .RegisterAsLazySingleton();
+
             RegisterAppStart<HomeViewModel>();
         }
     }
