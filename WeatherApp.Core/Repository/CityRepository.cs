@@ -23,12 +23,12 @@ namespace DjK.WeatherApp.Core.Repository
             {
                 if (File.Exists(_favouriteCityPath))
                 {
-                    return new Task<string>(() =>
+                    return Task.Run(() =>
                         File.ReadAllText(_favouriteCityPath));
                 }
                 else
                 {
-                    return new Task<string>(() => string.Empty);
+                    return Task.Run(() => string.Empty);
                 }
             }
             catch (Exception)
@@ -42,8 +42,8 @@ namespace DjK.WeatherApp.Core.Repository
         {
             try
             {
-                return new Task(() =>
-                    File.WriteAllText(cityName, _favouriteCityPath));
+                return Task.Run(() =>
+                    File.WriteAllText(_favouriteCityPath, cityName));
             }
             catch (Exception)
             {
