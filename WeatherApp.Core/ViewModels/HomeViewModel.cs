@@ -1,4 +1,5 @@
 ﻿using DjK.WeatherApp.Core.Models;
+using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using MvvmCross.Commands;
 using MvvmCross.Navigation;
@@ -13,6 +14,7 @@ namespace DjK.WeatherApp.Core.ViewModels
     {
         private readonly IMvxNavigationService _navigationService;
         private readonly IWeatherService _weatherService;
+        private readonly IFavouritiesService _favouritiesService;
 
         private string cityName;
         private string errorMessage;
@@ -33,12 +35,32 @@ namespace DjK.WeatherApp.Core.ViewModels
         public bool IsMetric { get; private set; }
 
         public IMvxAsyncCommand ShowWeatherDetailsCommand => new MvxAsyncCommand(ShowWeatherDetails);
+        public IMvxAsyncCommand SaveFavouriteCityCommand => new MvxAsyncCommand(SaveFavouriteCity);
+
         public IMvxCommand<CultureInfo> SetCurrentCultureCommand => new MvxCommand<CultureInfo>(SetCurrentCulture);
 
-        public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService)
+        public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
+            IFavouritiesService favouritiesService)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
             _weatherService = weatherService ?? throw new ArgumentNullException(nameof(weatherService));
+            _favouritiesService = favouritiesService ?? throw new ArgumentNullException(nameof(favouritiesService));
+        }
+
+        public override async Task Initialize()
+        {
+            await base.Initialize();
+            await LoadFavouriteCity();
+        }
+
+        private async Task SaveFavouriteCity()
+        {
+            await _favouritiesService.SaveFavouriteCity(CityName);
+        }
+
+        private async Task LoadFavouriteCity()
+        {
+            CityName = await _favouritiesService.LoadFavouriteCity();
         }
 
         private void SetCurrentCulture(CultureInfo currentCulture)
