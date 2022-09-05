@@ -15,6 +15,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         private readonly IMvxNavigationService _navigationService;
         private readonly IWeatherService _weatherService;
         private readonly IFavouritiesService _favouritiesService;
+        private readonly MvxInteraction<string> _Interaction;
 
         private string cityName;
         private string errorMessage;
@@ -36,8 +37,8 @@ namespace DjK.WeatherApp.Core.ViewModels
 
         public IMvxAsyncCommand ShowWeatherDetailsCommand => new MvxAsyncCommand(ShowWeatherDetails);
         public IMvxAsyncCommand SaveFavouriteCityCommand => new MvxAsyncCommand(SaveFavouriteCity);
-
         public IMvxCommand<CultureInfo> SetCurrentCultureCommand => new MvxCommand<CultureInfo>(SetCurrentCulture);
+        public IMvxInteraction<string> Interaction => _Interaction;
 
         public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
             IFavouritiesService favouritiesService)
@@ -45,6 +46,7 @@ namespace DjK.WeatherApp.Core.ViewModels
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
             _weatherService = weatherService ?? throw new ArgumentNullException(nameof(weatherService));
             _favouritiesService = favouritiesService ?? throw new ArgumentNullException(nameof(favouritiesService));
+            _Interaction = new MvxInteraction<string>();
         }
 
         public override async Task Initialize()
@@ -56,6 +58,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         private async Task SaveFavouriteCity()
         {
             await _favouritiesService.SaveFavouriteCity(CityName);
+            _Interaction.Raise(CityName);
         }
 
         private async Task LoadFavouriteCity()
