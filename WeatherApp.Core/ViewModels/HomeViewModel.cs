@@ -6,6 +6,7 @@ using MvvmCross.ViewModels;
 using System;
 using System.Globalization;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 
 namespace DjK.WeatherApp.Core.ViewModels
 {
@@ -85,8 +86,15 @@ namespace DjK.WeatherApp.Core.ViewModels
         {
             try
             {
+                if (Connectivity.NetworkAccess != NetworkAccess.Internet)
+                {
+                    ErrorMessage = "No internet connection";
+                    return;
+                }
+
                 var weatherResponse = 
                     await _weatherService.GetWeatherResponseForLocation(CityName, Language, IsMetric);
+
                 if (weatherResponse.IsSuccessful)
                 {
                     ErrorMessage = string.Empty;
