@@ -1,5 +1,4 @@
-﻿using DjK.WeatherApp.Core.Models;
-using DjK.WeatherApp.Core.Services;
+﻿using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using MvvmCross.Commands;
 using MvvmCross.Navigation;
@@ -86,7 +85,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         {
             try
             {
-                var weatherResponse =
+                var weatherResponse = 
                     await _weatherService.GetWeatherResponseForLocation(CityName, Language, IsMetric);
                 if (weatherResponse.IsSuccessful)
                 {

@@ -191,7 +191,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             sut.CloseCommand.Execute();
 
             // Assert
-            navigationServiceFake.Verify(s => s.Close(sut, CancellationToken.None), Times.Once);
+            navigationServiceFake.Verify(s => s.Close(sut, default), Times.Once);
         }
 
         private WeatherDetailsViewModel CreateWeatherDetailsViewModel() =>
