@@ -52,8 +52,22 @@ namespace DjK.WeatherApp.Core.ViewModels
         public override async Task Initialize()
         {
             await base.Initialize();
-            await LoadFavouriteCity();
+            if (string.IsNullOrWhiteSpace(CityName))
+                await LoadFavouriteCity();
         }
+
+        protected override void SaveStateToBundle(IMvxBundle bundle)
+        {
+            base.SaveStateToBundle(bundle);
+            bundle.Data["CityName"] = CityName;
+        }
+
+        protected override void ReloadFromBundle(IMvxBundle state)
+        {
+            base.ReloadFromBundle(state);
+            CityName = state.Data["CityName"];
+        }
+
 
         private async Task SaveFavouriteCity()
         {
