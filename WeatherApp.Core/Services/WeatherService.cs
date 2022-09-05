@@ -26,11 +26,11 @@ namespace DjK.WeatherApp.Core.Services
         /// </summary>
         /// <param name="cityName">City for which the weather data are requested.</param>
         /// <returns>WeatherResponse object. If request was not successful, WetherDetails object is null.</returns>
-        public async Task<WeatherResponse> GetWeatherResponseForLocation(string cityName)
+        public async Task<WeatherResponse> GetWeatherResponseForLocation(string cityName, string language, bool isMetric)
         {
             try
             {
-                var uri = BuildRequestUri(cityName);
+                var uri = BuildRequestUri(cityName, language, isMetric);
                 var response = await _restService.GetHttpResponseMessage(uri);
                 var reasonPhrase = response.ReasonPhrase;
                 var content = await response.Content.ReadAsStringAsync();
@@ -67,7 +67,7 @@ namespace DjK.WeatherApp.Core.Services
                     Temperature = Convert.ToDouble(weatherData["main"]["temp"].ToString()),
                     TemperatureFeelsLike = Convert.ToDouble(weatherData["main"]["feels_like"].ToString()),
                     TemperatureMin = Convert.ToDouble(weatherData["main"]["temp_min"].ToString()),
-                    TemperatureMax = Convert.ToDouble(weatherData["main"]["temp_max"].ToString())
+                    TemperatureMax = Convert.ToDouble(weatherData["main"]["temp_max"].ToString()),
                 };
 
         private TResult ParseResponseContent<TResult>(string message, Func<JObject, TResult> contentParser)
@@ -89,12 +89,12 @@ namespace DjK.WeatherApp.Core.Services
             }
         }
 
-        private string BuildRequestUri(string cityName)
+        private string BuildRequestUri(string cityName, string language, bool isMetric)
         {
             // TODO: customize request based on CultureInfo
             // CultureInfo cultureInfo = CultureInfo.GetCultureInfo();
-
-            return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&appid={Constants.Constants.OpenWeatherMapAPIKey}";
+            var units = isMetric ? "metric" : "imperial";
+            return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&lang={language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
 
         }
     }

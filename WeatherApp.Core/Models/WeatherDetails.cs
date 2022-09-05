@@ -35,5 +35,9 @@
         /// </summary>
         public double TemperatureMax { get; set; }
 
+        /// <summary>
+        /// Temperature unit.
+        /// </summary>
+        public string TemperatureUnit { get; set; }
     }
 }
