@@ -1,4 +1,5 @@
-﻿using DjK.WeatherApp.Core.Models;
+﻿using DjK.WeatherApp.Core.Helpers;
+using DjK.WeatherApp.Core.Models;
 using MvvmCross.Commands;
 using MvvmCross.Navigation;
 using MvvmCross.ViewModels;
@@ -44,9 +45,9 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Temperature.
         /// </summary>
-        public float Temperature
+        public double Temperature
         {
-            get { return _weatherDetails.Temperature; }
+            get { return _weatherDetails.Temperature.RoundToOneDecimalPlace(); }
             set
             {
                 if (_weatherDetails.Temperature == value) return;
@@ -59,9 +60,9 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Temperature according to the human perception of weather.
         /// </summary>
-        public float TemperatureFeelsLike
+        public double TemperatureFeelsLike
         {
-            get { return _weatherDetails.TemperatureFeelsLike; }
+            get { return _weatherDetails.TemperatureFeelsLike.RoundToOneDecimalPlace(); }
             set
             {
                 if (_weatherDetails.TemperatureFeelsLike == value) return;
@@ -74,9 +75,9 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Minimum temperature at the moment.
         /// </summary>
-        public float TemperatureMin
+        public double TemperatureMin
         {
-            get { return _weatherDetails.TemperatureMin; }
+            get { return _weatherDetails.TemperatureMin.RoundToOneDecimalPlace(); }
             set
             {
                 if (_weatherDetails.TemperatureMin == value) return;
@@ -88,9 +89,9 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Maximum temperature at the moment.
         /// </summary>
-        public float TemperatureMax
+        public double TemperatureMax
         {
-            get { return _weatherDetails.TemperatureMax; }
+            get { return _weatherDetails.TemperatureMax.RoundToOneDecimalPlace(); }
             set
             {
                 if (_weatherDetails.TemperatureMax == value) return;
@@ -99,8 +100,21 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
-        public IMvxAsyncCommand SaveAsFavouriteCommand => new MvxAsyncCommand(SaveAsFavourite);
+        /// <summary>
+        /// Maximum temperature at the moment.
+        /// </summary>
+        public string TemperatureUnit
+        {
+            get { return _weatherDetails.TemperatureUnit; }
+            set
+            {
+                if (_weatherDetails.TemperatureUnit == value) return;
+                _weatherDetails.TemperatureUnit = value;
+                RaisePropertyChanged(nameof(TemperatureUnit));
+            }
+        }
 
+        public IMvxAsyncCommand SaveAsFavouriteCommand => new MvxAsyncCommand(SaveAsFavourite);
 
         public IMvxAsyncCommand CloseCommand => new MvxAsyncCommand(Close);
 

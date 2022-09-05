@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="add_to_favourities">Dodaj do ulubionych</string>
+	<string name="app_loading_message">Wczytuję...</string>
+	<string name="weather_details_activity_title">Aktualna pogoda</string>
+	<string name="city_name">Podaj miasto</string>
+	<string name="get_weather">Wyświetl pogodę</string>
+	<string name="location">Miejsce</string>
+	<string name="description">Opis</string>
+	<string name="temperature">Temperatura</string>
+	<string name="temperature_feels_like">Temperatura odczuwalna</string>
+	<string name="temperature_min">Temperatura min</string>
+	<string name="temperature_max">Temperatura max</string>
+</resources>

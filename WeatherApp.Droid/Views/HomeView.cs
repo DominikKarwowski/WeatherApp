@@ -5,6 +5,7 @@ using Android.Views;
 using AndroidX.AppCompat.Widget;
 using DjK.WeatherApp.Core.ViewModels;
 using MvvmCross.Platforms.Android.Views;
+using System.Globalization;
 
 namespace DjK.WeatherApp.Droid.Views
 {
@@ -19,6 +20,8 @@ namespace DjK.WeatherApp.Droid.Views
 
             Toolbar toolbar = FindViewById<Toolbar>(Resource.Id.toolbar);
             SetSupportActionBar(toolbar);
+
+            ViewModel.SetCurrentCultureCommand.Execute(CultureInfo.CurrentUICulture);
         }
 
 

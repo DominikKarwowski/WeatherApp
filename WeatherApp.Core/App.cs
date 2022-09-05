@@ -1,4 +1,5 @@
 ﻿using DjK.WeatherApp.Core.ViewModels;
+using MvvmCross.IoC;
 using MvvmCross.ViewModels;
 
 namespace DjK.WeatherApp.Core
@@ -7,6 +8,11 @@ namespace DjK.WeatherApp.Core
     {
         public override void Initialize()
         {
+            CreatableTypes()
+                .EndingWith("Service")
+                .AsInterfaces()
+                .RegisterAsLazySingleton();
+
             RegisterAppStart<HomeViewModel>();
         }
     }

@@ -59,6 +59,15 @@
             style="@style/value_text"/>
 
         <TextView
+            android:id="@+id/temperature_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_label"
+            android:layout_toRightOf="@id/temperature"
+            app:MvxBind="Text TemperatureUnit"
+            style="@style/value_text"/>
+
+        <TextView
             android:id="@+id/temperature_feels_like_label"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -72,6 +81,15 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/temperature_feels_like_label"
             app:MvxBind="Text TemperatureFeelsLike"
+            style="@style/value_text"/>
+        
+        <TextView
+            android:id="@+id/temperature_feels_like_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_feels_like_label"
+            android:layout_toRightOf="@id/temperature_feels_like"
+            app:MvxBind="Text TemperatureUnit"
             style="@style/value_text"/>
 
         <TextView
@@ -91,6 +109,15 @@
             style="@style/value_text"/>
 
         <TextView
+            android:id="@+id/temperature_min_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_min_label"
+            android:layout_toRightOf="@id/temperature_min"
+            app:MvxBind="Text TemperatureUnit"
+            style="@style/value_text"/>
+
+        <TextView
             android:id="@+id/temperature_max_label"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -104,6 +131,15 @@
             android:layout_height="wrap_content"
             android:layout_below="@id/temperature_max_label"
             app:MvxBind="Text TemperatureMax"
+            style="@style/value_text"/>
+
+        <TextView
+            android:id="@+id/temperature_max_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/temperature_max_label"
+            android:layout_toRightOf="@id/temperature_max"
+            app:MvxBind="Text TemperatureUnit"
             style="@style/value_text"/>
 
     </RelativeLayout>
