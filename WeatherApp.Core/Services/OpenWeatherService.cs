@@ -91,8 +91,6 @@ namespace DjK.WeatherApp.Core.Services
 
         private string BuildRequestUri(string cityName, string language, bool isMetric)
         {
-            // TODO: customize request based on CultureInfo
-            // CultureInfo cultureInfo = CultureInfo.GetCultureInfo();
             var units = isMetric ? "metric" : "imperial";
             return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&lang={language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
 
