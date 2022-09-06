@@ -7,7 +7,6 @@ using MvvmCross.ViewModels;
 using System;
 using System.Globalization;
 using System.Threading.Tasks;
-using Xamarin.Essentials;
 
 namespace DjK.WeatherApp.Core.ViewModels
 {
@@ -19,6 +18,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         private readonly IMvxNavigationService _navigationService;
         private readonly IWeatherService _weatherService;
         private readonly IFavouritiesService _favouritiesService;
+        private readonly IConnectivityService _connectivityService;
         private readonly ILogger<HomeViewModel> _logger;
         private readonly MvxInteraction<string> _interactionForCitySaved;
 
@@ -89,14 +89,16 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <param name="navigationService">Navigation service.</param>
         /// <param name="weatherService">Weather service.</param>
         /// <param name="favouritiesService">Favourities service.</param>
+        /// <param name="connectivityService">Favourities service.</param>
         /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
         public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
-            IFavouritiesService favouritiesService, ILogger<HomeViewModel> logger)
+            IFavouritiesService favouritiesService, IConnectivityService connectivityService, ILogger<HomeViewModel> logger)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
             _weatherService = weatherService ?? throw new ArgumentNullException(nameof(weatherService));
             _favouritiesService = favouritiesService ?? throw new ArgumentNullException(nameof(favouritiesService));
+            _connectivityService = connectivityService ?? throw new ArgumentNullException(nameof(connectivityService));
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _interactionForCitySaved = new MvxInteraction<string>();
         }
@@ -156,7 +158,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         {
             try
             {
-                if (Connectivity.NetworkAccess != NetworkAccess.Internet)
+                if (!_connectivityService.IsActiveInternetConnection())
                 {
                     ErrorMessage = "No internet connection";
                     return;
