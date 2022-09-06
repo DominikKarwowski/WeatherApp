@@ -2,7 +2,6 @@
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
-using AndroidX.AppCompat.Widget;
 using DjK.WeatherApp.Core.ViewModels;
 using MvvmCross.Platforms.Android.Views;
 
@@ -18,19 +17,16 @@ namespace DjK.WeatherApp.Droid.Views
             SetContentView(Resource.Layout.activity_weather_details);
             SupportActionBar.SetDisplayHomeAsUpEnabled(true);
         }
+
         public override bool OnCreateOptionsMenu(IMenu menu)
         {
-            MenuInflater.Inflate(Resource.Menu.menu_weather_details, menu);
-            return true;
+            return base.OnCreateOptionsMenu(menu);
         }
 
         public override bool OnOptionsItemSelected(IMenuItem item)
         {
             switch (item.ItemId)
             {
-                case Resource.Id.add_to_favourities:
-                    // TODO: add to favourities command
-                    return true;
                 case Android.Resource.Id.Home:
                     ViewModel.CloseCommand.Execute();
                     return true;

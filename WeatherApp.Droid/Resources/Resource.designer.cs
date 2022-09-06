@@ -5066,6 +5066,5047 @@ namespace DjK.WeatherApp.Droid
 			global::MvvmCross.Resource.Xml.standalone_badge_gravity_bottom_start = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
 			global::MvvmCross.Resource.Xml.standalone_badge_gravity_top_start = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_gravity_top_start;
 			global::MvvmCross.Resource.Xml.standalone_badge_offset = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_fade_in = global::DjK.WeatherApp.Droid.Resource.Animation.abc_fade_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_fade_out = global::DjK.WeatherApp.Droid.Resource.Animation.abc_fade_out;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_grow_fade_in_from_bottom = global::DjK.WeatherApp.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_popup_enter = global::DjK.WeatherApp.Droid.Resource.Animation.abc_popup_enter;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_popup_exit = global::DjK.WeatherApp.Droid.Resource.Animation.abc_popup_exit;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_shrink_fade_out_from_bottom = global::DjK.WeatherApp.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_slide_in_bottom = global::DjK.WeatherApp.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_slide_in_top = global::DjK.WeatherApp.Droid.Resource.Animation.abc_slide_in_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_slide_out_bottom = global::DjK.WeatherApp.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_slide_out_top = global::DjK.WeatherApp.Droid.Resource.Animation.abc_slide_out_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_tooltip_enter = global::DjK.WeatherApp.Droid.Resource.Animation.abc_tooltip_enter;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.abc_tooltip_exit = global::DjK.WeatherApp.Droid.Resource.Animation.abc_tooltip_exit;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_checkbox_to_checked_box_inner_merged_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_checkbox_to_checked_box_outer_merged_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_checkbox_to_checked_icon_null_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_checkbox_to_checked_icon_null_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_checkbox_to_unchecked_box_inner_merged_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_checkbox_to_unchecked_check_path_merged_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_checkbox_to_unchecked_icon_null_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_radio_to_off_mtrl_dot_group_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_radio_to_off_mtrl_ring_outer_path_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_radio_to_on_mtrl_dot_group_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation = global::DjK.WeatherApp.Droid.Resource.Animation.btn_radio_to_on_mtrl_ring_outer_path_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.design_bottom_sheet_slide_in = global::DjK.WeatherApp.Droid.Resource.Animation.design_bottom_sheet_slide_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.design_bottom_sheet_slide_out = global::DjK.WeatherApp.Droid.Resource.Animation.design_bottom_sheet_slide_out;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.design_snackbar_in = global::DjK.WeatherApp.Droid.Resource.Animation.design_snackbar_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.design_snackbar_out = global::DjK.WeatherApp.Droid.Resource.Animation.design_snackbar_out;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.fragment_fast_out_extra_slow_in = global::DjK.WeatherApp.Droid.Resource.Animation.fragment_fast_out_extra_slow_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.mtrl_bottom_sheet_slide_in = global::DjK.WeatherApp.Droid.Resource.Animation.mtrl_bottom_sheet_slide_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.mtrl_bottom_sheet_slide_out = global::DjK.WeatherApp.Droid.Resource.Animation.mtrl_bottom_sheet_slide_out;
+			global::MvvmCross.Plugin.Visibility.Resource.Animation.mtrl_card_lowers_interpolator = global::DjK.WeatherApp.Droid.Resource.Animation.mtrl_card_lowers_interpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.design_appbar_state_list_animator = global::DjK.WeatherApp.Droid.Resource.Animator.design_appbar_state_list_animator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.design_fab_hide_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.design_fab_hide_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.design_fab_show_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.design_fab_show_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.fragment_close_enter = global::DjK.WeatherApp.Droid.Resource.Animator.fragment_close_enter;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.fragment_close_exit = global::DjK.WeatherApp.Droid.Resource.Animator.fragment_close_exit;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.fragment_fade_enter = global::DjK.WeatherApp.Droid.Resource.Animator.fragment_fade_enter;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.fragment_fade_exit = global::DjK.WeatherApp.Droid.Resource.Animator.fragment_fade_exit;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.fragment_open_enter = global::DjK.WeatherApp.Droid.Resource.Animator.fragment_open_enter;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.fragment_open_exit = global::DjK.WeatherApp.Droid.Resource.Animator.fragment_open_exit;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.linear_indeterminate_line1_head_interpolator = global::DjK.WeatherApp.Droid.Resource.Animator.linear_indeterminate_line1_head_interpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.linear_indeterminate_line1_tail_interpolator = global::DjK.WeatherApp.Droid.Resource.Animator.linear_indeterminate_line1_tail_interpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.linear_indeterminate_line2_head_interpolator = global::DjK.WeatherApp.Droid.Resource.Animator.linear_indeterminate_line2_head_interpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.linear_indeterminate_line2_tail_interpolator = global::DjK.WeatherApp.Droid.Resource.Animator.linear_indeterminate_line2_tail_interpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_btn_state_list_anim = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_btn_state_list_anim;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_card_state_list_anim = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_card_state_list_anim;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_chip_state_list_anim = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_chip_state_list_anim;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_extended_fab_change_size_collapse_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_extended_fab_change_size_collapse_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_extended_fab_change_size_expand_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_extended_fab_change_size_expand_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_extended_fab_hide_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_extended_fab_hide_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_extended_fab_show_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_extended_fab_show_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_extended_fab_state_list_animator = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_extended_fab_state_list_animator;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_fab_hide_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_fab_show_motion_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::DjK.WeatherApp.Droid.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarDivider = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarDivider;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarItemBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarItemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarPopupTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarSize = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarSplitStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarTabBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarTabStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarTabStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarTabTextStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionBarWidgetTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionDropDownStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionDropDownStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.actionLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionMenuTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionMenuTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.actionMenuTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeCloseButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeCloseContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeCloseContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeCloseDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeCopyDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeCutDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeFindDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModePasteDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModePopupWindowStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeSelectAllDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeShareDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeSplitBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionModeWebSearchDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionOverflowButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionOverflowMenuStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionProviderClass = global::DjK.WeatherApp.Droid.Resource.Attribute.actionProviderClass;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionTextColorAlpha = global::DjK.WeatherApp.Droid.Resource.Attribute.actionTextColorAlpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.actionViewClass = global::DjK.WeatherApp.Droid.Resource.Attribute.actionViewClass;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.activityChooserViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.adjustable = global::DjK.WeatherApp.Droid.Resource.Attribute.adjustable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.alertDialogButtonGroupStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.alertDialogCenterButtons = global::DjK.WeatherApp.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.alertDialogStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.alertDialogStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.alertDialogTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.alertDialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.allowDividerAbove = global::DjK.WeatherApp.Droid.Resource.Attribute.allowDividerAbove;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.allowDividerAfterLastItem = global::DjK.WeatherApp.Droid.Resource.Attribute.allowDividerAfterLastItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.allowDividerBelow = global::DjK.WeatherApp.Droid.Resource.Attribute.allowDividerBelow;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.allowStacking = global::DjK.WeatherApp.Droid.Resource.Attribute.allowStacking;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.alpha = global::DjK.WeatherApp.Droid.Resource.Attribute.alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.alphabeticModifiers = global::DjK.WeatherApp.Droid.Resource.Attribute.alphabeticModifiers;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.altSrc = global::DjK.WeatherApp.Droid.Resource.Attribute.altSrc;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.animationMode = global::DjK.WeatherApp.Droid.Resource.Attribute.animationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.appBarLayoutStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.appBarLayoutStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.applyMotionScene = global::DjK.WeatherApp.Droid.Resource.Attribute.applyMotionScene;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.arcMode = global::DjK.WeatherApp.Droid.Resource.Attribute.arcMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.arrowHeadLength = global::DjK.WeatherApp.Droid.Resource.Attribute.arrowHeadLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.arrowShaftLength = global::DjK.WeatherApp.Droid.Resource.Attribute.arrowShaftLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.attributeName = global::DjK.WeatherApp.Droid.Resource.Attribute.attributeName;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoCompleteTextViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoSizeMaxTextSize = global::DjK.WeatherApp.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoSizeMinTextSize = global::DjK.WeatherApp.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoSizePresetSizes = global::DjK.WeatherApp.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoSizeStepGranularity = global::DjK.WeatherApp.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoSizeTextType = global::DjK.WeatherApp.Droid.Resource.Attribute.autoSizeTextType;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.autoTransition = global::DjK.WeatherApp.Droid.Resource.Attribute.autoTransition;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.background = global::DjK.WeatherApp.Droid.Resource.Attribute.background;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundInsetBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundInsetBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundInsetEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundInsetStart = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundInsetTop = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundInsetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundOverlayColorAlpha = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundOverlayColorAlpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundSplit = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundSplit;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundStacked = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundStacked;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundTint = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.backgroundTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.backgroundTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.badgeGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.badgeGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.badgeStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.badgeStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.badgeTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.badgeTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.barLength = global::DjK.WeatherApp.Droid.Resource.Attribute.barLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.barrierAllowsGoneWidgets = global::DjK.WeatherApp.Droid.Resource.Attribute.barrierAllowsGoneWidgets;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.barrierDirection = global::DjK.WeatherApp.Droid.Resource.Attribute.barrierDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.barrierMargin = global::DjK.WeatherApp.Droid.Resource.Attribute.barrierMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_autoHide = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_autoHide;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_autoShrink = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_autoShrink;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_draggable = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_draggable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_expandedOffset = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_expandedOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_fitToContents = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_fitToContents;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_halfExpandedRatio = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_halfExpandedRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_hideable = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_hideable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_overlapTop = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_overlapTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_peekHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_peekHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_saveFlags = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_saveFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.behavior_skipCollapsed = global::DjK.WeatherApp.Droid.Resource.Attribute.behavior_skipCollapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.borderlessButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.borderWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.borderWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.bottomAppBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.bottomAppBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.bottomNavigationStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.bottomNavigationStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.bottomSheetDialogTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.bottomSheetDialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.bottomSheetStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.bottomSheetStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.boxBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxBackgroundMode = global::DjK.WeatherApp.Droid.Resource.Attribute.boxBackgroundMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxCollapsedPaddingTop = global::DjK.WeatherApp.Droid.Resource.Attribute.boxCollapsedPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxCornerRadiusBottomEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxCornerRadiusBottomStart = global::DjK.WeatherApp.Droid.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxCornerRadiusTopEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxCornerRadiusTopStart = global::DjK.WeatherApp.Droid.Resource.Attribute.boxCornerRadiusTopStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxStrokeColor = global::DjK.WeatherApp.Droid.Resource.Attribute.boxStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxStrokeErrorColor = global::DjK.WeatherApp.Droid.Resource.Attribute.boxStrokeErrorColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.boxStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.boxStrokeWidthFocused = global::DjK.WeatherApp.Droid.Resource.Attribute.boxStrokeWidthFocused;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.brightness = global::DjK.WeatherApp.Droid.Resource.Attribute.brightness;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonBarButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonBarNegativeButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonBarNeutralButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonBarPositiveButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonIconDimen = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonIconDimen;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonPanelSideLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonStyleSmall = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonStyleSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonTint = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.buttonTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.buttonTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.cardBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardCornerRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.cardCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardElevation = global::DjK.WeatherApp.Droid.Resource.Attribute.cardElevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardForegroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.cardForegroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardMaxElevation = global::DjK.WeatherApp.Droid.Resource.Attribute.cardMaxElevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardPreventCornerOverlap = global::DjK.WeatherApp.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardUseCompatPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cardViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.cardViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chainUseRtl = global::DjK.WeatherApp.Droid.Resource.Attribute.chainUseRtl;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkBoxPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.checkBoxPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkboxStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.checkboxStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedButton = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedChip = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedChip;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedIconEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedIconEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedIconMargin = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedIconMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedIconSize = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedIconVisible = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedIconVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.checkedTextViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.chipBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipCornerRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.chipCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipEndPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.chipEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipGroupStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.chipGroupStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.chipIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipIconEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.chipIconEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipIconSize = global::DjK.WeatherApp.Droid.Resource.Attribute.chipIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.chipIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipIconVisible = global::DjK.WeatherApp.Droid.Resource.Attribute.chipIconVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipMinHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.chipMinHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipMinTouchTargetSize = global::DjK.WeatherApp.Droid.Resource.Attribute.chipMinTouchTargetSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipSpacing = global::DjK.WeatherApp.Droid.Resource.Attribute.chipSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipSpacingHorizontal = global::DjK.WeatherApp.Droid.Resource.Attribute.chipSpacingHorizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipSpacingVertical = global::DjK.WeatherApp.Droid.Resource.Attribute.chipSpacingVertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipStandaloneStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.chipStandaloneStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipStartPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.chipStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipStrokeColor = global::DjK.WeatherApp.Droid.Resource.Attribute.chipStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.chipStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.chipStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.chipSurfaceColor = global::DjK.WeatherApp.Droid.Resource.Attribute.chipSurfaceColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.circleRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.circleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.circularProgressIndicatorStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.circularProgressIndicatorStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.clickAction = global::DjK.WeatherApp.Droid.Resource.Attribute.clickAction;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.clockFaceBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.clockFaceBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.clockHandColor = global::DjK.WeatherApp.Droid.Resource.Attribute.clockHandColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.clockIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.clockIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.clockNumberTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.clockNumberTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIconEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIconEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIconEndPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIconEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIconSize = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIconStartPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIconStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeIconVisible = global::DjK.WeatherApp.Droid.Resource.Attribute.closeIconVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.closeItemLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.closeItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.collapseContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.collapseContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.collapsedSize = global::DjK.WeatherApp.Droid.Resource.Attribute.collapsedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.collapsedTitleGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.collapsedTitleGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.collapsedTitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.collapsedTitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.collapseIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.collapseIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.collapsingToolbarLayoutStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.collapsingToolbarLayoutStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.color = global::DjK.WeatherApp.Droid.Resource.Attribute.color;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorAccent = global::DjK.WeatherApp.Droid.Resource.Attribute.colorAccent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorBackgroundFloating = global::DjK.WeatherApp.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorButtonNormal = global::DjK.WeatherApp.Droid.Resource.Attribute.colorButtonNormal;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorControlActivated = global::DjK.WeatherApp.Droid.Resource.Attribute.colorControlActivated;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorControlHighlight = global::DjK.WeatherApp.Droid.Resource.Attribute.colorControlHighlight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorControlNormal = global::DjK.WeatherApp.Droid.Resource.Attribute.colorControlNormal;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorError = global::DjK.WeatherApp.Droid.Resource.Attribute.colorError;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorOnBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.colorOnBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorOnError = global::DjK.WeatherApp.Droid.Resource.Attribute.colorOnError;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorOnPrimary = global::DjK.WeatherApp.Droid.Resource.Attribute.colorOnPrimary;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorOnPrimarySurface = global::DjK.WeatherApp.Droid.Resource.Attribute.colorOnPrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorOnSecondary = global::DjK.WeatherApp.Droid.Resource.Attribute.colorOnSecondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorOnSurface = global::DjK.WeatherApp.Droid.Resource.Attribute.colorOnSurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorPrimary = global::DjK.WeatherApp.Droid.Resource.Attribute.colorPrimary;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorPrimaryDark = global::DjK.WeatherApp.Droid.Resource.Attribute.colorPrimaryDark;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorPrimarySurface = global::DjK.WeatherApp.Droid.Resource.Attribute.colorPrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorPrimaryVariant = global::DjK.WeatherApp.Droid.Resource.Attribute.colorPrimaryVariant;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorSecondary = global::DjK.WeatherApp.Droid.Resource.Attribute.colorSecondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorSecondaryVariant = global::DjK.WeatherApp.Droid.Resource.Attribute.colorSecondaryVariant;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorSurface = global::DjK.WeatherApp.Droid.Resource.Attribute.colorSurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.colorSwitchThumbNormal = global::DjK.WeatherApp.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.commitIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.commitIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.constraints = global::DjK.WeatherApp.Droid.Resource.Attribute.constraints;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.constraintSet = global::DjK.WeatherApp.Droid.Resource.Attribute.constraintSet;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.constraintSetEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.constraintSetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.constraintSetStart = global::DjK.WeatherApp.Droid.Resource.Attribute.constraintSetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.constraint_referenced_ids = global::DjK.WeatherApp.Droid.Resource.Attribute.constraint_referenced_ids;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.constraint_referenced_tags = global::DjK.WeatherApp.Droid.Resource.Attribute.constraint_referenced_tags;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.content = global::DjK.WeatherApp.Droid.Resource.Attribute.content;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.contentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentInsetEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.contentInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentInsetEndWithActions = global::DjK.WeatherApp.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentInsetLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.contentInsetLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentInsetRight = global::DjK.WeatherApp.Droid.Resource.Attribute.contentInsetRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentInsetStart = global::DjK.WeatherApp.Droid.Resource.Attribute.contentInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentInsetStartWithNavigation = global::DjK.WeatherApp.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPaddingBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPaddingBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPaddingEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPaddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPaddingLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPaddingLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPaddingRight = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPaddingRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPaddingStart = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPaddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentPaddingTop = global::DjK.WeatherApp.Droid.Resource.Attribute.contentPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contentScrim = global::DjK.WeatherApp.Droid.Resource.Attribute.contentScrim;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.contrast = global::DjK.WeatherApp.Droid.Resource.Attribute.contrast;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.controlBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.controlBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.coordinatorLayoutStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerFamily = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerFamilyBottomLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerFamilyBottomLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerFamilyBottomRight = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerFamilyBottomRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerFamilyTopLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerFamilyTopLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerFamilyTopRight = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerFamilyTopRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerSize = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerSizeBottomLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerSizeBottomLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerSizeBottomRight = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerSizeBottomRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerSizeTopLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerSizeTopLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.cornerSizeTopRight = global::DjK.WeatherApp.Droid.Resource.Attribute.cornerSizeTopRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.counterEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.counterEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.counterMaxLength = global::DjK.WeatherApp.Droid.Resource.Attribute.counterMaxLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.counterOverflowTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.counterOverflowTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.counterOverflowTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.counterOverflowTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.counterTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.counterTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.counterTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.counterTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.crossfade = global::DjK.WeatherApp.Droid.Resource.Attribute.crossfade;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.currentState = global::DjK.WeatherApp.Droid.Resource.Attribute.currentState;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.curveFit = global::DjK.WeatherApp.Droid.Resource.Attribute.curveFit;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customBoolean = global::DjK.WeatherApp.Droid.Resource.Attribute.customBoolean;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customColorDrawableValue = global::DjK.WeatherApp.Droid.Resource.Attribute.customColorDrawableValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customColorValue = global::DjK.WeatherApp.Droid.Resource.Attribute.customColorValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customDimension = global::DjK.WeatherApp.Droid.Resource.Attribute.customDimension;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customFloatValue = global::DjK.WeatherApp.Droid.Resource.Attribute.customFloatValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customIntegerValue = global::DjK.WeatherApp.Droid.Resource.Attribute.customIntegerValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customNavigationLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.customNavigationLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customPixelDimension = global::DjK.WeatherApp.Droid.Resource.Attribute.customPixelDimension;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.customStringValue = global::DjK.WeatherApp.Droid.Resource.Attribute.customStringValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dayInvalidStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.dayInvalidStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.daySelectedStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.daySelectedStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dayStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.dayStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dayTodayStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.dayTodayStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.defaultDuration = global::DjK.WeatherApp.Droid.Resource.Attribute.defaultDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.defaultQueryHint = global::DjK.WeatherApp.Droid.Resource.Attribute.defaultQueryHint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.defaultState = global::DjK.WeatherApp.Droid.Resource.Attribute.defaultState;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.defaultValue = global::DjK.WeatherApp.Droid.Resource.Attribute.defaultValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.deltaPolarAngle = global::DjK.WeatherApp.Droid.Resource.Attribute.deltaPolarAngle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.deltaPolarRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.deltaPolarRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dependency = global::DjK.WeatherApp.Droid.Resource.Attribute.dependency;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.deriveConstraintsFrom = global::DjK.WeatherApp.Droid.Resource.Attribute.deriveConstraintsFrom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogCornerRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogMessage = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogMessage;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogPreferredPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dialogTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.dialogTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Attribute.disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.displayOptions = global::DjK.WeatherApp.Droid.Resource.Attribute.displayOptions;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.divider = global::DjK.WeatherApp.Droid.Resource.Attribute.divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dividerHorizontal = global::DjK.WeatherApp.Droid.Resource.Attribute.dividerHorizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dividerPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.dividerPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dividerVertical = global::DjK.WeatherApp.Droid.Resource.Attribute.dividerVertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dragDirection = global::DjK.WeatherApp.Droid.Resource.Attribute.dragDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dragScale = global::DjK.WeatherApp.Droid.Resource.Attribute.dragScale;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dragThreshold = global::DjK.WeatherApp.Droid.Resource.Attribute.dragThreshold;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableBottomCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableBottomCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableEndCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableEndCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableLeftCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableLeftCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableRightCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableRightCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableSize = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableStartCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableStartCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableTint = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawableTopCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.drawableTopCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawerArrowStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.drawerArrowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawerLayoutStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.drawerLayoutStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.drawPath = global::DjK.WeatherApp.Droid.Resource.Attribute.drawPath;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dropdownListPreferredItemHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dropDownListViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.dropdownPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.dropdownPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.duration = global::DjK.WeatherApp.Droid.Resource.Attribute.duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.editTextBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.editTextBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.editTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.editTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.editTextPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.editTextPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.editTextStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.editTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.elevation = global::DjK.WeatherApp.Droid.Resource.Attribute.elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.elevationOverlayColor = global::DjK.WeatherApp.Droid.Resource.Attribute.elevationOverlayColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.elevationOverlayEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.elevationOverlayEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.enableCopying = global::DjK.WeatherApp.Droid.Resource.Attribute.enableCopying;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.enabled = global::DjK.WeatherApp.Droid.Resource.Attribute.enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.enableEdgeToEdge = global::DjK.WeatherApp.Droid.Resource.Attribute.enableEdgeToEdge;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.endIconCheckable = global::DjK.WeatherApp.Droid.Resource.Attribute.endIconCheckable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.endIconContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.endIconContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.endIconDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.endIconDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.endIconMode = global::DjK.WeatherApp.Droid.Resource.Attribute.endIconMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.endIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.endIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.endIconTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.endIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.enforceMaterialTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.enforceMaterialTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.enforceTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.enforceTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.ensureMinTouchTargetSize = global::DjK.WeatherApp.Droid.Resource.Attribute.ensureMinTouchTargetSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.entries = global::DjK.WeatherApp.Droid.Resource.Attribute.entries;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.entryValues = global::DjK.WeatherApp.Droid.Resource.Attribute.entryValues;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.errorContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.errorEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorIconDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.errorIconDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.errorIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorIconTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.errorIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.errorTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.errorTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.errorTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandActivityOverflowButtonDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expanded = global::DjK.WeatherApp.Droid.Resource.Attribute.expanded;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedHintEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedHintEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleMargin = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleMarginBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleMarginEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleMarginStart = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleMarginTop = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.expandedTitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.expandedTitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.extendedFloatingActionButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.extendedFloatingActionButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.extendMotionSpec = global::DjK.WeatherApp.Droid.Resource.Attribute.extendMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.extraMultilineHeightEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.extraMultilineHeightEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabAlignmentMode = global::DjK.WeatherApp.Droid.Resource.Attribute.fabAlignmentMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabAnimationMode = global::DjK.WeatherApp.Droid.Resource.Attribute.fabAnimationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabCradleMargin = global::DjK.WeatherApp.Droid.Resource.Attribute.fabCradleMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabCradleRoundedCornerRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabCradleVerticalOffset = global::DjK.WeatherApp.Droid.Resource.Attribute.fabCradleVerticalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabCustomSize = global::DjK.WeatherApp.Droid.Resource.Attribute.fabCustomSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fabSize = global::DjK.WeatherApp.Droid.Resource.Attribute.fabSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fastScrollEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.fastScrollEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fastScrollVerticalThumbDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fastScrollVerticalTrackDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.firstBaselineToTopHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.firstBaselineToTopHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.floatingActionButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.floatingActionButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_firstHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_firstHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_firstHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_firstHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_firstVerticalBias = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_firstVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_firstVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_firstVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_horizontalAlign = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_horizontalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_horizontalBias = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_horizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_horizontalGap = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_horizontalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_horizontalStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_horizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_lastHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_lastHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_lastHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_lastHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_lastVerticalBias = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_lastVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_lastVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_lastVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_maxElementsWrap = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_maxElementsWrap;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_padding = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_verticalAlign = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_verticalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_verticalBias = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_verticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_verticalGap = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_verticalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_verticalStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_verticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.flow_wrapMode = global::DjK.WeatherApp.Droid.Resource.Attribute.flow_wrapMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.font = global::DjK.WeatherApp.Droid.Resource.Attribute.font;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontFamily = global::DjK.WeatherApp.Droid.Resource.Attribute.fontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderAuthority = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderAuthority;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderCerts = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderCerts;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderFetchStrategy = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderFetchTimeout = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderPackage = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderPackage;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderQuery = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderQuery;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontProviderSystemFontFamily = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderSystemFontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.fontStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontVariationSettings = global::DjK.WeatherApp.Droid.Resource.Attribute.fontVariationSettings;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fontWeight = global::DjK.WeatherApp.Droid.Resource.Attribute.fontWeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.forceApplySystemWindowInsetTop = global::DjK.WeatherApp.Droid.Resource.Attribute.forceApplySystemWindowInsetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.foregroundInsidePadding = global::DjK.WeatherApp.Droid.Resource.Attribute.foregroundInsidePadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.fragment = global::DjK.WeatherApp.Droid.Resource.Attribute.fragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.framePosition = global::DjK.WeatherApp.Droid.Resource.Attribute.framePosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.gapBetweenBars = global::DjK.WeatherApp.Droid.Resource.Attribute.gapBetweenBars;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.gestureInsetBottomIgnored = global::DjK.WeatherApp.Droid.Resource.Attribute.gestureInsetBottomIgnored;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.goIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.goIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.haloColor = global::DjK.WeatherApp.Droid.Resource.Attribute.haloColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.haloRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.haloRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.headerLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.headerLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.height = global::DjK.WeatherApp.Droid.Resource.Attribute.height;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.helperText = global::DjK.WeatherApp.Droid.Resource.Attribute.helperText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.helperTextEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.helperTextEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.helperTextTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.helperTextTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.helperTextTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.helperTextTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hideAnimationBehavior = global::DjK.WeatherApp.Droid.Resource.Attribute.hideAnimationBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hideMotionSpec = global::DjK.WeatherApp.Droid.Resource.Attribute.hideMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hideOnContentScroll = global::DjK.WeatherApp.Droid.Resource.Attribute.hideOnContentScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hideOnScroll = global::DjK.WeatherApp.Droid.Resource.Attribute.hideOnScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hintAnimationEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.hintAnimationEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hintEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.hintEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hintTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.hintTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hintTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.hintTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.homeAsUpIndicator = global::DjK.WeatherApp.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.homeLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.homeLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.horizontalOffset = global::DjK.WeatherApp.Droid.Resource.Attribute.horizontalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.hoveredFocusedTranslationZ = global::DjK.WeatherApp.Droid.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.icon = global::DjK.WeatherApp.Droid.Resource.Attribute.icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconEndPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.iconEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.iconGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconifiedByDefault = global::DjK.WeatherApp.Droid.Resource.Attribute.iconifiedByDefault;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.iconPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconSize = global::DjK.WeatherApp.Droid.Resource.Attribute.iconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconSpaceReserved = global::DjK.WeatherApp.Droid.Resource.Attribute.iconSpaceReserved;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconStartPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.iconStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.iconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.iconTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.iconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.imageButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.imageButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indeterminateAnimationType = global::DjK.WeatherApp.Droid.Resource.Attribute.indeterminateAnimationType;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indeterminateProgressStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indicatorColor = global::DjK.WeatherApp.Droid.Resource.Attribute.indicatorColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indicatorDirectionCircular = global::DjK.WeatherApp.Droid.Resource.Attribute.indicatorDirectionCircular;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indicatorDirectionLinear = global::DjK.WeatherApp.Droid.Resource.Attribute.indicatorDirectionLinear;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indicatorInset = global::DjK.WeatherApp.Droid.Resource.Attribute.indicatorInset;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.indicatorSize = global::DjK.WeatherApp.Droid.Resource.Attribute.indicatorSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.initialActivityCount = global::DjK.WeatherApp.Droid.Resource.Attribute.initialActivityCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.initialExpandedChildrenCount = global::DjK.WeatherApp.Droid.Resource.Attribute.initialExpandedChildrenCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.insetForeground = global::DjK.WeatherApp.Droid.Resource.Attribute.insetForeground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.isLightTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.isLightTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.isMaterialTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.isMaterialTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.isPreferenceVisible = global::DjK.WeatherApp.Droid.Resource.Attribute.isPreferenceVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.itemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemFillColor = global::DjK.WeatherApp.Droid.Resource.Attribute.itemFillColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemHorizontalPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.itemHorizontalPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemHorizontalTranslationEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemIconPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.itemIconPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemIconSize = global::DjK.WeatherApp.Droid.Resource.Attribute.itemIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.itemIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemMaxLines = global::DjK.WeatherApp.Droid.Resource.Attribute.itemMaxLines;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.itemPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemRippleColor = global::DjK.WeatherApp.Droid.Resource.Attribute.itemRippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeFillColor = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeFillColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeInsetBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeInsetBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeInsetEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeInsetStart = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemShapeInsetTop = global::DjK.WeatherApp.Droid.Resource.Attribute.itemShapeInsetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemSpacing = global::DjK.WeatherApp.Droid.Resource.Attribute.itemSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemStrokeColor = global::DjK.WeatherApp.Droid.Resource.Attribute.itemStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.itemStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.itemTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemTextAppearanceActive = global::DjK.WeatherApp.Droid.Resource.Attribute.itemTextAppearanceActive;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemTextAppearanceInactive = global::DjK.WeatherApp.Droid.Resource.Attribute.itemTextAppearanceInactive;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.itemTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.itemTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.key = global::DjK.WeatherApp.Droid.Resource.Attribute.key;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.keyboardIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.keyboardIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.keylines = global::DjK.WeatherApp.Droid.Resource.Attribute.keylines;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.keyPositionType = global::DjK.WeatherApp.Droid.Resource.Attribute.keyPositionType;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.labelBehavior = global::DjK.WeatherApp.Droid.Resource.Attribute.labelBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.labelStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.labelStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.labelVisibilityMode = global::DjK.WeatherApp.Droid.Resource.Attribute.labelVisibilityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.lastBaselineToBottomHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.lastBaselineToBottomHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout = global::DjK.WeatherApp.Droid.Resource.Attribute.layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layoutDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.layoutDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layoutDuringTransition = global::DjK.WeatherApp.Droid.Resource.Attribute.layoutDuringTransition;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layoutManager = global::DjK.WeatherApp.Droid.Resource.Attribute.layoutManager;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_anchor = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_anchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_anchorGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_anchorGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_behavior = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_collapseMode = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_collapseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_collapseParallaxMultiplier = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constrainedHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constrainedHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constrainedWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constrainedWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintBaseline_creator = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintBaseline_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintBaseline_toBaselineOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintBaseline_toBaselineOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintBottom_creator = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintBottom_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintBottom_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintBottom_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintBottom_toTopOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintBottom_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintCircle = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintCircle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintCircleAngle = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintCircleAngle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintCircleRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintDimensionRatio = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintDimensionRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintEnd_toEndOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintEnd_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintEnd_toStartOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintEnd_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintGuide_begin = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintGuide_begin;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintGuide_end = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintGuide_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintGuide_percent = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintGuide_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHeight_default = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHeight_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHeight_max = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHeight_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHeight_min = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHeight_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHeight_percent = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHeight_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHorizontal_bias = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHorizontal_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHorizontal_chainStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHorizontal_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintHorizontal_weight = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintHorizontal_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintLeft_creator = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintLeft_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintLeft_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintLeft_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintLeft_toRightOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintLeft_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintRight_creator = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintRight_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintRight_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintRight_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintRight_toRightOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintRight_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintStart_toEndOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintStart_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintStart_toStartOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintStart_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintTag = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintTag;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintTop_creator = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintTop_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintTop_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintTop_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintTop_toTopOf = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintTop_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintVertical_bias = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintVertical_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintVertical_chainStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintVertical_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintVertical_weight = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintVertical_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintWidth_default = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintWidth_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintWidth_max = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintWidth_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintWidth_min = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintWidth_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_constraintWidth_percent = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_constraintWidth_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_dodgeInsetEdges = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_editor_absoluteX = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_editor_absoluteX;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_editor_absoluteY = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_editor_absoluteY;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_goneMarginBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_goneMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_goneMarginEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_goneMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_goneMarginLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_goneMarginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_goneMarginRight = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_goneMarginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_goneMarginStart = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_goneMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_goneMarginTop = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_goneMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_insetEdge = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_insetEdge;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_keyline = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_keyline;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_optimizationLevel = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_optimizationLevel;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_scrollFlags = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_scrollFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.layout_scrollInterpolator = global::DjK.WeatherApp.Droid.Resource.Attribute.layout_scrollInterpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.liftOnScroll = global::DjK.WeatherApp.Droid.Resource.Attribute.liftOnScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.liftOnScrollTargetViewId = global::DjK.WeatherApp.Droid.Resource.Attribute.liftOnScrollTargetViewId;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.limitBoundsTo = global::DjK.WeatherApp.Droid.Resource.Attribute.limitBoundsTo;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.linearProgressIndicatorStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.linearProgressIndicatorStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.lineHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.lineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.lineSpacing = global::DjK.WeatherApp.Droid.Resource.Attribute.lineSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listChoiceBackgroundIndicator = global::DjK.WeatherApp.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listChoiceIndicatorMultipleAnimated = global::DjK.WeatherApp.Droid.Resource.Attribute.listChoiceIndicatorMultipleAnimated;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listChoiceIndicatorSingleAnimated = global::DjK.WeatherApp.Droid.Resource.Attribute.listChoiceIndicatorSingleAnimated;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listDividerAlertDialog = global::DjK.WeatherApp.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listItemLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.listItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.listLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listMenuViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.listMenuViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPopupWindowStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemHeightLarge = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemHeightSmall = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemPaddingEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemPaddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemPaddingLeft = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemPaddingRight = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.listPreferredItemPaddingStart = global::DjK.WeatherApp.Droid.Resource.Attribute.listPreferredItemPaddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.logo = global::DjK.WeatherApp.Droid.Resource.Attribute.logo;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.logoDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.logoDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialAlertDialogBodyTextStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialAlertDialogBodyTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialAlertDialogTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.materialAlertDialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialAlertDialogTitleIconStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialAlertDialogTitleIconStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialAlertDialogTitlePanelStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialAlertDialogTitlePanelStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialAlertDialogTitleTextStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialAlertDialogTitleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialButtonOutlinedStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialButtonOutlinedStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialButtonToggleGroupStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialButtonToggleGroupStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarDay = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarDay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarFullscreenTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarFullscreenTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderCancelButton = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderCancelButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderConfirmButton = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderConfirmButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderDivider = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderDivider;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderSelection = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderSelection;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarHeaderToggleButton = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarHeaderToggleButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarMonth = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarMonth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarMonthNavigationButton = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarMonthNavigationButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCalendarYearNavigationButton = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCalendarYearNavigationButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCardViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCardViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialCircleRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.materialCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialClockStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialClockStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialThemeOverlay = global::DjK.WeatherApp.Droid.Resource.Attribute.materialThemeOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialTimePickerStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.materialTimePickerStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.materialTimePickerTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.materialTimePickerTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxAcceleration = global::DjK.WeatherApp.Droid.Resource.Attribute.maxAcceleration;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxActionInlineWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.maxActionInlineWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxButtonHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.maxButtonHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxCharacterCount = global::DjK.WeatherApp.Droid.Resource.Attribute.maxCharacterCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxImageSize = global::DjK.WeatherApp.Droid.Resource.Attribute.maxImageSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxLines = global::DjK.WeatherApp.Droid.Resource.Attribute.maxLines;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxVelocity = global::DjK.WeatherApp.Droid.Resource.Attribute.maxVelocity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.maxWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.measureWithLargestChild = global::DjK.WeatherApp.Droid.Resource.Attribute.measureWithLargestChild;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.menu = global::DjK.WeatherApp.Droid.Resource.Attribute.menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.menuGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.menuGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.min = global::DjK.WeatherApp.Droid.Resource.Attribute.min;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.minHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.minHideDelay = global::DjK.WeatherApp.Droid.Resource.Attribute.minHideDelay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.minSeparation = global::DjK.WeatherApp.Droid.Resource.Attribute.minSeparation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.minTouchTargetSize = global::DjK.WeatherApp.Droid.Resource.Attribute.minTouchTargetSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.minWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.mock_diagonalsColor = global::DjK.WeatherApp.Droid.Resource.Attribute.mock_diagonalsColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.mock_label = global::DjK.WeatherApp.Droid.Resource.Attribute.mock_label;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.mock_labelBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.mock_labelBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.mock_labelColor = global::DjK.WeatherApp.Droid.Resource.Attribute.mock_labelColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.mock_showDiagonals = global::DjK.WeatherApp.Droid.Resource.Attribute.mock_showDiagonals;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.mock_showLabel = global::DjK.WeatherApp.Droid.Resource.Attribute.mock_showLabel;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDebug = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDebug;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDurationLong1 = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDurationLong1;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDurationLong2 = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDurationLong2;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDurationMedium1 = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDurationMedium1;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDurationMedium2 = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDurationMedium2;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDurationShort1 = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDurationShort1;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionDurationShort2 = global::DjK.WeatherApp.Droid.Resource.Attribute.motionDurationShort2;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionEasingAccelerated = global::DjK.WeatherApp.Droid.Resource.Attribute.motionEasingAccelerated;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionEasingDecelerated = global::DjK.WeatherApp.Droid.Resource.Attribute.motionEasingDecelerated;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionEasingEmphasized = global::DjK.WeatherApp.Droid.Resource.Attribute.motionEasingEmphasized;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionEasingLinear = global::DjK.WeatherApp.Droid.Resource.Attribute.motionEasingLinear;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionEasingStandard = global::DjK.WeatherApp.Droid.Resource.Attribute.motionEasingStandard;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionInterpolator = global::DjK.WeatherApp.Droid.Resource.Attribute.motionInterpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionPath = global::DjK.WeatherApp.Droid.Resource.Attribute.motionPath;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionPathRotate = global::DjK.WeatherApp.Droid.Resource.Attribute.motionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionProgress = global::DjK.WeatherApp.Droid.Resource.Attribute.motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionStagger = global::DjK.WeatherApp.Droid.Resource.Attribute.motionStagger;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motionTarget = global::DjK.WeatherApp.Droid.Resource.Attribute.motionTarget;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motion_postLayoutCollision = global::DjK.WeatherApp.Droid.Resource.Attribute.motion_postLayoutCollision;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.motion_triggerOnCollision = global::DjK.WeatherApp.Droid.Resource.Attribute.motion_triggerOnCollision;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.moveWhenScrollAtTop = global::DjK.WeatherApp.Droid.Resource.Attribute.moveWhenScrollAtTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.multiChoiceItemLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.MvxBind = global::DjK.WeatherApp.Droid.Resource.Attribute.MvxBind;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.MvxDropDownItemTemplate = global::DjK.WeatherApp.Droid.Resource.Attribute.MvxDropDownItemTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.MvxGroupItemTemplate = global::DjK.WeatherApp.Droid.Resource.Attribute.MvxGroupItemTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.MvxItemTemplate = global::DjK.WeatherApp.Droid.Resource.Attribute.MvxItemTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.MvxLang = global::DjK.WeatherApp.Droid.Resource.Attribute.MvxLang;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.MvxTemplate = global::DjK.WeatherApp.Droid.Resource.Attribute.MvxTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.navigationContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.navigationContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.navigationIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.navigationIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.navigationIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.navigationIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.navigationMode = global::DjK.WeatherApp.Droid.Resource.Attribute.navigationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.navigationRailStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.navigationRailStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.navigationViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.navigationViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.negativeButtonText = global::DjK.WeatherApp.Droid.Resource.Attribute.negativeButtonText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.nestedScrollable = global::DjK.WeatherApp.Droid.Resource.Attribute.nestedScrollable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.nestedScrollFlags = global::DjK.WeatherApp.Droid.Resource.Attribute.nestedScrollFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.nestedScrollViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.nestedScrollViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.number = global::DjK.WeatherApp.Droid.Resource.Attribute.number;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.numericModifiers = global::DjK.WeatherApp.Droid.Resource.Attribute.numericModifiers;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.onCross = global::DjK.WeatherApp.Droid.Resource.Attribute.onCross;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.onHide = global::DjK.WeatherApp.Droid.Resource.Attribute.onHide;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.onNegativeCross = global::DjK.WeatherApp.Droid.Resource.Attribute.onNegativeCross;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.onPositiveCross = global::DjK.WeatherApp.Droid.Resource.Attribute.onPositiveCross;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.onShow = global::DjK.WeatherApp.Droid.Resource.Attribute.onShow;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.onTouchUp = global::DjK.WeatherApp.Droid.Resource.Attribute.onTouchUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.order = global::DjK.WeatherApp.Droid.Resource.Attribute.order;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.orderingFromXml = global::DjK.WeatherApp.Droid.Resource.Attribute.orderingFromXml;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.overlapAnchor = global::DjK.WeatherApp.Droid.Resource.Attribute.overlapAnchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.overlay = global::DjK.WeatherApp.Droid.Resource.Attribute.overlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingBottomNoButtons = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingBottomSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingBottomSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingLeftSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingLeftSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingRightSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingRightSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingStart = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingTopNoTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.paddingTopSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Attribute.paddingTopSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.panelBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.panelBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.panelMenuListTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.panelMenuListTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.panelMenuListWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.panelMenuListWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.passwordToggleContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.passwordToggleContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.passwordToggleDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.passwordToggleDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.passwordToggleEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.passwordToggleEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.passwordToggleTint = global::DjK.WeatherApp.Droid.Resource.Attribute.passwordToggleTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.passwordToggleTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.passwordToggleTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.pathMotionArc = global::DjK.WeatherApp.Droid.Resource.Attribute.pathMotionArc;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.path_percent = global::DjK.WeatherApp.Droid.Resource.Attribute.path_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.percentHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.percentHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.percentWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.percentWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.percentX = global::DjK.WeatherApp.Droid.Resource.Attribute.percentX;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.percentY = global::DjK.WeatherApp.Droid.Resource.Attribute.percentY;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.perpendicularPath_percent = global::DjK.WeatherApp.Droid.Resource.Attribute.perpendicularPath_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.persistent = global::DjK.WeatherApp.Droid.Resource.Attribute.persistent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.pivotAnchor = global::DjK.WeatherApp.Droid.Resource.Attribute.pivotAnchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.placeholderText = global::DjK.WeatherApp.Droid.Resource.Attribute.placeholderText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.placeholderTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.placeholderTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.placeholderTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.placeholderTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.placeholder_emptyVisibility = global::DjK.WeatherApp.Droid.Resource.Attribute.placeholder_emptyVisibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.popupMenuBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.popupMenuBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.popupMenuStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.popupMenuStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.popupTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.popupTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.popupWindowStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.popupWindowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.positiveButtonText = global::DjK.WeatherApp.Droid.Resource.Attribute.positiveButtonText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceCategoryStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceCategoryStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceCategoryTitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceCategoryTitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceFragmentCompatStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceFragmentCompatStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceFragmentListStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceFragmentListStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceFragmentStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceFragmentStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceInformationStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceInformationStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceScreenStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceScreenStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preferenceTheme = global::DjK.WeatherApp.Droid.Resource.Attribute.preferenceTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.prefixText = global::DjK.WeatherApp.Droid.Resource.Attribute.prefixText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.prefixTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.prefixTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.prefixTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.prefixTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.preserveIconSpacing = global::DjK.WeatherApp.Droid.Resource.Attribute.preserveIconSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.pressedTranslationZ = global::DjK.WeatherApp.Droid.Resource.Attribute.pressedTranslationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.progressBarPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.progressBarPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.progressBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.progressBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.queryBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.queryBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.queryHint = global::DjK.WeatherApp.Droid.Resource.Attribute.queryHint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.queryPatterns = global::DjK.WeatherApp.Droid.Resource.Attribute.queryPatterns;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.radioButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.radioButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.rangeFillColor = global::DjK.WeatherApp.Droid.Resource.Attribute.rangeFillColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.ratingBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.ratingBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.ratingBarStyleIndicator = global::DjK.WeatherApp.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.ratingBarStyleSmall = global::DjK.WeatherApp.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.recyclerViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.recyclerViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.region_heightLessThan = global::DjK.WeatherApp.Droid.Resource.Attribute.region_heightLessThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.region_heightMoreThan = global::DjK.WeatherApp.Droid.Resource.Attribute.region_heightMoreThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.region_widthLessThan = global::DjK.WeatherApp.Droid.Resource.Attribute.region_widthLessThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.region_widthMoreThan = global::DjK.WeatherApp.Droid.Resource.Attribute.region_widthMoreThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.reverseLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.reverseLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.rippleColor = global::DjK.WeatherApp.Droid.Resource.Attribute.rippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.round = global::DjK.WeatherApp.Droid.Resource.Attribute.round;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.roundPercent = global::DjK.WeatherApp.Droid.Resource.Attribute.roundPercent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.saturation = global::DjK.WeatherApp.Droid.Resource.Attribute.saturation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.scrimAnimationDuration = global::DjK.WeatherApp.Droid.Resource.Attribute.scrimAnimationDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.scrimBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.scrimBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.scrimVisibleHeightTrigger = global::DjK.WeatherApp.Droid.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.searchHintIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.searchHintIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.searchIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.searchIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.searchViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.searchViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.seekBarIncrement = global::DjK.WeatherApp.Droid.Resource.Attribute.seekBarIncrement;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.seekBarPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.seekBarPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.seekBarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.seekBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.selectable = global::DjK.WeatherApp.Droid.Resource.Attribute.selectable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.selectableItemBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.selectableItemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.selectableItemBackgroundBorderless = global::DjK.WeatherApp.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.selectionRequired = global::DjK.WeatherApp.Droid.Resource.Attribute.selectionRequired;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.selectorSize = global::DjK.WeatherApp.Droid.Resource.Attribute.selectorSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shapeAppearanceLargeComponent = global::DjK.WeatherApp.Droid.Resource.Attribute.shapeAppearanceLargeComponent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shapeAppearanceMediumComponent = global::DjK.WeatherApp.Droid.Resource.Attribute.shapeAppearanceMediumComponent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Attribute.shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shapeAppearanceSmallComponent = global::DjK.WeatherApp.Droid.Resource.Attribute.shapeAppearanceSmallComponent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shortcutMatchRequired = global::DjK.WeatherApp.Droid.Resource.Attribute.shortcutMatchRequired;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shouldDisableView = global::DjK.WeatherApp.Droid.Resource.Attribute.shouldDisableView;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showAnimationBehavior = global::DjK.WeatherApp.Droid.Resource.Attribute.showAnimationBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showAsAction = global::DjK.WeatherApp.Droid.Resource.Attribute.showAsAction;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showDelay = global::DjK.WeatherApp.Droid.Resource.Attribute.showDelay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showDividers = global::DjK.WeatherApp.Droid.Resource.Attribute.showDividers;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showMotionSpec = global::DjK.WeatherApp.Droid.Resource.Attribute.showMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showPaths = global::DjK.WeatherApp.Droid.Resource.Attribute.showPaths;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showSeekBarValue = global::DjK.WeatherApp.Droid.Resource.Attribute.showSeekBarValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showText = global::DjK.WeatherApp.Droid.Resource.Attribute.showText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.showTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.showTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.shrinkMotionSpec = global::DjK.WeatherApp.Droid.Resource.Attribute.shrinkMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.singleChoiceItemLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.singleLine = global::DjK.WeatherApp.Droid.Resource.Attribute.singleLine;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.singleLineTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.singleLineTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.singleSelection = global::DjK.WeatherApp.Droid.Resource.Attribute.singleSelection;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.sizePercent = global::DjK.WeatherApp.Droid.Resource.Attribute.sizePercent;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.sliderStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.sliderStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.snackbarButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.snackbarButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.snackbarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.snackbarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.snackbarTextViewStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.snackbarTextViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.spanCount = global::DjK.WeatherApp.Droid.Resource.Attribute.spanCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.spinBars = global::DjK.WeatherApp.Droid.Resource.Attribute.spinBars;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.spinnerDropDownItemStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.spinnerStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.spinnerStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.splitTrack = global::DjK.WeatherApp.Droid.Resource.Attribute.splitTrack;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.srcCompat = global::DjK.WeatherApp.Droid.Resource.Attribute.srcCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.stackFromEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.stackFromEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.staggered = global::DjK.WeatherApp.Droid.Resource.Attribute.staggered;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.startIconCheckable = global::DjK.WeatherApp.Droid.Resource.Attribute.startIconCheckable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.startIconContentDescription = global::DjK.WeatherApp.Droid.Resource.Attribute.startIconContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.startIconDrawable = global::DjK.WeatherApp.Droid.Resource.Attribute.startIconDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.startIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.startIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.startIconTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.startIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.state_above_anchor = global::DjK.WeatherApp.Droid.Resource.Attribute.state_above_anchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.state_collapsed = global::DjK.WeatherApp.Droid.Resource.Attribute.state_collapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.state_collapsible = global::DjK.WeatherApp.Droid.Resource.Attribute.state_collapsible;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.state_dragged = global::DjK.WeatherApp.Droid.Resource.Attribute.state_dragged;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.state_liftable = global::DjK.WeatherApp.Droid.Resource.Attribute.state_liftable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.state_lifted = global::DjK.WeatherApp.Droid.Resource.Attribute.state_lifted;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.statusBarBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.statusBarBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.statusBarForeground = global::DjK.WeatherApp.Droid.Resource.Attribute.statusBarForeground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.statusBarScrim = global::DjK.WeatherApp.Droid.Resource.Attribute.statusBarScrim;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.strokeColor = global::DjK.WeatherApp.Droid.Resource.Attribute.strokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.strokeWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.strokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.subMenuArrow = global::DjK.WeatherApp.Droid.Resource.Attribute.subMenuArrow;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.submitBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.submitBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.subtitle = global::DjK.WeatherApp.Droid.Resource.Attribute.subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.subtitleCentered = global::DjK.WeatherApp.Droid.Resource.Attribute.subtitleCentered;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.subtitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.subtitleTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.subtitleTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.subtitleTextStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.subtitleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.suffixText = global::DjK.WeatherApp.Droid.Resource.Attribute.suffixText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.suffixTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.suffixTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.suffixTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.suffixTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.suggestionRowLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.suggestionRowLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.summary = global::DjK.WeatherApp.Droid.Resource.Attribute.summary;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.summaryOff = global::DjK.WeatherApp.Droid.Resource.Attribute.summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.summaryOn = global::DjK.WeatherApp.Droid.Resource.Attribute.summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchMinWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.switchMinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.switchPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchPreferenceCompatStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.switchPreferenceCompatStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.switchPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.switchStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.switchTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchTextOff = global::DjK.WeatherApp.Droid.Resource.Attribute.switchTextOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.switchTextOn = global::DjK.WeatherApp.Droid.Resource.Attribute.switchTextOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.tabBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabContentStart = global::DjK.WeatherApp.Droid.Resource.Attribute.tabContentStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.tabGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIconTint = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIconTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicator = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicatorAnimationDuration = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicatorAnimationMode = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicatorAnimationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicatorColor = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicatorColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicatorFullWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicatorFullWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicatorGravity = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicatorGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabIndicatorHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.tabIndicatorHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabInlineLabel = global::DjK.WeatherApp.Droid.Resource.Attribute.tabInlineLabel;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabMaxWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.tabMaxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabMinWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.tabMinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabMode = global::DjK.WeatherApp.Droid.Resource.Attribute.tabMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.tabPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabPaddingBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.tabPaddingBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabPaddingEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.tabPaddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabPaddingStart = global::DjK.WeatherApp.Droid.Resource.Attribute.tabPaddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabPaddingTop = global::DjK.WeatherApp.Droid.Resource.Attribute.tabPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabRippleColor = global::DjK.WeatherApp.Droid.Resource.Attribute.tabRippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabSelectedTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.tabSelectedTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.tabStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.tabTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.tabTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tabUnboundedRipple = global::DjK.WeatherApp.Droid.Resource.Attribute.tabUnboundedRipple;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.targetId = global::DjK.WeatherApp.Droid.Resource.Attribute.targetId;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.telltales_tailColor = global::DjK.WeatherApp.Droid.Resource.Attribute.telltales_tailColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.telltales_tailScale = global::DjK.WeatherApp.Droid.Resource.Attribute.telltales_tailScale;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.telltales_velocityMode = global::DjK.WeatherApp.Droid.Resource.Attribute.telltales_velocityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAllCaps = global::DjK.WeatherApp.Droid.Resource.Attribute.textAllCaps;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceBody1 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceBody1;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceBody2 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceBody2;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceButton = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceCaption = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceCaption;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceHeadline1 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceHeadline1;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceHeadline2 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceHeadline2;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceHeadline3 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceHeadline3;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceHeadline4 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceHeadline4;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceHeadline5 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceHeadline5;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceHeadline6 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceHeadline6;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceLargePopupMenu = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceLineHeightEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceLineHeightEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceListItem = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceListItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceListItemSecondary = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceListItemSmall = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceOverline = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceOverline;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearancePopupMenuHeader = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceSearchResultSubtitle = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceSearchResultTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceSmallPopupMenu = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceSubtitle1 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceSubtitle1;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textAppearanceSubtitle2 = global::DjK.WeatherApp.Droid.Resource.Attribute.textAppearanceSubtitle2;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textColorAlertDialogListItem = global::DjK.WeatherApp.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textColorSearchUrl = global::DjK.WeatherApp.Droid.Resource.Attribute.textColorSearchUrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textEndPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.textEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textInputLayoutFocusedRectEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.textInputLayoutFocusedRectEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textInputStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.textInputStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textLocale = global::DjK.WeatherApp.Droid.Resource.Attribute.textLocale;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.textStartPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.textStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.theme = global::DjK.WeatherApp.Droid.Resource.Attribute.theme;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.themeLineHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.themeLineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thickness = global::DjK.WeatherApp.Droid.Resource.Attribute.thickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbColor = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbElevation = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbElevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbStrokeColor = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbTextPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbTextPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbTint = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.thumbTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.thumbTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickColor = global::DjK.WeatherApp.Droid.Resource.Attribute.tickColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickColorActive = global::DjK.WeatherApp.Droid.Resource.Attribute.tickColorActive;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickColorInactive = global::DjK.WeatherApp.Droid.Resource.Attribute.tickColorInactive;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickMark = global::DjK.WeatherApp.Droid.Resource.Attribute.tickMark;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickMarkTint = global::DjK.WeatherApp.Droid.Resource.Attribute.tickMarkTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickMarkTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.tickMarkTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tickVisible = global::DjK.WeatherApp.Droid.Resource.Attribute.tickVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tint = global::DjK.WeatherApp.Droid.Resource.Attribute.tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.tintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.title = global::DjK.WeatherApp.Droid.Resource.Attribute.title;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleCentered = global::DjK.WeatherApp.Droid.Resource.Attribute.titleCentered;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleCollapseMode = global::DjK.WeatherApp.Droid.Resource.Attribute.titleCollapseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleEnabled = global::DjK.WeatherApp.Droid.Resource.Attribute.titleEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleMargin = global::DjK.WeatherApp.Droid.Resource.Attribute.titleMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleMarginBottom = global::DjK.WeatherApp.Droid.Resource.Attribute.titleMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleMarginEnd = global::DjK.WeatherApp.Droid.Resource.Attribute.titleMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleMargins = global::DjK.WeatherApp.Droid.Resource.Attribute.titleMargins;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleMarginStart = global::DjK.WeatherApp.Droid.Resource.Attribute.titleMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleMarginTop = global::DjK.WeatherApp.Droid.Resource.Attribute.titleMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.titleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleTextColor = global::DjK.WeatherApp.Droid.Resource.Attribute.titleTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.titleTextStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.titleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.toolbarId = global::DjK.WeatherApp.Droid.Resource.Attribute.toolbarId;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.toolbarNavigationButtonStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.toolbarStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.toolbarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tooltipForegroundColor = global::DjK.WeatherApp.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tooltipFrameBackground = global::DjK.WeatherApp.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tooltipStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.tooltipStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.tooltipText = global::DjK.WeatherApp.Droid.Resource.Attribute.tooltipText;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.touchAnchorId = global::DjK.WeatherApp.Droid.Resource.Attribute.touchAnchorId;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.touchAnchorSide = global::DjK.WeatherApp.Droid.Resource.Attribute.touchAnchorSide;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.touchRegionId = global::DjK.WeatherApp.Droid.Resource.Attribute.touchRegionId;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.track = global::DjK.WeatherApp.Droid.Resource.Attribute.track;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackColor = global::DjK.WeatherApp.Droid.Resource.Attribute.trackColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackColorActive = global::DjK.WeatherApp.Droid.Resource.Attribute.trackColorActive;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackColorInactive = global::DjK.WeatherApp.Droid.Resource.Attribute.trackColorInactive;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackCornerRadius = global::DjK.WeatherApp.Droid.Resource.Attribute.trackCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackHeight = global::DjK.WeatherApp.Droid.Resource.Attribute.trackHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackThickness = global::DjK.WeatherApp.Droid.Resource.Attribute.trackThickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackTint = global::DjK.WeatherApp.Droid.Resource.Attribute.trackTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.trackTintMode = global::DjK.WeatherApp.Droid.Resource.Attribute.trackTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.transitionDisable = global::DjK.WeatherApp.Droid.Resource.Attribute.transitionDisable;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.transitionEasing = global::DjK.WeatherApp.Droid.Resource.Attribute.transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.transitionFlags = global::DjK.WeatherApp.Droid.Resource.Attribute.transitionFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.transitionPathRotate = global::DjK.WeatherApp.Droid.Resource.Attribute.transitionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.transitionShapeAppearance = global::DjK.WeatherApp.Droid.Resource.Attribute.transitionShapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.triggerId = global::DjK.WeatherApp.Droid.Resource.Attribute.triggerId;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.triggerReceiver = global::DjK.WeatherApp.Droid.Resource.Attribute.triggerReceiver;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.triggerSlack = global::DjK.WeatherApp.Droid.Resource.Attribute.triggerSlack;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.ttcIndex = global::DjK.WeatherApp.Droid.Resource.Attribute.ttcIndex;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.updatesContinuously = global::DjK.WeatherApp.Droid.Resource.Attribute.updatesContinuously;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.useCompatPadding = global::DjK.WeatherApp.Droid.Resource.Attribute.useCompatPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.useMaterialThemeColors = global::DjK.WeatherApp.Droid.Resource.Attribute.useMaterialThemeColors;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.useSimpleSummaryProvider = global::DjK.WeatherApp.Droid.Resource.Attribute.useSimpleSummaryProvider;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.values = global::DjK.WeatherApp.Droid.Resource.Attribute.values;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.verticalOffset = global::DjK.WeatherApp.Droid.Resource.Attribute.verticalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.viewInflaterClass = global::DjK.WeatherApp.Droid.Resource.Attribute.viewInflaterClass;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.visibilityMode = global::DjK.WeatherApp.Droid.Resource.Attribute.visibilityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.voiceIcon = global::DjK.WeatherApp.Droid.Resource.Attribute.voiceIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.warmth = global::DjK.WeatherApp.Droid.Resource.Attribute.warmth;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.waveDecay = global::DjK.WeatherApp.Droid.Resource.Attribute.waveDecay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.waveOffset = global::DjK.WeatherApp.Droid.Resource.Attribute.waveOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.wavePeriod = global::DjK.WeatherApp.Droid.Resource.Attribute.wavePeriod;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.waveShape = global::DjK.WeatherApp.Droid.Resource.Attribute.waveShape;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.waveVariesBy = global::DjK.WeatherApp.Droid.Resource.Attribute.waveVariesBy;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.widgetLayout = global::DjK.WeatherApp.Droid.Resource.Attribute.widgetLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowActionBar = global::DjK.WeatherApp.Droid.Resource.Attribute.windowActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowActionBarOverlay = global::DjK.WeatherApp.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowActionModeOverlay = global::DjK.WeatherApp.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowFixedHeightMajor = global::DjK.WeatherApp.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowFixedHeightMinor = global::DjK.WeatherApp.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowFixedWidthMajor = global::DjK.WeatherApp.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowFixedWidthMinor = global::DjK.WeatherApp.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowMinWidthMajor = global::DjK.WeatherApp.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowMinWidthMinor = global::DjK.WeatherApp.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.windowNoTitle = global::DjK.WeatherApp.Droid.Resource.Attribute.windowNoTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.yearSelectedStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.yearSelectedStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.yearStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.yearStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Attribute.yearTodayStyle = global::DjK.WeatherApp.Droid.Resource.Attribute.yearTodayStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Boolean.abc_action_bar_embed_tabs = global::DjK.WeatherApp.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::MvvmCross.Plugin.Visibility.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::DjK.WeatherApp.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::MvvmCross.Plugin.Visibility.Resource.Boolean.config_materialPreferenceIconSpaceReserved = global::DjK.WeatherApp.Droid.Resource.Boolean.config_materialPreferenceIconSpaceReserved;
+			global::MvvmCross.Plugin.Visibility.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::DjK.WeatherApp.Droid.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_background_cache_hint_selector_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_background_cache_hint_selector_material_light = global::DjK.WeatherApp.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_btn_colored_borderless_text_material = global::DjK.WeatherApp.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_btn_colored_text_material = global::DjK.WeatherApp.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_color_highlight_material = global::DjK.WeatherApp.Droid.Resource.Color.abc_color_highlight_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_decor_view_status_guard = global::DjK.WeatherApp.Droid.Resource.Color.abc_decor_view_status_guard;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_decor_view_status_guard_light = global::DjK.WeatherApp.Droid.Resource.Color.abc_decor_view_status_guard_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_hint_foreground_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_hint_foreground_material_light = global::DjK.WeatherApp.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_primary_text_disable_only_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_primary_text_disable_only_material_light = global::DjK.WeatherApp.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_primary_text_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_primary_text_material_light = global::DjK.WeatherApp.Droid.Resource.Color.abc_primary_text_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_search_url_text = global::DjK.WeatherApp.Droid.Resource.Color.abc_search_url_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_search_url_text_normal = global::DjK.WeatherApp.Droid.Resource.Color.abc_search_url_text_normal;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_search_url_text_pressed = global::DjK.WeatherApp.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_search_url_text_selected = global::DjK.WeatherApp.Droid.Resource.Color.abc_search_url_text_selected;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_secondary_text_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_secondary_text_material_light = global::DjK.WeatherApp.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_tint_btn_checkable = global::DjK.WeatherApp.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_tint_default = global::DjK.WeatherApp.Droid.Resource.Color.abc_tint_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_tint_edittext = global::DjK.WeatherApp.Droid.Resource.Color.abc_tint_edittext;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_tint_seek_thumb = global::DjK.WeatherApp.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_tint_spinner = global::DjK.WeatherApp.Droid.Resource.Color.abc_tint_spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.abc_tint_switch_track = global::DjK.WeatherApp.Droid.Resource.Color.abc_tint_switch_track;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.accent_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.accent_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.accent_material_light = global::DjK.WeatherApp.Droid.Resource.Color.accent_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.androidx_core_ripple_material_light = global::DjK.WeatherApp.Droid.Resource.Color.androidx_core_ripple_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.androidx_core_secondary_text_default_material_light = global::DjK.WeatherApp.Droid.Resource.Color.androidx_core_secondary_text_default_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.background_floating_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.background_floating_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.background_floating_material_light = global::DjK.WeatherApp.Droid.Resource.Color.background_floating_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.background_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.background_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.background_material_light = global::DjK.WeatherApp.Droid.Resource.Color.background_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.bright_foreground_disabled_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.bright_foreground_disabled_material_light = global::DjK.WeatherApp.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.bright_foreground_inverse_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.bright_foreground_inverse_material_light = global::DjK.WeatherApp.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.bright_foreground_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.bright_foreground_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.bright_foreground_material_light = global::DjK.WeatherApp.Droid.Resource.Color.bright_foreground_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.button_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.button_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.button_material_light = global::DjK.WeatherApp.Droid.Resource.Color.button_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.cardview_dark_background = global::DjK.WeatherApp.Droid.Resource.Color.cardview_dark_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.cardview_light_background = global::DjK.WeatherApp.Droid.Resource.Color.cardview_light_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.cardview_shadow_end_color = global::DjK.WeatherApp.Droid.Resource.Color.cardview_shadow_end_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.cardview_shadow_start_color = global::DjK.WeatherApp.Droid.Resource.Color.cardview_shadow_start_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.checkbox_themeable_attribute_color = global::DjK.WeatherApp.Droid.Resource.Color.checkbox_themeable_attribute_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_bottom_navigation_shadow_color = global::DjK.WeatherApp.Droid.Resource.Color.design_bottom_navigation_shadow_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_box_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.design_box_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_background = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_error = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_on_background = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_on_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_on_error = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_on_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_on_primary = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_on_primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_on_secondary = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_on_secondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_on_surface = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_on_surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_primary = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_primary_dark = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_primary_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_primary_variant = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_primary_variant;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_secondary = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_secondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_secondary_variant = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_secondary_variant;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_dark_default_color_surface = global::DjK.WeatherApp.Droid.Resource.Color.design_dark_default_color_surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_background = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_error = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_on_background = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_on_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_on_error = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_on_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_on_primary = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_on_primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_on_secondary = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_on_secondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_on_surface = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_on_surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_primary = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_primary_dark = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_primary_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_primary_variant = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_primary_variant;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_secondary = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_secondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_secondary_variant = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_secondary_variant;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_default_color_surface = global::DjK.WeatherApp.Droid.Resource.Color.design_default_color_surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_error = global::DjK.WeatherApp.Droid.Resource.Color.design_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_shadow_end_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_shadow_end_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_shadow_mid_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_shadow_mid_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_shadow_start_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_shadow_start_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_stroke_end_inner_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_stroke_end_inner_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_stroke_end_outer_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_stroke_end_outer_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_stroke_top_inner_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_stroke_top_inner_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_fab_stroke_top_outer_color = global::DjK.WeatherApp.Droid.Resource.Color.design_fab_stroke_top_outer_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_icon_tint = global::DjK.WeatherApp.Droid.Resource.Color.design_icon_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.design_snackbar_background_color = global::DjK.WeatherApp.Droid.Resource.Color.design_snackbar_background_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.dim_foreground_disabled_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.dim_foreground_disabled_material_light = global::DjK.WeatherApp.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.dim_foreground_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.dim_foreground_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.dim_foreground_material_light = global::DjK.WeatherApp.Droid.Resource.Color.dim_foreground_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.error_color_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.error_color_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.error_color_material_light = global::DjK.WeatherApp.Droid.Resource.Color.error_color_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.foreground_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.foreground_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.foreground_material_light = global::DjK.WeatherApp.Droid.Resource.Color.foreground_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.highlighted_text_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.highlighted_text_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.highlighted_text_material_light = global::DjK.WeatherApp.Droid.Resource.Color.highlighted_text_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_blue_grey_800 = global::DjK.WeatherApp.Droid.Resource.Color.material_blue_grey_800;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_blue_grey_900 = global::DjK.WeatherApp.Droid.Resource.Color.material_blue_grey_900;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_blue_grey_950 = global::DjK.WeatherApp.Droid.Resource.Color.material_blue_grey_950;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_cursor_color = global::DjK.WeatherApp.Droid.Resource.Color.material_cursor_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_deep_teal_200 = global::DjK.WeatherApp.Droid.Resource.Color.material_deep_teal_200;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_deep_teal_500 = global::DjK.WeatherApp.Droid.Resource.Color.material_deep_teal_500;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_100 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_100;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_300 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_300;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_50 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_50;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_600 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_600;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_800 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_800;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_850 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_850;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_grey_900 = global::DjK.WeatherApp.Droid.Resource.Color.material_grey_900;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_background_disabled = global::DjK.WeatherApp.Droid.Resource.Color.material_on_background_disabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_background_emphasis_high_type = global::DjK.WeatherApp.Droid.Resource.Color.material_on_background_emphasis_high_type;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_background_emphasis_medium = global::DjK.WeatherApp.Droid.Resource.Color.material_on_background_emphasis_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_primary_disabled = global::DjK.WeatherApp.Droid.Resource.Color.material_on_primary_disabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_primary_emphasis_high_type = global::DjK.WeatherApp.Droid.Resource.Color.material_on_primary_emphasis_high_type;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_primary_emphasis_medium = global::DjK.WeatherApp.Droid.Resource.Color.material_on_primary_emphasis_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_surface_disabled = global::DjK.WeatherApp.Droid.Resource.Color.material_on_surface_disabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_surface_emphasis_high_type = global::DjK.WeatherApp.Droid.Resource.Color.material_on_surface_emphasis_high_type;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_surface_emphasis_medium = global::DjK.WeatherApp.Droid.Resource.Color.material_on_surface_emphasis_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_on_surface_stroke = global::DjK.WeatherApp.Droid.Resource.Color.material_on_surface_stroke;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_slider_active_tick_marks_color = global::DjK.WeatherApp.Droid.Resource.Color.material_slider_active_tick_marks_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_slider_active_track_color = global::DjK.WeatherApp.Droid.Resource.Color.material_slider_active_track_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_slider_halo_color = global::DjK.WeatherApp.Droid.Resource.Color.material_slider_halo_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_slider_inactive_tick_marks_color = global::DjK.WeatherApp.Droid.Resource.Color.material_slider_inactive_tick_marks_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_slider_inactive_track_color = global::DjK.WeatherApp.Droid.Resource.Color.material_slider_inactive_track_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_slider_thumb_color = global::DjK.WeatherApp.Droid.Resource.Color.material_slider_thumb_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_timepicker_button_background = global::DjK.WeatherApp.Droid.Resource.Color.material_timepicker_button_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_timepicker_button_stroke = global::DjK.WeatherApp.Droid.Resource.Color.material_timepicker_button_stroke;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_timepicker_clockface = global::DjK.WeatherApp.Droid.Resource.Color.material_timepicker_clockface;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_timepicker_clock_text_color = global::DjK.WeatherApp.Droid.Resource.Color.material_timepicker_clock_text_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.material_timepicker_modebutton_tint = global::DjK.WeatherApp.Droid.Resource.Color.material_timepicker_modebutton_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_bg_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_bg_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_stroke_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_text_btn_bg_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_text_btn_bg_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_text_btn_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_text_color_disabled = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_text_color_disabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_text_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_text_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_btn_transparent_bg_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_calendar_item_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_calendar_item_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_calendar_selected_range = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_calendar_selected_range;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_card_view_foreground = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_card_view_foreground;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_card_view_ripple = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_card_view_ripple;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_chip_background_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_chip_background_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_chip_close_icon_tint = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_chip_close_icon_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_chip_surface_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_chip_surface_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_chip_text_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_chip_text_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_choice_chip_background_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_choice_chip_background_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_choice_chip_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_choice_chip_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_choice_chip_text_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_choice_chip_text_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_error = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_fab_bg_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_fab_bg_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_fab_icon_text_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_fab_icon_text_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_fab_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_fab_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_filled_background_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_filled_background_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_filled_icon_tint = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_filled_icon_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_filled_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_filled_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_indicator_text_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_indicator_text_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_bar_colored_item_tint = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_bar_colored_item_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_bar_colored_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_bar_colored_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_bar_item_tint = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_bar_item_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_bar_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_bar_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_item_background_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_item_background_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_item_icon_tint = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_item_icon_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_navigation_item_text_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_navigation_item_text_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_on_primary_text_btn_text_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_on_primary_text_btn_text_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_on_surface_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_on_surface_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_outlined_icon_tint = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_outlined_icon_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_outlined_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_outlined_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_popupmenu_overlay_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_popupmenu_overlay_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_scrim_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_scrim_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_tabs_colored_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_tabs_icon_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_tabs_ripple_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_tabs_ripple_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_textinput_default_box_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_textinput_disabled_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_textinput_disabled_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_textinput_focused_box_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_textinput_focused_box_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.mtrl_text_btn_text_color_selector = global::DjK.WeatherApp.Droid.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.notification_action_color_filter = global::DjK.WeatherApp.Droid.Resource.Color.notification_action_color_filter;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.notification_icon_bg_color = global::DjK.WeatherApp.Droid.Resource.Color.notification_icon_bg_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.preference_fallback_accent_color = global::DjK.WeatherApp.Droid.Resource.Color.preference_fallback_accent_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_dark_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.primary_dark_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_dark_material_light = global::DjK.WeatherApp.Droid.Resource.Color.primary_dark_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.primary_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_material_light = global::DjK.WeatherApp.Droid.Resource.Color.primary_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_text_default_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.primary_text_default_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_text_default_material_light = global::DjK.WeatherApp.Droid.Resource.Color.primary_text_default_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_text_disabled_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.primary_text_disabled_material_light = global::DjK.WeatherApp.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.radiobutton_themeable_attribute_color = global::DjK.WeatherApp.Droid.Resource.Color.radiobutton_themeable_attribute_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.ripple_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.ripple_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.ripple_material_light = global::DjK.WeatherApp.Droid.Resource.Color.ripple_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.secondary_text_default_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.secondary_text_default_material_light = global::DjK.WeatherApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.secondary_text_disabled_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.secondary_text_disabled_material_light = global::DjK.WeatherApp.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.switch_thumb_disabled_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.switch_thumb_disabled_material_light = global::DjK.WeatherApp.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.switch_thumb_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.switch_thumb_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.switch_thumb_material_light = global::DjK.WeatherApp.Droid.Resource.Color.switch_thumb_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.switch_thumb_normal_material_dark = global::DjK.WeatherApp.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.switch_thumb_normal_material_light = global::DjK.WeatherApp.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.test_mtrl_calendar_day = global::DjK.WeatherApp.Droid.Resource.Color.test_mtrl_calendar_day;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.test_mtrl_calendar_day_selected = global::DjK.WeatherApp.Droid.Resource.Color.test_mtrl_calendar_day_selected;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.tooltip_background_dark = global::DjK.WeatherApp.Droid.Resource.Color.tooltip_background_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Color.tooltip_background_light = global::DjK.WeatherApp.Droid.Resource.Color.tooltip_background_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_content_inset_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_default_height_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_default_padding_end_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_default_padding_start_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_elevation_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_stacked_max_height = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_button_min_height_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_button_min_width_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_action_button_min_width_overflow_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_alert_dialog_button_bar_height = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_alert_dialog_button_dimen = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_button_inset_horizontal_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_button_inset_vertical_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_button_padding_horizontal_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_button_padding_vertical_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_config_prefDialogWidth = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_control_corner_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_control_corner_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_control_inset_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_control_inset_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_control_padding_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_control_padding_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_corner_radius_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_fixed_height_major = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_fixed_height_minor = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_fixed_width_major = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_fixed_width_minor = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_min_width_major = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_min_width_minor = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_padding_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_padding_top_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dialog_title_divider_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_disabled_alpha_material_dark = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_disabled_alpha_material_light = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dropdownitem_icon_width = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dropdownitem_text_padding_left = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_dropdownitem_text_padding_right = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_edit_text_inset_bottom_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_edit_text_inset_top_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_floating_window_z = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_floating_window_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_list_item_height_large_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_list_item_height_large_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_list_item_height_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_list_item_height_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_list_item_height_small_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_list_item_height_small_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_list_item_padding_horizontal_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_panel_menu_list_width = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_progress_bar_height_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_search_view_preferred_height = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_search_view_preferred_width = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_seekbar_track_background_height_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_seekbar_track_progress_height_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_select_dialog_padding_start_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_star_big = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_star_big;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_star_medium = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_star_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_star_small = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_star_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_switch_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_switch_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_body_1_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_body_2_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_button_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_caption_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_display_1_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_display_2_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_display_3_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_display_4_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_headline_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_large_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_medium_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_menu_header_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_menu_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_small_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_subhead_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_title_material = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.abc_text_size_title_material_toolbar = global::DjK.WeatherApp.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.action_bar_size = global::DjK.WeatherApp.Droid.Resource.Dimension.action_bar_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.appcompat_dialog_background_inset = global::DjK.WeatherApp.Droid.Resource.Dimension.appcompat_dialog_background_inset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.cardview_compat_inset_shadow = global::DjK.WeatherApp.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.cardview_default_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.cardview_default_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.cardview_default_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.cardview_default_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.clock_face_margin_start = global::DjK.WeatherApp.Droid.Resource.Dimension.clock_face_margin_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_button_inset_horizontal_material = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_button_inset_vertical_material = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_button_padding_horizontal_material = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_button_padding_vertical_material = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_control_corner_material = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_control_corner_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_notification_large_icon_max_height = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.compat_notification_large_icon_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.default_dimension = global::DjK.WeatherApp.Droid.Resource.Dimension.default_dimension;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.def_drawer_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.def_drawer_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_appbar_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_appbar_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_active_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_height = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_item_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_item_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_label_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_label_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_shadow_height = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_navigation_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_navigation_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_sheet_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_sheet_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_sheet_modal_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_bottom_sheet_peek_height_min = global::DjK.WeatherApp.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_border_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_border_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_image_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_image_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_size_mini = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_size_mini;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_size_normal = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_size_normal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_translation_z_hovered_focused = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_fab_translation_z_pressed = global::DjK.WeatherApp.Droid.Resource.Dimension.design_fab_translation_z_pressed;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_icon_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_icon_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_item_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_item_icon_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_item_icon_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_padding_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_padding_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_navigation_separator_vertical_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_action_inline_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_action_text_color_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_action_text_color_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_background_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_padding_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_padding_vertical = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_padding_vertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_snackbar_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_snackbar_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_tab_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_tab_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_tab_scrollable_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.design_tab_scrollable_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_tab_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.design_tab_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_tab_text_size_2line = global::DjK.WeatherApp.Droid.Resource.Dimension.design_tab_text_size_2line;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.design_textinput_caption_translate_y = global::DjK.WeatherApp.Droid.Resource.Dimension.design_textinput_caption_translate_y;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.disabled_alpha_material_dark = global::DjK.WeatherApp.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.disabled_alpha_material_light = global::DjK.WeatherApp.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.fastscroll_default_thickness = global::DjK.WeatherApp.Droid.Resource.Dimension.fastscroll_default_thickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.fastscroll_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.fastscroll_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.fastscroll_minimum_range = global::DjK.WeatherApp.Droid.Resource.Dimension.fastscroll_minimum_range;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.highlight_alpha_material_colored = global::DjK.WeatherApp.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.highlight_alpha_material_dark = global::DjK.WeatherApp.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.highlight_alpha_material_light = global::DjK.WeatherApp.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.hint_alpha_material_dark = global::DjK.WeatherApp.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.hint_alpha_material_light = global::DjK.WeatherApp.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.hint_pressed_alpha_material_dark = global::DjK.WeatherApp.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.hint_pressed_alpha_material_light = global::DjK.WeatherApp.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::DjK.WeatherApp.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::DjK.WeatherApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::DjK.WeatherApp.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_bottom_sheet_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_bottom_sheet_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_display_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_display_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_face_margin_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_face_margin_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_hand_center_dot_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_hand_center_dot_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_hand_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_hand_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_hand_stroke_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_hand_stroke_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_number_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_number_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_period_toggle_height = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_period_toggle_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_period_toggle_margin_left = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_period_toggle_margin_left;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_period_toggle_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_period_toggle_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_clock_size = global::DjK.WeatherApp.Droid.Resource.Dimension.material_clock_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_cursor_inset_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.material_cursor_inset_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_cursor_inset_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_cursor_inset_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_cursor_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_cursor_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_emphasis_disabled = global::DjK.WeatherApp.Droid.Resource.Dimension.material_emphasis_disabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_emphasis_high_type = global::DjK.WeatherApp.Droid.Resource.Dimension.material_emphasis_high_type;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_emphasis_medium = global::DjK.WeatherApp.Droid.Resource.Dimension.material_emphasis_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_filled_edittext_font_1_3_padding_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.material_filled_edittext_font_1_3_padding_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_filled_edittext_font_1_3_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_filled_edittext_font_1_3_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_filled_edittext_font_2_0_padding_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.material_filled_edittext_font_2_0_padding_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_filled_edittext_font_2_0_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_filled_edittext_font_2_0_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_font_1_3_box_collapsed_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_font_1_3_box_collapsed_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_font_2_0_box_collapsed_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_font_2_0_box_collapsed_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_helper_text_default_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_helper_text_default_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_helper_text_font_1_3_padding_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.material_helper_text_font_1_3_padding_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_helper_text_font_1_3_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_helper_text_font_1_3_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_input_text_to_prefix_suffix_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.material_input_text_to_prefix_suffix_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_textinput_default_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_textinput_default_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_textinput_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_textinput_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_textinput_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_textinput_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_text_view_test_line_height = global::DjK.WeatherApp.Droid.Resource.Dimension.material_text_view_test_line_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_text_view_test_line_height_override = global::DjK.WeatherApp.Droid.Resource.Dimension.material_text_view_test_line_height_override;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_timepicker_dialog_buttons_margin_top = global::DjK.WeatherApp.Droid.Resource.Dimension.material_timepicker_dialog_buttons_margin_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_time_picker_minimum_screen_height = global::DjK.WeatherApp.Droid.Resource.Dimension.material_time_picker_minimum_screen_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.material_time_picker_minimum_screen_width = global::DjK.WeatherApp.Droid.Resource.Dimension.material_time_picker_minimum_screen_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_alert_dialog_background_inset_end = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_alert_dialog_background_inset_start = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_alert_dialog_background_inset_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_alert_dialog_background_inset_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_alert_dialog_picker_background_inset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_alert_dialog_picker_background_inset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_horizontal_edge_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_horizontal_edge_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_long_text_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_long_text_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_text_horizontal_edge_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_horizontal_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_horizontal_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_vertical_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_toolbar_action_menu_item_vertical_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_badge_with_text_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_badge_with_text_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_bottom_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_bottomappbar_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_bottomappbar_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_disabled_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_disabled_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_disabled_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_focused_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_focused_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_hovered_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_hovered_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_icon_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_icon_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_inset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_inset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_letter_spacing = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_padding_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_padding_left = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_padding_left;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_padding_right = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_padding_right;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_pressed_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_pressed_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_snackbar_margin_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_snackbar_margin_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_stroke_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_stroke_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_btn_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_btn_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_action_confirm_button_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_action_confirm_button_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_action_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_action_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_action_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_action_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_bottom_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_bottom_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_content_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_content_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_days_of_week_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_days_of_week_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_day_corner = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_day_corner;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_day_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_day_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_day_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_day_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_day_today_stroke = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_day_today_stroke;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_day_vertical_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_day_vertical_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_day_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_day_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_dialog_background_inset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_dialog_background_inset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_content_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_content_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_content_padding_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_divider_thickness = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_divider_thickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_height_fullscreen = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_height_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_selection_line_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_selection_line_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_text_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_text_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_header_toggle_margin_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_header_toggle_margin_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_landscape_header_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_landscape_header_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_maximum_default_fullscreen_minor_axis;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_month_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_month_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_month_vertical_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_month_vertical_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_navigation_bottom_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_navigation_bottom_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_navigation_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_navigation_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_navigation_top_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_navigation_top_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_pre_l_text_clip_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_selection_baseline_to_top_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_bottom_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_selection_text_baseline_to_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_text_input_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_text_input_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_title_baseline_to_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_title_baseline_to_top_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_year_corner = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_year_corner;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_year_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_year_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_year_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_year_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_year_vertical_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_year_vertical_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_calendar_year_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_calendar_year_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_card_checked_icon_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_card_checked_icon_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_card_checked_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_card_checked_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_card_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_card_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_card_dragged_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_card_dragged_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_card_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_card_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_card_spacing = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_card_spacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_chip_pressed_translation_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_chip_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_chip_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_exposed_dropdown_menu_popup_vertical_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_bottom_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_bottom_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_disabled_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_disabled_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_disabled_translation_z = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_disabled_translation_z;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_end_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_end_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_end_padding_icon = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_end_padding_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_icon_text_spacing = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_icon_text_spacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_min_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_min_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_start_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_start_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_start_padding_icon = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_start_padding_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_top_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_top_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_translation_z_base = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_base;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_hovered_focused;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_extended_fab_translation_z_pressed = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_extended_fab_translation_z_pressed;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_fab_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_fab_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_fab_min_touch_target = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_fab_min_touch_target;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_fab_translation_z_pressed = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_high_ripple_default_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_high_ripple_default_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_high_ripple_focused_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_high_ripple_focused_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_high_ripple_hovered_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_high_ripple_hovered_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_high_ripple_pressed_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_high_ripple_pressed_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_large_touch_target = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_large_touch_target;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_low_ripple_default_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_low_ripple_default_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_low_ripple_focused_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_low_ripple_focused_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_low_ripple_hovered_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_low_ripple_hovered_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_low_ripple_pressed_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_low_ripple_pressed_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_min_touch_target_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_min_touch_target_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_bar_item_default_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_bar_item_default_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_bar_item_default_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_bar_item_default_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_item_icon_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_item_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_item_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_item_shape_horizontal_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_item_shape_vertical_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_active_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_active_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_compact_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_compact_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_default_width = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_default_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_icon_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_icon_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_text_bottom_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_text_bottom_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_navigation_rail_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_navigation_rail_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_inset = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_inset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_inset_extra_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_inset_extra_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_inset_medium = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_inset_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_inset_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_inset_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_size = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_size_extra_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_size_extra_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_size_medium = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_size_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_size_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_size_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_track_thickness_extra_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_extra_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_track_thickness_medium = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_circular_track_thickness_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_circular_track_thickness_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_indicator_full_rounded_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_indicator_full_rounded_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_progress_track_thickness = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_progress_track_thickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_shape_corner_size_large_component = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_shape_corner_size_large_component;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_shape_corner_size_medium_component = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_shape_corner_size_medium_component;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_shape_corner_size_small_component = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_shape_corner_size_small_component;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_halo_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_halo_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_label_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_label_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_label_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_label_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_label_square_side = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_label_square_side;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_thumb_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_thumb_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_thumb_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_thumb_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_track_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_track_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_track_side_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_track_side_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_track_top = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_track_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_slider_widget_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_slider_widget_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_snackbar_action_text_color_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_snackbar_action_text_color_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_snackbar_background_overlay_color_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_snackbar_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_snackbar_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_snackbar_message_margin_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_snackbar_message_margin_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_snackbar_padding_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_snackbar_padding_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_switch_thumb_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_switch_thumb_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_counter_margin_start = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_counter_margin_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_end_icon_margin_start = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_end_icon_margin_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_textinput_start_icon_margin_end = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_textinput_start_icon_margin_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_toolbar_default_height = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_toolbar_default_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_tooltip_arrowSize = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_tooltip_arrowSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_tooltip_cornerSize = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_tooltip_cornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_tooltip_minHeight = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_tooltip_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_tooltip_minWidth = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_tooltip_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_tooltip_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_tooltip_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.mtrl_transition_shared_axis_slide_distance = global::DjK.WeatherApp.Droid.Resource.Dimension.mtrl_transition_shared_axis_slide_distance;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_action_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_action_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_action_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_action_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_big_circle_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_content_margin_start = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_content_margin_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_large_icon_height = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_large_icon_width = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_main_column_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_media_narrow_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_right_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_right_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_right_side_padding_top = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_small_icon_background_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_small_icon_size_as_large = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_subtext_size = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_top_pad = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_top_pad;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.notification_top_pad_large_text = global::DjK.WeatherApp.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.preference_dropdown_padding_start = global::DjK.WeatherApp.Droid.Resource.Dimension.preference_dropdown_padding_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.preference_icon_minWidth = global::DjK.WeatherApp.Droid.Resource.Dimension.preference_icon_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.preference_seekbar_padding_horizontal = global::DjK.WeatherApp.Droid.Resource.Dimension.preference_seekbar_padding_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.preference_seekbar_padding_vertical = global::DjK.WeatherApp.Droid.Resource.Dimension.preference_seekbar_padding_vertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.preference_seekbar_value_minWidth = global::DjK.WeatherApp.Droid.Resource.Dimension.preference_seekbar_value_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_mtrl_calendar_day_cornerSize = global::DjK.WeatherApp.Droid.Resource.Dimension.test_mtrl_calendar_day_cornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_active_item_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_active_item_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_active_item_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_active_item_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_active_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_active_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_elevation = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_height = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_icon_size = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_icon_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_item_max_width = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_item_max_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_item_min_width = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_item_min_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_label_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_label_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_shadow_height = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_shadow_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.test_navigation_bar_text_size = global::DjK.WeatherApp.Droid.Resource.Dimension.test_navigation_bar_text_size;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_corner_radius = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_horizontal_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_margin = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_precise_anchor_threshold = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_vertical_padding = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_y_offset_non_touch = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::MvvmCross.Plugin.Visibility.Resource.Dimension.tooltip_y_offset_touch = global::DjK.WeatherApp.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_action_bar_item_background_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_borderless_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_check_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_check_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_check_material_anim = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_check_material_anim;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_colored_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_default_mtrl_shape = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_radio_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_radio_material_anim = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_radio_material_anim;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_cab_background_internal_bg = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_cab_background_top_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_control_background_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_control_background_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_dialog_material_background = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_edit_text_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_edit_text_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_ab_back_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_clear_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_go_search_api_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_menu_overflow_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_search_api_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ic_voice_search_api_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_item_background_holo_dark = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_item_background_holo_light = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_divider_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_divider_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_divider_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_focused_holo = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_longpressed_holo = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_pressed_holo_dark = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_pressed_holo_light = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_selector_disabled_holo_light = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_selector_holo_dark = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_list_selector_holo_light = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_popup_background_mtrl_mult = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ratingbar_indicator_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ratingbar_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_ratingbar_small_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_seekbar_thumb_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_seekbar_tick_mark_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_seekbar_track_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_spinner_textfield_background_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_star_black_48dp = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_star_black_48dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_star_half_black_48dp = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_star_half_black_48dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_switch_thumb_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_switch_track_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_tab_indicator_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_textfield_search_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_text_cursor_material = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_text_select_handle_left_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_text_select_handle_middle_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_text_select_handle_right_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.abc_vector_test = global::DjK.WeatherApp.Droid.Resource.Drawable.abc_vector_test;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.avd_hide_password = global::DjK.WeatherApp.Droid.Resource.Drawable.avd_hide_password;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.avd_show_password = global::DjK.WeatherApp.Droid.Resource.Drawable.avd_show_password;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_checkbox_checked_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_checkbox_checked_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_checkbox_checked_to_unchecked_mtrl_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_checkbox_unchecked_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_checkbox_unchecked_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_checkbox_unchecked_to_checked_mtrl_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_radio_off_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_radio_off_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_radio_off_to_on_mtrl_animation = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_radio_off_to_on_mtrl_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_radio_on_mtrl = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_radio_on_mtrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.btn_radio_on_to_off_mtrl_animation = global::DjK.WeatherApp.Droid.Resource.Drawable.btn_radio_on_to_off_mtrl_animation;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.design_fab_background = global::DjK.WeatherApp.Droid.Resource.Drawable.design_fab_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.design_ic_visibility = global::DjK.WeatherApp.Droid.Resource.Drawable.design_ic_visibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.design_ic_visibility_off = global::DjK.WeatherApp.Droid.Resource.Drawable.design_ic_visibility_off;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.design_password_eye = global::DjK.WeatherApp.Droid.Resource.Drawable.design_password_eye;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.design_snackbar_background = global::DjK.WeatherApp.Droid.Resource.Drawable.design_snackbar_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_arrow_down_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_arrow_down_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_clock_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_clock_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_keyboard_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_keyboard_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_mtrl_checked_circle = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_mtrl_checked_circle;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_mtrl_chip_checked_black = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_mtrl_chip_checked_circle = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.ic_mtrl_chip_close_circle = global::DjK.WeatherApp.Droid.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_cursor_drawable = global::DjK.WeatherApp.Droid.Resource.Drawable.material_cursor_drawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_calendar_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_calendar_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_clear_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_clear_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_edit_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_edit_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_keyboard_arrow_left_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_keyboard_arrow_next_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_keyboard_arrow_next_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_keyboard_arrow_previous_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_keyboard_arrow_previous_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_keyboard_arrow_right_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_menu_arrow_down_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_menu_arrow_down_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.material_ic_menu_arrow_up_black_24dp = global::DjK.WeatherApp.Droid.Resource.Drawable.material_ic_menu_arrow_up_black_24dp;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_dialog_background = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_dialog_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_dropdown_arrow = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_dropdown_arrow;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_ic_arrow_drop_down = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_ic_arrow_drop_down;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_ic_arrow_drop_up = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_ic_arrow_drop_up;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_ic_cancel = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_ic_cancel;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_ic_error = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_ic_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_navigation_bar_item_background = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_navigation_bar_item_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_popupmenu_background = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_popupmenu_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.mtrl_tabs_default_indicator = global::DjK.WeatherApp.Droid.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.navigation_empty_icon = global::DjK.WeatherApp.Droid.Resource.Drawable.navigation_empty_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_action_background = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_action_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_bg = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_bg;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_bg_low = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_bg_low;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_bg_low_normal = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_bg_low_pressed = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_bg_normal = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_bg_normal;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_bg_normal_pressed = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_icon_background = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_icon_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_template_icon_bg = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_template_icon_low_bg = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notification_tile_bg = global::DjK.WeatherApp.Droid.Resource.Drawable.notification_tile_bg;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.notify_panel_notification_icon_bg = global::DjK.WeatherApp.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.preference_list_divider_material = global::DjK.WeatherApp.Droid.Resource.Drawable.preference_list_divider_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.test_custom_background = global::DjK.WeatherApp.Droid.Resource.Drawable.test_custom_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.tooltip_frame_dark = global::DjK.WeatherApp.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Drawable.tooltip_frame_light = global::DjK.WeatherApp.Droid.Resource.Drawable.tooltip_frame_light;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accelerate = global::DjK.WeatherApp.Droid.Resource.Id.accelerate;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_action_clickable_span = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_0 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_0;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_1 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_1;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_10 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_10;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_11 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_11;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_12 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_12;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_13 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_13;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_14 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_14;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_15 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_15;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_16 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_16;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_17 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_17;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_18 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_18;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_19 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_19;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_2 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_2;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_20 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_20;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_21 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_21;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_22 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_22;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_23 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_23;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_24 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_24;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_25 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_25;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_26 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_26;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_27 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_27;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_28 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_28;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_29 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_29;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_3 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_3;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_30 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_30;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_31 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_31;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_4 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_4;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_5 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_5;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_6 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_6;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_7 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_7;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_8 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_8;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.accessibility_custom_action_9 = global::DjK.WeatherApp.Droid.Resource.Id.accessibility_custom_action_9;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.actions = global::DjK.WeatherApp.Droid.Resource.Id.actions;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar = global::DjK.WeatherApp.Droid.Resource.Id.action_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar_activity_content = global::DjK.WeatherApp.Droid.Resource.Id.action_bar_activity_content;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar_container = global::DjK.WeatherApp.Droid.Resource.Id.action_bar_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar_root = global::DjK.WeatherApp.Droid.Resource.Id.action_bar_root;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar_spinner = global::DjK.WeatherApp.Droid.Resource.Id.action_bar_spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar_subtitle = global::DjK.WeatherApp.Droid.Resource.Id.action_bar_subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_bar_title = global::DjK.WeatherApp.Droid.Resource.Id.action_bar_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_container = global::DjK.WeatherApp.Droid.Resource.Id.action_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_context_bar = global::DjK.WeatherApp.Droid.Resource.Id.action_context_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_divider = global::DjK.WeatherApp.Droid.Resource.Id.action_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_image = global::DjK.WeatherApp.Droid.Resource.Id.action_image;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_menu_divider = global::DjK.WeatherApp.Droid.Resource.Id.action_menu_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_menu_presenter = global::DjK.WeatherApp.Droid.Resource.Id.action_menu_presenter;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_mode_bar = global::DjK.WeatherApp.Droid.Resource.Id.action_mode_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_mode_bar_stub = global::DjK.WeatherApp.Droid.Resource.Id.action_mode_bar_stub;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_mode_close_button = global::DjK.WeatherApp.Droid.Resource.Id.action_mode_close_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.action_text = global::DjK.WeatherApp.Droid.Resource.Id.action_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.activity_chooser_view_content = global::DjK.WeatherApp.Droid.Resource.Id.activity_chooser_view_content;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.add = global::DjK.WeatherApp.Droid.Resource.Id.add;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.alertTitle = global::DjK.WeatherApp.Droid.Resource.Id.alertTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.aligned = global::DjK.WeatherApp.Droid.Resource.Id.aligned;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.all = global::DjK.WeatherApp.Droid.Resource.Id.all;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ALT = global::DjK.WeatherApp.Droid.Resource.Id.ALT;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.always = global::DjK.WeatherApp.Droid.Resource.Id.always;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.animateToEnd = global::DjK.WeatherApp.Droid.Resource.Id.animateToEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.animateToStart = global::DjK.WeatherApp.Droid.Resource.Id.animateToStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.arc = global::DjK.WeatherApp.Droid.Resource.Id.arc;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.asConfigured = global::DjK.WeatherApp.Droid.Resource.Id.asConfigured;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.async = global::DjK.WeatherApp.Droid.Resource.Id.async;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.auto = global::DjK.WeatherApp.Droid.Resource.Id.auto;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.autoComplete = global::DjK.WeatherApp.Droid.Resource.Id.autoComplete;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.autoCompleteToEnd = global::DjK.WeatherApp.Droid.Resource.Id.autoCompleteToEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.autoCompleteToStart = global::DjK.WeatherApp.Droid.Resource.Id.autoCompleteToStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.barrier = global::DjK.WeatherApp.Droid.Resource.Id.barrier;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.baseline = global::DjK.WeatherApp.Droid.Resource.Id.baseline;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.beginning = global::DjK.WeatherApp.Droid.Resource.Id.beginning;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.beginOnFirstDraw = global::DjK.WeatherApp.Droid.Resource.Id.beginOnFirstDraw;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.blocking = global::DjK.WeatherApp.Droid.Resource.Id.blocking;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.bottom = global::DjK.WeatherApp.Droid.Resource.Id.bottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.BOTTOM_END = global::DjK.WeatherApp.Droid.Resource.Id.BOTTOM_END;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.BOTTOM_START = global::DjK.WeatherApp.Droid.Resource.Id.BOTTOM_START;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.bounce = global::DjK.WeatherApp.Droid.Resource.Id.bounce;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.buttonPanel = global::DjK.WeatherApp.Droid.Resource.Id.buttonPanel;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.cache_measures = global::DjK.WeatherApp.Droid.Resource.Id.cache_measures;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.cancel_button = global::DjK.WeatherApp.Droid.Resource.Id.cancel_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.center = global::DjK.WeatherApp.Droid.Resource.Id.center;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.center_horizontal = global::DjK.WeatherApp.Droid.Resource.Id.center_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.center_vertical = global::DjK.WeatherApp.Droid.Resource.Id.center_vertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chain = global::DjK.WeatherApp.Droid.Resource.Id.chain;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chains = global::DjK.WeatherApp.Droid.Resource.Id.chains;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.checkbox = global::DjK.WeatherApp.Droid.Resource.Id.checkbox;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.@checked = global::DjK.WeatherApp.Droid.Resource.Id.@checked;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chip = global::DjK.WeatherApp.Droid.Resource.Id.chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chip1 = global::DjK.WeatherApp.Droid.Resource.Id.chip1;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chip2 = global::DjK.WeatherApp.Droid.Resource.Id.chip2;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chip3 = global::DjK.WeatherApp.Droid.Resource.Id.chip3;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chip_group = global::DjK.WeatherApp.Droid.Resource.Id.chip_group;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.chronometer = global::DjK.WeatherApp.Droid.Resource.Id.chronometer;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.circle_center = global::DjK.WeatherApp.Droid.Resource.Id.circle_center;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.clear_text = global::DjK.WeatherApp.Droid.Resource.Id.clear_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.clip_horizontal = global::DjK.WeatherApp.Droid.Resource.Id.clip_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.clip_vertical = global::DjK.WeatherApp.Droid.Resource.Id.clip_vertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.clockwise = global::DjK.WeatherApp.Droid.Resource.Id.clockwise;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.collapseActionView = global::DjK.WeatherApp.Droid.Resource.Id.collapseActionView;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.confirm_button = global::DjK.WeatherApp.Droid.Resource.Id.confirm_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.container = global::DjK.WeatherApp.Droid.Resource.Id.container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.content = global::DjK.WeatherApp.Droid.Resource.Id.content;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.contentPanel = global::DjK.WeatherApp.Droid.Resource.Id.contentPanel;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.contiguous = global::DjK.WeatherApp.Droid.Resource.Id.contiguous;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.coordinator = global::DjK.WeatherApp.Droid.Resource.Id.coordinator;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.cos = global::DjK.WeatherApp.Droid.Resource.Id.cos;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.counterclockwise = global::DjK.WeatherApp.Droid.Resource.Id.counterclockwise;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.CTRL = global::DjK.WeatherApp.Droid.Resource.Id.CTRL;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.custom = global::DjK.WeatherApp.Droid.Resource.Id.custom;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.customPanel = global::DjK.WeatherApp.Droid.Resource.Id.customPanel;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.cut = global::DjK.WeatherApp.Droid.Resource.Id.cut;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.date_picker_actions = global::DjK.WeatherApp.Droid.Resource.Id.date_picker_actions;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.decelerate = global::DjK.WeatherApp.Droid.Resource.Id.decelerate;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.decelerateAndComplete = global::DjK.WeatherApp.Droid.Resource.Id.decelerateAndComplete;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.decor_content_parent = global::DjK.WeatherApp.Droid.Resource.Id.decor_content_parent;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.default_activity_button = global::DjK.WeatherApp.Droid.Resource.Id.default_activity_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.deltaRelative = global::DjK.WeatherApp.Droid.Resource.Id.deltaRelative;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dependency_ordering = global::DjK.WeatherApp.Droid.Resource.Id.dependency_ordering;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.design_bottom_sheet = global::DjK.WeatherApp.Droid.Resource.Id.design_bottom_sheet;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.design_menu_item_action_area = global::DjK.WeatherApp.Droid.Resource.Id.design_menu_item_action_area;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.design_menu_item_action_area_stub = global::DjK.WeatherApp.Droid.Resource.Id.design_menu_item_action_area_stub;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.design_menu_item_text = global::DjK.WeatherApp.Droid.Resource.Id.design_menu_item_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.design_navigation_view = global::DjK.WeatherApp.Droid.Resource.Id.design_navigation_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dialog_button = global::DjK.WeatherApp.Droid.Resource.Id.dialog_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dimensions = global::DjK.WeatherApp.Droid.Resource.Id.dimensions;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.direct = global::DjK.WeatherApp.Droid.Resource.Id.direct;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.disableHome = global::DjK.WeatherApp.Droid.Resource.Id.disableHome;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.disablePostScroll = global::DjK.WeatherApp.Droid.Resource.Id.disablePostScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.disableScroll = global::DjK.WeatherApp.Droid.Resource.Id.disableScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.disjoint = global::DjK.WeatherApp.Droid.Resource.Id.disjoint;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dragDown = global::DjK.WeatherApp.Droid.Resource.Id.dragDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dragEnd = global::DjK.WeatherApp.Droid.Resource.Id.dragEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dragLeft = global::DjK.WeatherApp.Droid.Resource.Id.dragLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dragRight = global::DjK.WeatherApp.Droid.Resource.Id.dragRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dragStart = global::DjK.WeatherApp.Droid.Resource.Id.dragStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dragUp = global::DjK.WeatherApp.Droid.Resource.Id.dragUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.dropdown_menu = global::DjK.WeatherApp.Droid.Resource.Id.dropdown_menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.easeIn = global::DjK.WeatherApp.Droid.Resource.Id.easeIn;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.easeInOut = global::DjK.WeatherApp.Droid.Resource.Id.easeInOut;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.easeOut = global::DjK.WeatherApp.Droid.Resource.Id.easeOut;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.edit_query = global::DjK.WeatherApp.Droid.Resource.Id.edit_query;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.elastic = global::DjK.WeatherApp.Droid.Resource.Id.elastic;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.end = global::DjK.WeatherApp.Droid.Resource.Id.end;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.endToStart = global::DjK.WeatherApp.Droid.Resource.Id.endToStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.enterAlways = global::DjK.WeatherApp.Droid.Resource.Id.enterAlways;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.enterAlwaysCollapsed = global::DjK.WeatherApp.Droid.Resource.Id.enterAlwaysCollapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.exitUntilCollapsed = global::DjK.WeatherApp.Droid.Resource.Id.exitUntilCollapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.expanded_menu = global::DjK.WeatherApp.Droid.Resource.Id.expanded_menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.expand_activities_button = global::DjK.WeatherApp.Droid.Resource.Id.expand_activities_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.fade = global::DjK.WeatherApp.Droid.Resource.Id.fade;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.fill = global::DjK.WeatherApp.Droid.Resource.Id.fill;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.filled = global::DjK.WeatherApp.Droid.Resource.Id.filled;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.fill_horizontal = global::DjK.WeatherApp.Droid.Resource.Id.fill_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.fill_vertical = global::DjK.WeatherApp.Droid.Resource.Id.fill_vertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.fitToContents = global::DjK.WeatherApp.Droid.Resource.Id.fitToContents;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.@fixed = global::DjK.WeatherApp.Droid.Resource.Id.@fixed;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.flip = global::DjK.WeatherApp.Droid.Resource.Id.flip;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.floating = global::DjK.WeatherApp.Droid.Resource.Id.floating;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.forever = global::DjK.WeatherApp.Droid.Resource.Id.forever;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.fragment_container_view_tag = global::DjK.WeatherApp.Droid.Resource.Id.fragment_container_view_tag;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.FUNCTION = global::DjK.WeatherApp.Droid.Resource.Id.FUNCTION;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ghost_view = global::DjK.WeatherApp.Droid.Resource.Id.ghost_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ghost_view_holder = global::DjK.WeatherApp.Droid.Resource.Id.ghost_view_holder;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.gone = global::DjK.WeatherApp.Droid.Resource.Id.gone;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.graph = global::DjK.WeatherApp.Droid.Resource.Id.graph;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.graph_wrap = global::DjK.WeatherApp.Droid.Resource.Id.graph_wrap;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.grouping = global::DjK.WeatherApp.Droid.Resource.Id.grouping;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.groups = global::DjK.WeatherApp.Droid.Resource.Id.groups;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.group_divider = global::DjK.WeatherApp.Droid.Resource.Id.group_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.guideline = global::DjK.WeatherApp.Droid.Resource.Id.guideline;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.header_title = global::DjK.WeatherApp.Droid.Resource.Id.header_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.hideable = global::DjK.WeatherApp.Droid.Resource.Id.hideable;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.home = global::DjK.WeatherApp.Droid.Resource.Id.home;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.homeAsUp = global::DjK.WeatherApp.Droid.Resource.Id.homeAsUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.honorRequest = global::DjK.WeatherApp.Droid.Resource.Id.honorRequest;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.icon = global::DjK.WeatherApp.Droid.Resource.Id.icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.icon_frame = global::DjK.WeatherApp.Droid.Resource.Id.icon_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.icon_group = global::DjK.WeatherApp.Droid.Resource.Id.icon_group;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ifRoom = global::DjK.WeatherApp.Droid.Resource.Id.ifRoom;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ignore = global::DjK.WeatherApp.Droid.Resource.Id.ignore;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ignoreRequest = global::DjK.WeatherApp.Droid.Resource.Id.ignoreRequest;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.image = global::DjK.WeatherApp.Droid.Resource.Id.image;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.info = global::DjK.WeatherApp.Droid.Resource.Id.info;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.invisible = global::DjK.WeatherApp.Droid.Resource.Id.invisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.inward = global::DjK.WeatherApp.Droid.Resource.Id.inward;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.italic = global::DjK.WeatherApp.Droid.Resource.Id.italic;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.item_touch_helper_previous_elevation = global::DjK.WeatherApp.Droid.Resource.Id.item_touch_helper_previous_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.jumpToEnd = global::DjK.WeatherApp.Droid.Resource.Id.jumpToEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.jumpToStart = global::DjK.WeatherApp.Droid.Resource.Id.jumpToStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.labeled = global::DjK.WeatherApp.Droid.Resource.Id.labeled;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.layout = global::DjK.WeatherApp.Droid.Resource.Id.layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.left = global::DjK.WeatherApp.Droid.Resource.Id.left;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.leftToRight = global::DjK.WeatherApp.Droid.Resource.Id.leftToRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.line1 = global::DjK.WeatherApp.Droid.Resource.Id.line1;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.line3 = global::DjK.WeatherApp.Droid.Resource.Id.line3;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.linear = global::DjK.WeatherApp.Droid.Resource.Id.linear;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.listMode = global::DjK.WeatherApp.Droid.Resource.Id.listMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.list_item = global::DjK.WeatherApp.Droid.Resource.Id.list_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.masked = global::DjK.WeatherApp.Droid.Resource.Id.masked;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_clock_display = global::DjK.WeatherApp.Droid.Resource.Id.material_clock_display;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_clock_face = global::DjK.WeatherApp.Droid.Resource.Id.material_clock_face;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_clock_hand = global::DjK.WeatherApp.Droid.Resource.Id.material_clock_hand;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_clock_period_am_button = global::DjK.WeatherApp.Droid.Resource.Id.material_clock_period_am_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_clock_period_pm_button = global::DjK.WeatherApp.Droid.Resource.Id.material_clock_period_pm_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_clock_period_toggle = global::DjK.WeatherApp.Droid.Resource.Id.material_clock_period_toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_hour_text_input = global::DjK.WeatherApp.Droid.Resource.Id.material_hour_text_input;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_hour_tv = global::DjK.WeatherApp.Droid.Resource.Id.material_hour_tv;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_label = global::DjK.WeatherApp.Droid.Resource.Id.material_label;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_minute_text_input = global::DjK.WeatherApp.Droid.Resource.Id.material_minute_text_input;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_minute_tv = global::DjK.WeatherApp.Droid.Resource.Id.material_minute_tv;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_textinput_timepicker = global::DjK.WeatherApp.Droid.Resource.Id.material_textinput_timepicker;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_timepicker_cancel_button = global::DjK.WeatherApp.Droid.Resource.Id.material_timepicker_cancel_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_timepicker_container = global::DjK.WeatherApp.Droid.Resource.Id.material_timepicker_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_timepicker_edit_text = global::DjK.WeatherApp.Droid.Resource.Id.material_timepicker_edit_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_timepicker_mode_button = global::DjK.WeatherApp.Droid.Resource.Id.material_timepicker_mode_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_timepicker_ok_button = global::DjK.WeatherApp.Droid.Resource.Id.material_timepicker_ok_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_timepicker_view = global::DjK.WeatherApp.Droid.Resource.Id.material_timepicker_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.material_value_index = global::DjK.WeatherApp.Droid.Resource.Id.material_value_index;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.message = global::DjK.WeatherApp.Droid.Resource.Id.message;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.META = global::DjK.WeatherApp.Droid.Resource.Id.META;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.middle = global::DjK.WeatherApp.Droid.Resource.Id.middle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mini = global::DjK.WeatherApp.Droid.Resource.Id.mini;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.month_grid = global::DjK.WeatherApp.Droid.Resource.Id.month_grid;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.month_navigation_bar = global::DjK.WeatherApp.Droid.Resource.Id.month_navigation_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.month_navigation_fragment_toggle = global::DjK.WeatherApp.Droid.Resource.Id.month_navigation_fragment_toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.month_navigation_next = global::DjK.WeatherApp.Droid.Resource.Id.month_navigation_next;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.month_navigation_previous = global::DjK.WeatherApp.Droid.Resource.Id.month_navigation_previous;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.month_title = global::DjK.WeatherApp.Droid.Resource.Id.month_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.motion_base = global::DjK.WeatherApp.Droid.Resource.Id.motion_base;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_anchor_parent = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_anchor_parent;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_days_of_week = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_days_of_week;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_day_selector_frame = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_day_selector_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_frame = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_main_pane = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_main_pane;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_months = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_months;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_selection_frame = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_selection_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_text_input_frame = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_text_input_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_calendar_year_selector_frame = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_calendar_year_selector_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_card_checked_layer_id = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_card_checked_layer_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_child_content_container = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_child_content_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_internal_children_alpha_tag = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_motion_snapshot_view = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_motion_snapshot_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_fullscreen = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_header = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_header;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_header_selection_text = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_header_selection_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_header_title_and_selection = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_header_title_and_selection;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_header_toggle = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_header_toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_text_input_date = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_text_input_date;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_text_input_range_end = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_text_input_range_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_text_input_range_start = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_text_input_range_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_picker_title_text = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_picker_title_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.mtrl_view_tag_bottom_padding = global::DjK.WeatherApp.Droid.Resource.Id.mtrl_view_tag_bottom_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.multiply = global::DjK.WeatherApp.Droid.Resource.Id.multiply;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.MvvmCrossTagId = global::DjK.WeatherApp.Droid.Resource.Id.MvvmCrossTagId;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.MvxBindingTagUnique = global::DjK.WeatherApp.Droid.Resource.Id.MvxBindingTagUnique;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.navigation_bar_item_icon_view = global::DjK.WeatherApp.Droid.Resource.Id.navigation_bar_item_icon_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.navigation_bar_item_labels_group = global::DjK.WeatherApp.Droid.Resource.Id.navigation_bar_item_labels_group;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.navigation_bar_item_large_label_view = global::DjK.WeatherApp.Droid.Resource.Id.navigation_bar_item_large_label_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.navigation_bar_item_small_label_view = global::DjK.WeatherApp.Droid.Resource.Id.navigation_bar_item_small_label_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.navigation_header_container = global::DjK.WeatherApp.Droid.Resource.Id.navigation_header_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.never = global::DjK.WeatherApp.Droid.Resource.Id.never;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.none = global::DjK.WeatherApp.Droid.Resource.Id.none;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.normal = global::DjK.WeatherApp.Droid.Resource.Id.normal;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.noScroll = global::DjK.WeatherApp.Droid.Resource.Id.noScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.notification_background = global::DjK.WeatherApp.Droid.Resource.Id.notification_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.notification_main_column = global::DjK.WeatherApp.Droid.Resource.Id.notification_main_column;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.notification_main_column_container = global::DjK.WeatherApp.Droid.Resource.Id.notification_main_column_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.NO_DEBUG = global::DjK.WeatherApp.Droid.Resource.Id.NO_DEBUG;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.off = global::DjK.WeatherApp.Droid.Resource.Id.off;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.on = global::DjK.WeatherApp.Droid.Resource.Id.on;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.outline = global::DjK.WeatherApp.Droid.Resource.Id.outline;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.outward = global::DjK.WeatherApp.Droid.Resource.Id.outward;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.packed = global::DjK.WeatherApp.Droid.Resource.Id.packed;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.parallax = global::DjK.WeatherApp.Droid.Resource.Id.parallax;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.parent = global::DjK.WeatherApp.Droid.Resource.Id.parent;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.parentPanel = global::DjK.WeatherApp.Droid.Resource.Id.parentPanel;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.parentRelative = global::DjK.WeatherApp.Droid.Resource.Id.parentRelative;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.parent_matrix = global::DjK.WeatherApp.Droid.Resource.Id.parent_matrix;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.password_toggle = global::DjK.WeatherApp.Droid.Resource.Id.password_toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.path = global::DjK.WeatherApp.Droid.Resource.Id.path;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.pathRelative = global::DjK.WeatherApp.Droid.Resource.Id.pathRelative;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.peekHeight = global::DjK.WeatherApp.Droid.Resource.Id.peekHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.percent = global::DjK.WeatherApp.Droid.Resource.Id.percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.pin = global::DjK.WeatherApp.Droid.Resource.Id.pin;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.position = global::DjK.WeatherApp.Droid.Resource.Id.position;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.postLayout = global::DjK.WeatherApp.Droid.Resource.Id.postLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.progress_circular = global::DjK.WeatherApp.Droid.Resource.Id.progress_circular;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.progress_horizontal = global::DjK.WeatherApp.Droid.Resource.Id.progress_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.radio = global::DjK.WeatherApp.Droid.Resource.Id.radio;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.ratio = global::DjK.WeatherApp.Droid.Resource.Id.ratio;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.rectangles = global::DjK.WeatherApp.Droid.Resource.Id.rectangles;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.recycler_view = global::DjK.WeatherApp.Droid.Resource.Id.recycler_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.reverseSawtooth = global::DjK.WeatherApp.Droid.Resource.Id.reverseSawtooth;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.right = global::DjK.WeatherApp.Droid.Resource.Id.right;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.rightToLeft = global::DjK.WeatherApp.Droid.Resource.Id.rightToLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.right_icon = global::DjK.WeatherApp.Droid.Resource.Id.right_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.right_side = global::DjK.WeatherApp.Droid.Resource.Id.right_side;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.rounded = global::DjK.WeatherApp.Droid.Resource.Id.rounded;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.row_index_key = global::DjK.WeatherApp.Droid.Resource.Id.row_index_key;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.save_non_transition_alpha = global::DjK.WeatherApp.Droid.Resource.Id.save_non_transition_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.save_overlay_view = global::DjK.WeatherApp.Droid.Resource.Id.save_overlay_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.sawtooth = global::DjK.WeatherApp.Droid.Resource.Id.sawtooth;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.scale = global::DjK.WeatherApp.Droid.Resource.Id.scale;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.screen = global::DjK.WeatherApp.Droid.Resource.Id.screen;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.scroll = global::DjK.WeatherApp.Droid.Resource.Id.scroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.scrollable = global::DjK.WeatherApp.Droid.Resource.Id.scrollable;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.scrollIndicatorDown = global::DjK.WeatherApp.Droid.Resource.Id.scrollIndicatorDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.scrollIndicatorUp = global::DjK.WeatherApp.Droid.Resource.Id.scrollIndicatorUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.scrollView = global::DjK.WeatherApp.Droid.Resource.Id.scrollView;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_badge = global::DjK.WeatherApp.Droid.Resource.Id.search_badge;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_bar = global::DjK.WeatherApp.Droid.Resource.Id.search_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_button = global::DjK.WeatherApp.Droid.Resource.Id.search_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_close_btn = global::DjK.WeatherApp.Droid.Resource.Id.search_close_btn;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_edit_frame = global::DjK.WeatherApp.Droid.Resource.Id.search_edit_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_go_btn = global::DjK.WeatherApp.Droid.Resource.Id.search_go_btn;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_mag_icon = global::DjK.WeatherApp.Droid.Resource.Id.search_mag_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_plate = global::DjK.WeatherApp.Droid.Resource.Id.search_plate;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_src_text = global::DjK.WeatherApp.Droid.Resource.Id.search_src_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.search_voice_btn = global::DjK.WeatherApp.Droid.Resource.Id.search_voice_btn;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.seekbar = global::DjK.WeatherApp.Droid.Resource.Id.seekbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.seekbar_value = global::DjK.WeatherApp.Droid.Resource.Id.seekbar_value;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.selected = global::DjK.WeatherApp.Droid.Resource.Id.selected;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.selection_type = global::DjK.WeatherApp.Droid.Resource.Id.selection_type;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.select_dialog_listview = global::DjK.WeatherApp.Droid.Resource.Id.select_dialog_listview;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.SHIFT = global::DjK.WeatherApp.Droid.Resource.Id.SHIFT;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.shortcut = global::DjK.WeatherApp.Droid.Resource.Id.shortcut;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.showCustom = global::DjK.WeatherApp.Droid.Resource.Id.showCustom;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.showHome = global::DjK.WeatherApp.Droid.Resource.Id.showHome;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.showTitle = global::DjK.WeatherApp.Droid.Resource.Id.showTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.SHOW_ALL = global::DjK.WeatherApp.Droid.Resource.Id.SHOW_ALL;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.SHOW_PATH = global::DjK.WeatherApp.Droid.Resource.Id.SHOW_PATH;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.SHOW_PROGRESS = global::DjK.WeatherApp.Droid.Resource.Id.SHOW_PROGRESS;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.sin = global::DjK.WeatherApp.Droid.Resource.Id.sin;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.skipCollapsed = global::DjK.WeatherApp.Droid.Resource.Id.skipCollapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.slide = global::DjK.WeatherApp.Droid.Resource.Id.slide;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.snackbar_action = global::DjK.WeatherApp.Droid.Resource.Id.snackbar_action;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.snackbar_text = global::DjK.WeatherApp.Droid.Resource.Id.snackbar_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.snap = global::DjK.WeatherApp.Droid.Resource.Id.snap;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.snapMargins = global::DjK.WeatherApp.Droid.Resource.Id.snapMargins;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.spacer = global::DjK.WeatherApp.Droid.Resource.Id.spacer;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.special_effects_controller_view_tag = global::DjK.WeatherApp.Droid.Resource.Id.special_effects_controller_view_tag;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.spinner = global::DjK.WeatherApp.Droid.Resource.Id.spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.spline = global::DjK.WeatherApp.Droid.Resource.Id.spline;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.split_action_bar = global::DjK.WeatherApp.Droid.Resource.Id.split_action_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.spread = global::DjK.WeatherApp.Droid.Resource.Id.spread;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.spread_inside = global::DjK.WeatherApp.Droid.Resource.Id.spread_inside;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.square = global::DjK.WeatherApp.Droid.Resource.Id.square;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.src_atop = global::DjK.WeatherApp.Droid.Resource.Id.src_atop;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.src_in = global::DjK.WeatherApp.Droid.Resource.Id.src_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.src_over = global::DjK.WeatherApp.Droid.Resource.Id.src_over;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.standard = global::DjK.WeatherApp.Droid.Resource.Id.standard;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.start = global::DjK.WeatherApp.Droid.Resource.Id.start;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.startHorizontal = global::DjK.WeatherApp.Droid.Resource.Id.startHorizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.startToEnd = global::DjK.WeatherApp.Droid.Resource.Id.startToEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.startVertical = global::DjK.WeatherApp.Droid.Resource.Id.startVertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.staticLayout = global::DjK.WeatherApp.Droid.Resource.Id.staticLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.staticPostLayout = global::DjK.WeatherApp.Droid.Resource.Id.staticPostLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.stop = global::DjK.WeatherApp.Droid.Resource.Id.stop;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.stretch = global::DjK.WeatherApp.Droid.Resource.Id.stretch;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.submenuarrow = global::DjK.WeatherApp.Droid.Resource.Id.submenuarrow;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.submit_area = global::DjK.WeatherApp.Droid.Resource.Id.submit_area;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.switchWidget = global::DjK.WeatherApp.Droid.Resource.Id.switchWidget;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.SYM = global::DjK.WeatherApp.Droid.Resource.Id.SYM;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tabMode = global::DjK.WeatherApp.Droid.Resource.Id.tabMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_accessibility_actions = global::DjK.WeatherApp.Droid.Resource.Id.tag_accessibility_actions;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_accessibility_clickable_spans = global::DjK.WeatherApp.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_accessibility_heading = global::DjK.WeatherApp.Droid.Resource.Id.tag_accessibility_heading;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_accessibility_pane_title = global::DjK.WeatherApp.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_on_apply_window_listener = global::DjK.WeatherApp.Droid.Resource.Id.tag_on_apply_window_listener;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_on_receive_content_listener = global::DjK.WeatherApp.Droid.Resource.Id.tag_on_receive_content_listener;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_on_receive_content_mime_types = global::DjK.WeatherApp.Droid.Resource.Id.tag_on_receive_content_mime_types;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_screen_reader_focusable = global::DjK.WeatherApp.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_state_description = global::DjK.WeatherApp.Droid.Resource.Id.tag_state_description;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_transition_group = global::DjK.WeatherApp.Droid.Resource.Id.tag_transition_group;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_unhandled_key_event_manager = global::DjK.WeatherApp.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_unhandled_key_listeners = global::DjK.WeatherApp.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.tag_window_insets_animation_callback = global::DjK.WeatherApp.Droid.Resource.Id.tag_window_insets_animation_callback;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.test_checkbox_android_button_tint = global::DjK.WeatherApp.Droid.Resource.Id.test_checkbox_android_button_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.test_checkbox_app_button_tint = global::DjK.WeatherApp.Droid.Resource.Id.test_checkbox_app_button_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.test_radiobutton_android_button_tint = global::DjK.WeatherApp.Droid.Resource.Id.test_radiobutton_android_button_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.test_radiobutton_app_button_tint = global::DjK.WeatherApp.Droid.Resource.Id.test_radiobutton_app_button_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.text = global::DjK.WeatherApp.Droid.Resource.Id.text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.text2 = global::DjK.WeatherApp.Droid.Resource.Id.text2;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textEnd = global::DjK.WeatherApp.Droid.Resource.Id.textEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textinput_counter = global::DjK.WeatherApp.Droid.Resource.Id.textinput_counter;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textinput_error = global::DjK.WeatherApp.Droid.Resource.Id.textinput_error;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textinput_helper_text = global::DjK.WeatherApp.Droid.Resource.Id.textinput_helper_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textinput_placeholder = global::DjK.WeatherApp.Droid.Resource.Id.textinput_placeholder;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textinput_prefix_text = global::DjK.WeatherApp.Droid.Resource.Id.textinput_prefix_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textinput_suffix_text = global::DjK.WeatherApp.Droid.Resource.Id.textinput_suffix_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textSpacerNoButtons = global::DjK.WeatherApp.Droid.Resource.Id.textSpacerNoButtons;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textSpacerNoTitle = global::DjK.WeatherApp.Droid.Resource.Id.textSpacerNoTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textStart = global::DjK.WeatherApp.Droid.Resource.Id.textStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.textTop = global::DjK.WeatherApp.Droid.Resource.Id.textTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.text_input_end_icon = global::DjK.WeatherApp.Droid.Resource.Id.text_input_end_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.text_input_error_icon = global::DjK.WeatherApp.Droid.Resource.Id.text_input_error_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.text_input_start_icon = global::DjK.WeatherApp.Droid.Resource.Id.text_input_start_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.time = global::DjK.WeatherApp.Droid.Resource.Id.time;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.title = global::DjK.WeatherApp.Droid.Resource.Id.title;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.titleDividerNoCustom = global::DjK.WeatherApp.Droid.Resource.Id.titleDividerNoCustom;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.title_template = global::DjK.WeatherApp.Droid.Resource.Id.title_template;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.toggle = global::DjK.WeatherApp.Droid.Resource.Id.toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.top = global::DjK.WeatherApp.Droid.Resource.Id.top;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.topPanel = global::DjK.WeatherApp.Droid.Resource.Id.topPanel;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.TOP_END = global::DjK.WeatherApp.Droid.Resource.Id.TOP_END;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.TOP_START = global::DjK.WeatherApp.Droid.Resource.Id.TOP_START;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.touch_outside = global::DjK.WeatherApp.Droid.Resource.Id.touch_outside;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transitionToEnd = global::DjK.WeatherApp.Droid.Resource.Id.transitionToEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transitionToStart = global::DjK.WeatherApp.Droid.Resource.Id.transitionToStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transition_current_scene = global::DjK.WeatherApp.Droid.Resource.Id.transition_current_scene;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transition_layout_save = global::DjK.WeatherApp.Droid.Resource.Id.transition_layout_save;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transition_position = global::DjK.WeatherApp.Droid.Resource.Id.transition_position;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transition_scene_layoutid_cache = global::DjK.WeatherApp.Droid.Resource.Id.transition_scene_layoutid_cache;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.transition_transform = global::DjK.WeatherApp.Droid.Resource.Id.transition_transform;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.triangle = global::DjK.WeatherApp.Droid.Resource.Id.triangle;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.@unchecked = global::DjK.WeatherApp.Droid.Resource.Id.@unchecked;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.uniform = global::DjK.WeatherApp.Droid.Resource.Id.uniform;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.unlabeled = global::DjK.WeatherApp.Droid.Resource.Id.unlabeled;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.up = global::DjK.WeatherApp.Droid.Resource.Id.up;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.useLogo = global::DjK.WeatherApp.Droid.Resource.Id.useLogo;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.view_offset_helper = global::DjK.WeatherApp.Droid.Resource.Id.view_offset_helper;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.view_tree_lifecycle_owner = global::DjK.WeatherApp.Droid.Resource.Id.view_tree_lifecycle_owner;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.view_tree_saved_state_registry_owner = global::DjK.WeatherApp.Droid.Resource.Id.view_tree_saved_state_registry_owner;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.view_tree_view_model_store_owner = global::DjK.WeatherApp.Droid.Resource.Id.view_tree_view_model_store_owner;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.visible = global::DjK.WeatherApp.Droid.Resource.Id.visible;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.visible_removing_fragment_view_tag = global::DjK.WeatherApp.Droid.Resource.Id.visible_removing_fragment_view_tag;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.withinBounds = global::DjK.WeatherApp.Droid.Resource.Id.withinBounds;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.withText = global::DjK.WeatherApp.Droid.Resource.Id.withText;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.wrap = global::DjK.WeatherApp.Droid.Resource.Id.wrap;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.wrap_content = global::DjK.WeatherApp.Droid.Resource.Id.wrap_content;
+			global::MvvmCross.Plugin.Visibility.Resource.Id.zero_corner_chip = global::DjK.WeatherApp.Droid.Resource.Id.zero_corner_chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.abc_config_activityDefaultDur = global::DjK.WeatherApp.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.abc_config_activityShortDur = global::DjK.WeatherApp.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.app_bar_elevation_anim_duration = global::DjK.WeatherApp.Droid.Resource.Integer.app_bar_elevation_anim_duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.bottom_sheet_slide_duration = global::DjK.WeatherApp.Droid.Resource.Integer.bottom_sheet_slide_duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.cancel_button_image_alpha = global::DjK.WeatherApp.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.config_tooltipAnimTime = global::DjK.WeatherApp.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.design_snackbar_text_max_lines = global::DjK.WeatherApp.Droid.Resource.Integer.design_snackbar_text_max_lines;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.design_tab_indicator_anim_duration_ms = global::DjK.WeatherApp.Droid.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.hide_password_duration = global::DjK.WeatherApp.Droid.Resource.Integer.hide_password_duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_duration_long_1 = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_duration_long_1;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_duration_long_2 = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_duration_long_2;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_duration_medium_1 = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_duration_medium_1;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_duration_medium_2 = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_duration_medium_2;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_duration_short_1 = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_duration_short_1;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_duration_short_2 = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_duration_short_2;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.material_motion_path = global::DjK.WeatherApp.Droid.Resource.Integer.material_motion_path;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_badge_max_character_count = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_badge_max_character_count;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_btn_anim_delay_ms = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_btn_anim_duration_ms = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_calendar_header_orientation = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_calendar_header_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_calendar_selection_text_lines = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_calendar_selection_text_lines;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_calendar_year_selector_span = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_calendar_year_selector_span;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_card_anim_delay_ms = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_card_anim_delay_ms;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_card_anim_duration_ms = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_card_anim_duration_ms;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_chip_anim_duration = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_chip_anim_duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::DjK.WeatherApp.Droid.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.show_password_duration = global::DjK.WeatherApp.Droid.Resource.Integer.show_password_duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Integer.status_bar_notification_info_maxnum = global::DjK.WeatherApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0 = global::DjK.WeatherApp.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_0;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1 = global::DjK.WeatherApp.Droid.Resource.Interpolator.btn_checkbox_checked_mtrl_animation_interpolator_1;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0 = global::DjK.WeatherApp.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_0;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1 = global::DjK.WeatherApp.Droid.Resource.Interpolator.btn_checkbox_unchecked_mtrl_animation_interpolator_1;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0 = global::DjK.WeatherApp.Droid.Resource.Interpolator.btn_radio_to_off_mtrl_animation_interpolator_0;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0 = global::DjK.WeatherApp.Droid.Resource.Interpolator.btn_radio_to_on_mtrl_animation_interpolator_0;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.fast_out_slow_in = global::DjK.WeatherApp.Droid.Resource.Interpolator.fast_out_slow_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.mtrl_fast_out_linear_in = global::DjK.WeatherApp.Droid.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.mtrl_fast_out_slow_in = global::DjK.WeatherApp.Droid.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.mtrl_linear = global::DjK.WeatherApp.Droid.Resource.Interpolator.mtrl_linear;
+			global::MvvmCross.Plugin.Visibility.Resource.Interpolator.mtrl_linear_out_slow_in = global::DjK.WeatherApp.Droid.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_action_bar_title_item = global::DjK.WeatherApp.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_action_bar_up_container = global::DjK.WeatherApp.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_action_menu_item_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_action_menu_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_action_menu_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_action_mode_bar = global::DjK.WeatherApp.Droid.Resource.Layout.abc_action_mode_bar;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_action_mode_close_item_material = global::DjK.WeatherApp.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_activity_chooser_view = global::DjK.WeatherApp.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_activity_chooser_view_list_item = global::DjK.WeatherApp.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_alert_dialog_button_bar_material = global::DjK.WeatherApp.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_alert_dialog_material = global::DjK.WeatherApp.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_alert_dialog_title_material = global::DjK.WeatherApp.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_cascading_menu_item_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_cascading_menu_item_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_dialog_title_material = global::DjK.WeatherApp.Droid.Resource.Layout.abc_dialog_title_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_expanded_menu_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_list_menu_item_checkbox = global::DjK.WeatherApp.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_list_menu_item_icon = global::DjK.WeatherApp.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_list_menu_item_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_list_menu_item_radio = global::DjK.WeatherApp.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_popup_menu_header_item_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_popup_menu_item_layout = global::DjK.WeatherApp.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_screen_content_include = global::DjK.WeatherApp.Droid.Resource.Layout.abc_screen_content_include;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_screen_simple = global::DjK.WeatherApp.Droid.Resource.Layout.abc_screen_simple;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_screen_simple_overlay_action_mode = global::DjK.WeatherApp.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_screen_toolbar = global::DjK.WeatherApp.Droid.Resource.Layout.abc_screen_toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_search_dropdown_item_icons_2line = global::DjK.WeatherApp.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_search_view = global::DjK.WeatherApp.Droid.Resource.Layout.abc_search_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_select_dialog_material = global::DjK.WeatherApp.Droid.Resource.Layout.abc_select_dialog_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.abc_tooltip = global::DjK.WeatherApp.Droid.Resource.Layout.abc_tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.custom_dialog = global::DjK.WeatherApp.Droid.Resource.Layout.custom_dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_bottom_navigation_item = global::DjK.WeatherApp.Droid.Resource.Layout.design_bottom_navigation_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_bottom_sheet_dialog = global::DjK.WeatherApp.Droid.Resource.Layout.design_bottom_sheet_dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_layout_snackbar = global::DjK.WeatherApp.Droid.Resource.Layout.design_layout_snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_layout_snackbar_include = global::DjK.WeatherApp.Droid.Resource.Layout.design_layout_snackbar_include;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_layout_tab_icon = global::DjK.WeatherApp.Droid.Resource.Layout.design_layout_tab_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_layout_tab_text = global::DjK.WeatherApp.Droid.Resource.Layout.design_layout_tab_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_menu_item_action_area = global::DjK.WeatherApp.Droid.Resource.Layout.design_menu_item_action_area;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_navigation_item = global::DjK.WeatherApp.Droid.Resource.Layout.design_navigation_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_navigation_item_header = global::DjK.WeatherApp.Droid.Resource.Layout.design_navigation_item_header;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_navigation_item_separator = global::DjK.WeatherApp.Droid.Resource.Layout.design_navigation_item_separator;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_navigation_item_subheader = global::DjK.WeatherApp.Droid.Resource.Layout.design_navigation_item_subheader;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_navigation_menu = global::DjK.WeatherApp.Droid.Resource.Layout.design_navigation_menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_navigation_menu_item = global::DjK.WeatherApp.Droid.Resource.Layout.design_navigation_menu_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_text_input_end_icon = global::DjK.WeatherApp.Droid.Resource.Layout.design_text_input_end_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.design_text_input_start_icon = global::DjK.WeatherApp.Droid.Resource.Layout.design_text_input_start_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.expand_button = global::DjK.WeatherApp.Droid.Resource.Layout.expand_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.image_frame = global::DjK.WeatherApp.Droid.Resource.Layout.image_frame;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_chip_input_combo = global::DjK.WeatherApp.Droid.Resource.Layout.material_chip_input_combo;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_clockface_textview = global::DjK.WeatherApp.Droid.Resource.Layout.material_clockface_textview;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_clockface_view = global::DjK.WeatherApp.Droid.Resource.Layout.material_clockface_view;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_clock_display = global::DjK.WeatherApp.Droid.Resource.Layout.material_clock_display;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_clock_display_divider = global::DjK.WeatherApp.Droid.Resource.Layout.material_clock_display_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_clock_period_toggle = global::DjK.WeatherApp.Droid.Resource.Layout.material_clock_period_toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_clock_period_toggle_land = global::DjK.WeatherApp.Droid.Resource.Layout.material_clock_period_toggle_land;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_radial_view_group = global::DjK.WeatherApp.Droid.Resource.Layout.material_radial_view_group;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_textinput_timepicker = global::DjK.WeatherApp.Droid.Resource.Layout.material_textinput_timepicker;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_timepicker = global::DjK.WeatherApp.Droid.Resource.Layout.material_timepicker;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_timepicker_dialog = global::DjK.WeatherApp.Droid.Resource.Layout.material_timepicker_dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_timepicker_textinput_display = global::DjK.WeatherApp.Droid.Resource.Layout.material_timepicker_textinput_display;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_time_chip = global::DjK.WeatherApp.Droid.Resource.Layout.material_time_chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.material_time_input = global::DjK.WeatherApp.Droid.Resource.Layout.material_time_input;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_alert_dialog = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_alert_dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_alert_dialog_actions = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_alert_dialog_actions;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_alert_dialog_title = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_alert_dialog_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_alert_select_dialog_item = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_alert_select_dialog_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_alert_select_dialog_multichoice = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_alert_select_dialog_multichoice;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_alert_select_dialog_singlechoice = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_alert_select_dialog_singlechoice;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_day = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_day;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_days_of_week = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_days_of_week;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_day_of_week = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_day_of_week;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_horizontal = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_month = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_month;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_months = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_months;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_month_labeled = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_month_labeled;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_month_navigation = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_month_navigation;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_vertical = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_vertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_calendar_year = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_calendar_year;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_layout_snackbar = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_layout_snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_layout_snackbar_include = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_layout_snackbar_include;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_navigation_rail_item = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_navigation_rail_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_actions = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_actions;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_dialog = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_fullscreen = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_header_dialog = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_header_dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_header_fullscreen = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_header_fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_header_selection_text = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_header_selection_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_header_title_text = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_header_title_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_header_toggle = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_header_toggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_text_input_date = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_text_input_date;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.mtrl_picker_text_input_date_range = global::DjK.WeatherApp.Droid.Resource.Layout.mtrl_picker_text_input_date_range;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.notification_action = global::DjK.WeatherApp.Droid.Resource.Layout.notification_action;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.notification_action_tombstone = global::DjK.WeatherApp.Droid.Resource.Layout.notification_action_tombstone;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.notification_template_custom_big = global::DjK.WeatherApp.Droid.Resource.Layout.notification_template_custom_big;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.notification_template_icon_group = global::DjK.WeatherApp.Droid.Resource.Layout.notification_template_icon_group;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.notification_template_part_chronometer = global::DjK.WeatherApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.notification_template_part_time = global::DjK.WeatherApp.Droid.Resource.Layout.notification_template_part_time;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference = global::DjK.WeatherApp.Droid.Resource.Layout.preference;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_category = global::DjK.WeatherApp.Droid.Resource.Layout.preference_category;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_category_material = global::DjK.WeatherApp.Droid.Resource.Layout.preference_category_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_dialog_edittext = global::DjK.WeatherApp.Droid.Resource.Layout.preference_dialog_edittext;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_dropdown = global::DjK.WeatherApp.Droid.Resource.Layout.preference_dropdown;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_dropdown_material = global::DjK.WeatherApp.Droid.Resource.Layout.preference_dropdown_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_information = global::DjK.WeatherApp.Droid.Resource.Layout.preference_information;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_information_material = global::DjK.WeatherApp.Droid.Resource.Layout.preference_information_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_list_fragment = global::DjK.WeatherApp.Droid.Resource.Layout.preference_list_fragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_material = global::DjK.WeatherApp.Droid.Resource.Layout.preference_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_recyclerview = global::DjK.WeatherApp.Droid.Resource.Layout.preference_recyclerview;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_widget_checkbox = global::DjK.WeatherApp.Droid.Resource.Layout.preference_widget_checkbox;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_widget_seekbar = global::DjK.WeatherApp.Droid.Resource.Layout.preference_widget_seekbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_widget_seekbar_material = global::DjK.WeatherApp.Droid.Resource.Layout.preference_widget_seekbar_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_widget_switch = global::DjK.WeatherApp.Droid.Resource.Layout.preference_widget_switch;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.preference_widget_switch_compat = global::DjK.WeatherApp.Droid.Resource.Layout.preference_widget_switch_compat;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.select_dialog_item_material = global::DjK.WeatherApp.Droid.Resource.Layout.select_dialog_item_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.select_dialog_multichoice_material = global::DjK.WeatherApp.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.select_dialog_singlechoice_material = global::DjK.WeatherApp.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.support_simple_spinner_dropdown_item = global::DjK.WeatherApp.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_action_chip = global::DjK.WeatherApp.Droid.Resource.Layout.test_action_chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_chip_zero_corner_radius = global::DjK.WeatherApp.Droid.Resource.Layout.test_chip_zero_corner_radius;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_design_checkbox = global::DjK.WeatherApp.Droid.Resource.Layout.test_design_checkbox;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_design_radiobutton = global::DjK.WeatherApp.Droid.Resource.Layout.test_design_radiobutton;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_navigation_bar_item_layout = global::DjK.WeatherApp.Droid.Resource.Layout.test_navigation_bar_item_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_reflow_chipgroup = global::DjK.WeatherApp.Droid.Resource.Layout.test_reflow_chipgroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_toolbar = global::DjK.WeatherApp.Droid.Resource.Layout.test_toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_toolbar_custom_background = global::DjK.WeatherApp.Droid.Resource.Layout.test_toolbar_custom_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_toolbar_elevation = global::DjK.WeatherApp.Droid.Resource.Layout.test_toolbar_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.test_toolbar_surface = global::DjK.WeatherApp.Droid.Resource.Layout.test_toolbar_surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.text_view_without_line_height = global::DjK.WeatherApp.Droid.Resource.Layout.text_view_without_line_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.text_view_with_line_height_from_appearance = global::DjK.WeatherApp.Droid.Resource.Layout.text_view_with_line_height_from_appearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.text_view_with_line_height_from_layout = global::DjK.WeatherApp.Droid.Resource.Layout.text_view_with_line_height_from_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.text_view_with_line_height_from_style = global::DjK.WeatherApp.Droid.Resource.Layout.text_view_with_line_height_from_style;
+			global::MvvmCross.Plugin.Visibility.Resource.Layout.text_view_with_theme_line_height = global::DjK.WeatherApp.Droid.Resource.Layout.text_view_with_theme_line_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Plurals.mtrl_badge_content_description = global::DjK.WeatherApp.Droid.Resource.Plurals.mtrl_badge_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_action_bar_home_description = global::DjK.WeatherApp.Droid.Resource.String.abc_action_bar_home_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_action_bar_up_description = global::DjK.WeatherApp.Droid.Resource.String.abc_action_bar_up_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_action_menu_overflow_description = global::DjK.WeatherApp.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_action_mode_done = global::DjK.WeatherApp.Droid.Resource.String.abc_action_mode_done;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_activitychooserview_choose_application = global::DjK.WeatherApp.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_activity_chooser_view_see_all = global::DjK.WeatherApp.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_capital_off = global::DjK.WeatherApp.Droid.Resource.String.abc_capital_off;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_capital_on = global::DjK.WeatherApp.Droid.Resource.String.abc_capital_on;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_alt_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_alt_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_ctrl_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_delete_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_delete_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_enter_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_enter_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_function_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_function_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_meta_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_meta_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_shift_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_shift_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_space_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_space_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_menu_sym_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_menu_sym_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_prepend_shortcut_label = global::DjK.WeatherApp.Droid.Resource.String.abc_prepend_shortcut_label;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_searchview_description_clear = global::DjK.WeatherApp.Droid.Resource.String.abc_searchview_description_clear;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_searchview_description_query = global::DjK.WeatherApp.Droid.Resource.String.abc_searchview_description_query;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_searchview_description_search = global::DjK.WeatherApp.Droid.Resource.String.abc_searchview_description_search;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_searchview_description_submit = global::DjK.WeatherApp.Droid.Resource.String.abc_searchview_description_submit;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_searchview_description_voice = global::DjK.WeatherApp.Droid.Resource.String.abc_searchview_description_voice;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_search_hint = global::DjK.WeatherApp.Droid.Resource.String.abc_search_hint;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_shareactionprovider_share_with = global::DjK.WeatherApp.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_shareactionprovider_share_with_application = global::DjK.WeatherApp.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::MvvmCross.Plugin.Visibility.Resource.String.abc_toolbar_collapse_description = global::DjK.WeatherApp.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.appbar_scrolling_view_behavior = global::DjK.WeatherApp.Droid.Resource.String.appbar_scrolling_view_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.String.bottomsheet_action_expand_halfway = global::DjK.WeatherApp.Droid.Resource.String.bottomsheet_action_expand_halfway;
+			global::MvvmCross.Plugin.Visibility.Resource.String.bottom_sheet_behavior = global::DjK.WeatherApp.Droid.Resource.String.bottom_sheet_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.String.character_counter_content_description = global::DjK.WeatherApp.Droid.Resource.String.character_counter_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.character_counter_overflowed_content_description = global::DjK.WeatherApp.Droid.Resource.String.character_counter_overflowed_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.character_counter_pattern = global::DjK.WeatherApp.Droid.Resource.String.character_counter_pattern;
+			global::MvvmCross.Plugin.Visibility.Resource.String.chip_text = global::DjK.WeatherApp.Droid.Resource.String.chip_text;
+			global::MvvmCross.Plugin.Visibility.Resource.String.clear_text_end_icon_content_description = global::DjK.WeatherApp.Droid.Resource.String.clear_text_end_icon_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.copy = global::DjK.WeatherApp.Droid.Resource.String.copy;
+			global::MvvmCross.Plugin.Visibility.Resource.String.error_icon_content_description = global::DjK.WeatherApp.Droid.Resource.String.error_icon_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.expand_button_title = global::DjK.WeatherApp.Droid.Resource.String.expand_button_title;
+			global::MvvmCross.Plugin.Visibility.Resource.String.exposed_dropdown_menu_content_description = global::DjK.WeatherApp.Droid.Resource.String.exposed_dropdown_menu_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.fab_transformation_scrim_behavior = global::DjK.WeatherApp.Droid.Resource.String.fab_transformation_scrim_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.String.fab_transformation_sheet_behavior = global::DjK.WeatherApp.Droid.Resource.String.fab_transformation_sheet_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.String.hide_bottom_view_on_scroll_behavior = global::DjK.WeatherApp.Droid.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.String.icon_content_description = global::DjK.WeatherApp.Droid.Resource.String.icon_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.item_view_role_description = global::DjK.WeatherApp.Droid.Resource.String.item_view_role_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_clock_display_divider = global::DjK.WeatherApp.Droid.Resource.String.material_clock_display_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_clock_toggle_content_description = global::DjK.WeatherApp.Droid.Resource.String.material_clock_toggle_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_hour_selection = global::DjK.WeatherApp.Droid.Resource.String.material_hour_selection;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_hour_suffix = global::DjK.WeatherApp.Droid.Resource.String.material_hour_suffix;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_minute_selection = global::DjK.WeatherApp.Droid.Resource.String.material_minute_selection;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_minute_suffix = global::DjK.WeatherApp.Droid.Resource.String.material_minute_suffix;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_motion_easing_accelerated = global::DjK.WeatherApp.Droid.Resource.String.material_motion_easing_accelerated;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_motion_easing_decelerated = global::DjK.WeatherApp.Droid.Resource.String.material_motion_easing_decelerated;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_motion_easing_emphasized = global::DjK.WeatherApp.Droid.Resource.String.material_motion_easing_emphasized;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_motion_easing_linear = global::DjK.WeatherApp.Droid.Resource.String.material_motion_easing_linear;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_motion_easing_standard = global::DjK.WeatherApp.Droid.Resource.String.material_motion_easing_standard;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_slider_range_end = global::DjK.WeatherApp.Droid.Resource.String.material_slider_range_end;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_slider_range_start = global::DjK.WeatherApp.Droid.Resource.String.material_slider_range_start;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_am = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_am;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_clock_mode_description = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_clock_mode_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_hour = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_hour;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_minute = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_minute;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_pm = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_pm;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_select_time = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_select_time;
+			global::MvvmCross.Plugin.Visibility.Resource.String.material_timepicker_text_input_mode_description = global::DjK.WeatherApp.Droid.Resource.String.material_timepicker_text_input_mode_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_badge_numberless_content_description = global::DjK.WeatherApp.Droid.Resource.String.mtrl_badge_numberless_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_chip_close_icon_content_description = global::DjK.WeatherApp.Droid.Resource.String.mtrl_chip_close_icon_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_exceed_max_badge_number_content_description = global::DjK.WeatherApp.Droid.Resource.String.mtrl_exceed_max_badge_number_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_exceed_max_badge_number_suffix = global::DjK.WeatherApp.Droid.Resource.String.mtrl_exceed_max_badge_number_suffix;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_a11y_next_month = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_a11y_next_month;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_a11y_prev_month = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_a11y_prev_month;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_announce_current_selection = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_announce_current_selection;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_cancel = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_cancel;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_confirm = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_confirm;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_date_header_selected = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_date_header_selected;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_date_header_title = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_date_header_title;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_date_header_unselected = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_date_header_unselected;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_day_of_week_column_header = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_day_of_week_column_header;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_invalid_format = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_invalid_format;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_invalid_format_example = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_invalid_format_example;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_invalid_format_use = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_invalid_format_use;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_invalid_range = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_invalid_range;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_navigate_to_year_description = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_navigate_to_year_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_out_of_range = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_out_of_range;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_range_header_only_end_selected = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_range_header_only_end_selected;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_range_header_only_start_selected = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_range_header_only_start_selected;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_range_header_selected = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_range_header_selected;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_range_header_title = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_range_header_title;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_range_header_unselected = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_range_header_unselected;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_save = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_save;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_text_input_date_hint = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_text_input_date_hint;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_text_input_date_range_end_hint = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_text_input_date_range_end_hint;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_text_input_date_range_start_hint = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_text_input_date_range_start_hint;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_text_input_day_abbr = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_text_input_day_abbr;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_text_input_month_abbr = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_text_input_month_abbr;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_text_input_year_abbr = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_text_input_year_abbr;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_toggle_to_calendar_input_mode = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_toggle_to_calendar_input_mode;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_toggle_to_day_selection = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_toggle_to_day_selection;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_toggle_to_text_input_mode = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_toggle_to_text_input_mode;
+			global::MvvmCross.Plugin.Visibility.Resource.String.mtrl_picker_toggle_to_year_selection = global::DjK.WeatherApp.Droid.Resource.String.mtrl_picker_toggle_to_year_selection;
+			global::MvvmCross.Plugin.Visibility.Resource.String.not_set = global::DjK.WeatherApp.Droid.Resource.String.not_set;
+			global::MvvmCross.Plugin.Visibility.Resource.String.password_toggle_content_description = global::DjK.WeatherApp.Droid.Resource.String.password_toggle_content_description;
+			global::MvvmCross.Plugin.Visibility.Resource.String.path_password_eye = global::DjK.WeatherApp.Droid.Resource.String.path_password_eye;
+			global::MvvmCross.Plugin.Visibility.Resource.String.path_password_eye_mask_strike_through = global::DjK.WeatherApp.Droid.Resource.String.path_password_eye_mask_strike_through;
+			global::MvvmCross.Plugin.Visibility.Resource.String.path_password_eye_mask_visible = global::DjK.WeatherApp.Droid.Resource.String.path_password_eye_mask_visible;
+			global::MvvmCross.Plugin.Visibility.Resource.String.path_password_strike_through = global::DjK.WeatherApp.Droid.Resource.String.path_password_strike_through;
+			global::MvvmCross.Plugin.Visibility.Resource.String.preference_copied = global::DjK.WeatherApp.Droid.Resource.String.preference_copied;
+			global::MvvmCross.Plugin.Visibility.Resource.String.search_menu_title = global::DjK.WeatherApp.Droid.Resource.String.search_menu_title;
+			global::MvvmCross.Plugin.Visibility.Resource.String.status_bar_notification_info_overflow = global::DjK.WeatherApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.String.summary_collapsed_preference_list = global::DjK.WeatherApp.Droid.Resource.String.summary_collapsed_preference_list;
+			global::MvvmCross.Plugin.Visibility.Resource.String.v7_preference_off = global::DjK.WeatherApp.Droid.Resource.String.v7_preference_off;
+			global::MvvmCross.Plugin.Visibility.Resource.String.v7_preference_on = global::DjK.WeatherApp.Droid.Resource.String.v7_preference_on;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.AlertDialog_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.AlertDialog_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.AndroidThemeColorAccentYellow = global::DjK.WeatherApp.Droid.Resource.Style.AndroidThemeColorAccentYellow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Animation_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Animation_AppCompat_DropDownUp = global::DjK.WeatherApp.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Animation_AppCompat_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Animation_Design_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Animation_MaterialComponents_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Animation_MaterialComponents_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_AlertDialog_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_AlertDialog_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Animation_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::DjK.WeatherApp.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Animation_AppCompat_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_CardView = global::DjK.WeatherApp.Droid.Resource.Style.Base_CardView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_DialogWindowTitle_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel = global::DjK.WeatherApp.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text = global::DjK.WeatherApp.Droid.Resource.Style.Base_MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Button = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Large = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Small = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Title = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_MaterialComponents_Badge = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Badge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_MaterialComponents_Button = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Headline6;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2 = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_MaterialComponents_Subtitle2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::DjK.WeatherApp.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_MaterialComponents_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V21_Theme_MaterialComponents_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V22_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V22_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V23_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V23_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V26_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V26_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::DjK.WeatherApp.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V28_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_V28_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V28_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::DjK.WeatherApp.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionButton = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActionMode = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Button = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Button_Small = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_EditText = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ImageButton = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ListView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_RatingBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_SearchView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_SeekBar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_TextView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Toolbar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_Design_TabLayout = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_Design_TabLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_AutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_CheckedTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_Chip = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_MaterialCalendar_NavigationButton = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_MaterialCalendar_NavigationButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_PopupMenu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_PopupMenu_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_Slider = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_Slider;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_Snackbar = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_Snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Base_Widget_MaterialComponents_TextView = global::DjK.WeatherApp.Droid.Resource.Style.Base_Widget_MaterialComponents_TextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.CardView = global::DjK.WeatherApp.Droid.Resource.Style.CardView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.CardView_Dark = global::DjK.WeatherApp.Droid.Resource.Style.CardView_Dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.CardView_Light = global::DjK.WeatherApp.Droid.Resource.Style.CardView_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.EmptyTheme = global::DjK.WeatherApp.Droid.Resource.Style.EmptyTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Body_Text;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked = global::DjK.WeatherApp.Droid.Resource.Style.MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Platform_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.Platform_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_MaterialComponents_Light = global::DjK.WeatherApp.Droid.Resource.Style.Platform_MaterialComponents_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_ThemeOverlay_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::DjK.WeatherApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_V21_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_V21_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_V25_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_V25_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Platform_Widget_AppCompat_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference = global::DjK.WeatherApp.Droid.Resource.Style.Preference;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceCategoryTitleTextStyle = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceCategoryTitleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceFragment = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceFragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceFragmentList = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceFragmentList;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceFragmentList_Material = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceFragmentList_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceFragment_Material = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceFragment_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceSummaryTextStyle = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceSummaryTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceThemeOverlay = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceThemeOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceThemeOverlay_v14 = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceThemeOverlay_v14;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.PreferenceThemeOverlay_v14_Material = global::DjK.WeatherApp.Droid.Resource.Style.PreferenceThemeOverlay_v14_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_Category = global::DjK.WeatherApp.Droid.Resource.Style.Preference_Category;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_Category_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_Category_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_CheckBoxPreference = global::DjK.WeatherApp.Droid.Resource.Style.Preference_CheckBoxPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_CheckBoxPreference_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_CheckBoxPreference_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_DialogPreference = global::DjK.WeatherApp.Droid.Resource.Style.Preference_DialogPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_DialogPreference_EditTextPreference = global::DjK.WeatherApp.Droid.Resource.Style.Preference_DialogPreference_EditTextPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_DialogPreference_EditTextPreference_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_DialogPreference_EditTextPreference_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_DialogPreference_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_DialogPreference_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_DropDown = global::DjK.WeatherApp.Droid.Resource.Style.Preference_DropDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_DropDown_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_DropDown_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_Information = global::DjK.WeatherApp.Droid.Resource.Style.Preference_Information;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_Information_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_Information_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_PreferenceScreen = global::DjK.WeatherApp.Droid.Resource.Style.Preference_PreferenceScreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_PreferenceScreen_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_PreferenceScreen_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_SeekBarPreference = global::DjK.WeatherApp.Droid.Resource.Style.Preference_SeekBarPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_SeekBarPreference_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_SeekBarPreference_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_SwitchPreference = global::DjK.WeatherApp.Droid.Resource.Style.Preference_SwitchPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_SwitchPreferenceCompat = global::DjK.WeatherApp.Droid.Resource.Style.Preference_SwitchPreferenceCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_SwitchPreferenceCompat_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_SwitchPreferenceCompat_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Preference_SwitchPreference_Material = global::DjK.WeatherApp.Droid.Resource.Style.Preference_SwitchPreference_Material;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::DjK.WeatherApp.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::DjK.WeatherApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_BottomLeftDifferentCornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_BottomRightCut = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_BottomRightCut;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_Cut = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_Cut;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_DifferentCornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_BottomSheet;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_Chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_TopLeftCut = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_TopLeftCut;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearanceOverlay_TopRightDifferentCornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearance_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_LargeComponent;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_MediumComponent;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_SmallComponent;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearance_MaterialComponents_Test = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Test;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.ShapeAppearance_MaterialComponents_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TestStyleWithLineHeight = global::DjK.WeatherApp.Droid.Resource.Style.TestStyleWithLineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TestStyleWithLineHeightAppearance = global::DjK.WeatherApp.Droid.Resource.Style.TestStyleWithLineHeightAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TestStyleWithoutLineHeight = global::DjK.WeatherApp.Droid.Resource.Style.TestStyleWithoutLineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TestStyleWithThemeLineHeightAttribute = global::DjK.WeatherApp.Droid.Resource.Style.TestStyleWithThemeLineHeightAttribute;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TestThemeWithLineHeight = global::DjK.WeatherApp.Droid.Resource.Style.TestThemeWithLineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TestThemeWithLineHeightDisabled = global::DjK.WeatherApp.Droid.Resource.Style.TestThemeWithLineHeightDisabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day = global::DjK.WeatherApp.Droid.Resource.Style.Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar = global::DjK.WeatherApp.Droid.Resource.Style.Test_Theme_MaterialComponents_MaterialCalendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar = global::DjK.WeatherApp.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day = global::DjK.WeatherApp.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::DjK.WeatherApp.Droid.Resource.Style.Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Body1 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Body2 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Button = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Caption = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Display1 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Display2 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Display3 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Display4 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Headline = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Large = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Medium = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Menu = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Small = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Subhead = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Compat_Notification = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Compat_Notification_Info = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Compat_Notification_Time = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Compat_Notification_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Counter = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Counter;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Counter_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Error = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Error;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_HelperText = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_HelperText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Hint = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Hint;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Placeholder = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Placeholder;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Prefix = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Prefix;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Snackbar_Message = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Suffix = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Suffix;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Design_Tab = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Design_Tab;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Badge = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Badge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Button = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Caption = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Chip = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Overline = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_TimePicker_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_TimePicker_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_MaterialComponents_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_MaterialComponents_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::DjK.WeatherApp.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlayColorAccentRed = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlayColorAccentRed;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_Dark = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_DayNight = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_DayNight_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_Design_TextInputEditText = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_Design_TextInputEditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar_Surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomAppBar_Surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert_Framework;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Light_Dialog_Alert_Framework;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker_Display = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_TimePicker_Display;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface = global::DjK.WeatherApp.Droid.Resource.Style.ThemeOverlay_MaterialComponents_Toolbar_Surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_CompactMenu = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Empty = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Empty;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_AppCompat_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_Design = global::DjK.WeatherApp.Droid.Resource.Style.Theme_Design;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_Design_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_Design_Light = global::DjK.WeatherApp.Droid.Resource.Style.Theme_Design_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_Design_Light_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_Design_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_Design_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_CompactMenu = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DarkActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DayNight_NoActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Alert_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_FixedSize_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_BarSize = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_BarSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_LargeTouch = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_LargeTouch;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_NoActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::DjK.WeatherApp.Droid.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActionMode = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ActivityChooserView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Button = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ButtonBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Button_Borderless = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Button_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Button_Small = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_EditText = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ImageButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_SearchView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ListMenuView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ListPopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ListView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ListView_DropDown = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ListView_Menu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_PopupMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_PopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ProgressBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_RatingBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_RatingBar_Small = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_SearchView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_SeekBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Spinner = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_TextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_TextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Toolbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::DjK.WeatherApp.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Compat_NotificationActionContainer = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Compat_NotificationActionText = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_AppBarLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_AppBarLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_BottomNavigationView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_BottomNavigationView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_BottomSheet_Modal = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_CollapsingToolbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_FloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_FloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_NavigationView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_NavigationView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_Snackbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_Snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_TabLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_TabLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_TextInputEditText = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_TextInputEditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Design_TextInputLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Design_TextInputLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ActionBar_Primary = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ActionBar_Solid = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Solid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ActionBar_Surface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ActionBar_Surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AppBarLayout_Surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Badge = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Badge;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomAppBar_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomNavigationView_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomSheet = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Flush;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_TextButton_Snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CardView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CardView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CheckedTextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CheckedTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ChipGroup = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Chip_Action = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_ExtraSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Medium = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Medium;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Small = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CircularProgressIndicator_Small;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CollapsingToolbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CollapsingToolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_CheckBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_RadioButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_CompoundButton_Switch;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ExtendedFloatingActionButton_Icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Light_ActionBar_Solid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_LinearProgressIndicator = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_LinearProgressIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialButtonToggleGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_DayTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Invalid;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Selected;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Day_Today;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderCancelButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderDivider;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Item;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthNavigationButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthTextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_MonthTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_YearNavigationButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_YearNavigationButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Selected;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_MaterialCalendar_Year_Today;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_NavigationRailView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored_Compact = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Colored_Compact;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_NavigationRailView_Compact = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_Compact;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_NavigationRailView_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationRailView_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_NavigationView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_PopupMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ContextMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_ListPopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_PopupMenu_Overflow;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ProgressIndicator = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ProgressIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_ShapeableImageView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_ShapeableImageView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Slider = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Slider;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Snackbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Snackbar_TextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Snackbar_TextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TabLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TabLayout_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TextView = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker_Button = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Button;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker_Clock = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Clock;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker_Display = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Display;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker_Display_TextInputEditText = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_Display_TextInputEditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_TimePicker_ImageButton_ShapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Toolbar = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Toolbar_Primary = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Primary;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_PrimarySurface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Toolbar_Surface = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Toolbar_Surface;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_MaterialComponents_Tooltip = global::DjK.WeatherApp.Droid.Resource.Style.Widget_MaterialComponents_Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Style.Widget_Support_CoordinatorLayout = global::DjK.WeatherApp.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBarLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBarLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_background = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_backgroundSplit = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_backgroundStacked = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_contentInsetEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_contentInsetLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_contentInsetRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_contentInsetStart = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_customNavigationLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_displayOptions = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_divider = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_height = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_hideOnContentScroll = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_homeAsUpIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_homeLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_icon = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_itemPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_logo = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_logo;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_navigationMode = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_popupTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_progressBarPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_progressBarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_subtitle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_subtitleTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_title = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionBar_titleTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMenuItemView = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMenuItemView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMenuItemView_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMenuView = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMenuView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode_background = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode_backgroundSplit = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode_closeItemLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode_height = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode_subtitleTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActionMode_titleTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActivityChooserView = global::DjK.WeatherApp.Droid.Resource.Styleable.ActivityChooserView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ActivityChooserView_initialActivityCount = global::DjK.WeatherApp.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_buttonIconDimen = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_listItemLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_listLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_showTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableItem = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableTransition = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::DjK.WeatherApp.Droid.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayoutStates = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayoutStates;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayoutStates_state_liftable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayoutStates_state_lifted = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_android_background = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_android_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_expanded = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_expanded;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_liftOnScroll = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_liftOnScrollTargetViewId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppBarLayout_statusBarForeground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppBarLayout_statusBarForeground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatImageView = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatImageView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatImageView_android_src = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatImageView_srcCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatImageView_tint = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatImageView_tintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatSeekBar = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatSeekBar_android_thumb = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatSeekBar_tickMark = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_android_textAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableBottomCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableBottomCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableEndCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableEndCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableLeftCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableLeftCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableRightCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableRightCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableStartCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableStartCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableTint = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_drawableTopCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_drawableTopCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_fontFamily = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_fontVariationSettings = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_fontVariationSettings;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_lineHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_textAllCaps = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTextView_textLocale = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTextView_textLocale;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarDivider = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarSize = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeCloseContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_checkboxStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorAccent = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorControlActivated = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorControlNormal = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorError = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorPrimary = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_controlBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dialogTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dividerVertical = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_editTextBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_editTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_editTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorMultipleAnimated;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listChoiceIndicatorSingleAnimated;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_panelBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_searchViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_seekBarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_spinnerStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_switchStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_toolbarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowActionBar = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.AppCompatTheme_windowNoTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BackgroundStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.BackgroundStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BackgroundStyle_android_selectableItemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.BackgroundStyle_android_selectableItemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BackgroundStyle_selectableItemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.BackgroundStyle_selectableItemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_backgroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_backgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_badgeGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_badgeGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_badgeTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_badgeTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_horizontalOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_horizontalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_maxCharacterCount = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_maxCharacterCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_number = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_number;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Badge_verticalOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.Badge_verticalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_android_indeterminate = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_android_indeterminate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_hideAnimationBehavior = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_hideAnimationBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_indicatorColor = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_indicatorColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_minHideDelay = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_minHideDelay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_showAnimationBehavior = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_showAnimationBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_showDelay = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_showDelay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_trackColor = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_trackColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_trackCornerRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_trackCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BaseProgressIndicator_trackThickness = global::DjK.WeatherApp.Droid.Resource.Styleable.BaseProgressIndicator_trackThickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_fabAnimationMode = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_fabAnimationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_fabCradleMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_hideOnScroll = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_paddingBottomSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_paddingLeftSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomAppBar_paddingRightSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomNavigationView = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomNavigationView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_draggable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_expandedOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_halfExpandedRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_saveFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_gestureInsetBottomIgnored;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_paddingBottomSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingBottomSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_paddingLeftSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingLeftSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_paddingRightSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingRightSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_paddingTopSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_paddingTopSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.BottomSheetBehavior_Layout_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ButtonBarLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ButtonBarLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ButtonBarLayout_allowStacking = global::DjK.WeatherApp.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Capability = global::DjK.WeatherApp.Droid.Resource.Styleable.Capability;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Capability_queryPatterns = global::DjK.WeatherApp.Droid.Resource.Styleable.Capability_queryPatterns;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Capability_shortcutMatchRequired = global::DjK.WeatherApp.Droid.Resource.Styleable.Capability_shortcutMatchRequired;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_android_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_cardBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_cardCornerRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_cardElevation = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_cardElevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_cardMaxElevation = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_cardPreventCornerOverlap = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_cardUseCompatPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_contentPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_contentPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_contentPaddingBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_contentPaddingLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_contentPaddingRight = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CardView_contentPaddingTop = global::DjK.WeatherApp.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference_android_disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference_android_disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference_android_summaryOff = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference_android_summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference_android_summaryOn = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference_android_summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference_disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference_disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference_summaryOff = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference_summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CheckBoxPreference_summaryOn = global::DjK.WeatherApp.Droid.Resource.Styleable.CheckBoxPreference_summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_checkedChip = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_checkedChip;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_chipSpacing = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_chipSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_chipSpacingVertical = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_selectionRequired = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_selectionRequired;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_singleLine = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_singleLine;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ChipGroup_singleSelection = global::DjK.WeatherApp.Droid.Resource.Styleable.ChipGroup_singleSelection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_checkable = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_checkable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_ellipsize = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_ellipsize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_text = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_textAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_textAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_textColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_textColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_android_textSize = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_android_textSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_checkedIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_checkedIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_checkedIconEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_checkedIconEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_checkedIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_checkedIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_checkedIconVisible = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_checkedIconVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipCornerRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipCornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipEndPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipIconEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipIconEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipIconSize = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipIconVisible = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipIconVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipMinHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipMinHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipMinTouchTargetSize = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipMinTouchTargetSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipStartPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipStrokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_chipSurfaceColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_chipSurfaceColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIconEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIconEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIconEndPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIconEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIconSize = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIconStartPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIconStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_closeIconVisible = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_closeIconVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_ensureMinTouchTargetSize = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_ensureMinTouchTargetSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_hideMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_hideMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_iconEndPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_iconEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_iconStartPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_iconStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_rippleColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_rippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_showMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_showMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_textEndPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_textEndPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Chip_textStartPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.Chip_textStartPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CircularProgressIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.CircularProgressIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CircularProgressIndicator_indicatorDirectionCircular = global::DjK.WeatherApp.Droid.Resource.Styleable.CircularProgressIndicator_indicatorDirectionCircular;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CircularProgressIndicator_indicatorInset = global::DjK.WeatherApp.Droid.Resource.Styleable.CircularProgressIndicator_indicatorInset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CircularProgressIndicator_indicatorSize = global::DjK.WeatherApp.Droid.Resource.Styleable.CircularProgressIndicator_indicatorSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockFaceView = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockFaceView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockFaceView_clockFaceBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockFaceView_clockFaceBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockFaceView_clockNumberTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockFaceView_clockNumberTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockHandView = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockHandView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockHandView_clockHandColor = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockHandView_clockHandColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockHandView_materialCircleRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockHandView_materialCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ClockHandView_selectorSize = global::DjK.WeatherApp.Droid.Resource.Styleable.ClockHandView_selectorSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_extraMultilineHeightEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_extraMultilineHeightEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_forceApplySystemWindowInsetTop = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_forceApplySystemWindowInsetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_maxLines = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_maxLines;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_title = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_titleCollapseMode = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleCollapseMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::DjK.WeatherApp.Droid.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ColorStateListItem = global::DjK.WeatherApp.Droid.Resource.Styleable.ColorStateListItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ColorStateListItem_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ColorStateListItem_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ColorStateListItem_android_color = global::DjK.WeatherApp.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CompoundButton = global::DjK.WeatherApp.Droid.Resource.Styleable.CompoundButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CompoundButton_android_button = global::DjK.WeatherApp.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CompoundButton_buttonCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.CompoundButton_buttonCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CompoundButton_buttonTint = global::DjK.WeatherApp.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CompoundButton_buttonTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_padding = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_paddingBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_paddingEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_paddingLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_paddingRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_paddingStart = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_paddingTop = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_paddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_android_visibility = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_android_visibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierAllowsGoneWidgets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_barrierDirection = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_barrierMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_barrierMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_chainUseRtl;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_constraintSet = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_constraintSet;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_ids;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_tags = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_constraint_referenced_tags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_firstVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalAlign = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalGap = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_horizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_lastVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_maxElementsWrap = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_maxElementsWrap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_verticalAlign = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_verticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_verticalGap = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_verticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_verticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_flow_wrapMode = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_flow_wrapMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layoutDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layoutDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constrainedWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintBottom_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleAngle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintDimensionRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintEnd_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_begin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintGuide_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHeight_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintHorizontal_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintLeft_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintRight_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintStart_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTag = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTag;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintTop_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintVertical_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_constraintWidth_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_editor_absoluteY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_goneMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_Layout_layout_optimizationLevel;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_placeholder = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_placeholder;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_placeholder_content = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_placeholder_content;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintLayout_placeholder_placeholder_emptyVisibility = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintLayout_placeholder_placeholder_emptyVisibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_height = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_marginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_marginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_marginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_marginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_marginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_marginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_marginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_marginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_marginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_marginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_marginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_marginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_layout_width = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_layout_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_maxHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_pivotX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_pivotX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_pivotY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_pivotY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_rotation = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_rotation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_rotationX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_rotationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_rotationY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_rotationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_scaleX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_scaleX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_scaleY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_scaleY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_transformPivotX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_transformPivotX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_transformPivotY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_transformPivotY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_translationX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_translationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_translationY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_translationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_translationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_translationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_android_visibility = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_android_visibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_barrierAllowsGoneWidgets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_barrierDirection = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_barrierDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_barrierMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_barrierMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_chainUseRtl = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_chainUseRtl;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_constraint_referenced_ids = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_ids;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_constraint_referenced_tags = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_constraint_referenced_tags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_deriveConstraintsFrom = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_deriveConstraintsFrom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_drawPath = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_drawPath;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_firstHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_firstHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_firstHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_firstHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_firstVerticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_firstVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_firstVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_firstVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_horizontalAlign = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_horizontalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_horizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_horizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_horizontalGap = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_horizontalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_horizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_horizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_lastHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_lastHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_lastHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_lastHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_lastVerticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_lastVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_lastVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_lastVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_maxElementsWrap = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_maxElementsWrap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_verticalAlign = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_verticalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_verticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_verticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_verticalGap = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_verticalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_verticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_verticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_flow_wrapMode = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_flow_wrapMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constrainedHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constrainedHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constrainedWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constrainedWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintBaseline_toBaselineOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintBottom_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintCircle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleAngle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintDimensionRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintEnd_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_begin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintGuide_end = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintGuide_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHeight_default = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHeight_max = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHeight_min = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHeight_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintHorizontal_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintLeft_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintRight_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintRight_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintStart_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintTag = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintTag;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintTop_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintTop_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintVertical_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintWidth_default = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintWidth_max = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintWidth_min = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_constraintWidth_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_editor_absoluteX = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_editor_absoluteY = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_editor_absoluteY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_goneMarginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_goneMarginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_goneMarginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_goneMarginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_goneMarginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_layout_goneMarginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_layout_goneMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_motionStagger = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_motionStagger;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_pathMotionArc = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_pathMotionArc;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_pivotAnchor = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_pivotAnchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ConstraintSet_transitionPathRotate = global::DjK.WeatherApp.Droid.Resource.Styleable.ConstraintSet_transitionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_height = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_marginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_marginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_marginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_marginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_marginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_marginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_marginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_marginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_marginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_marginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_marginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_marginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_layout_width = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_layout_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_maxHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_rotation = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_rotation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_rotationX = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_rotationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_rotationY = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_rotationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_scaleX = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_scaleX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_scaleY = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_scaleY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_transformPivotX = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_transformPivotX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_transformPivotY = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_transformPivotY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_translationX = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_translationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_translationY = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_translationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_translationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_translationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_android_visibility = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_android_visibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_barrierAllowsGoneWidgets = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_barrierAllowsGoneWidgets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_barrierDirection = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_barrierDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_barrierMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_barrierMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_chainUseRtl = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_chainUseRtl;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_constraint_referenced_ids = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_constraint_referenced_ids;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_constraint_referenced_tags = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_constraint_referenced_tags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_drawPath = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_drawPath;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_firstHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_firstHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_firstHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_firstHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_firstVerticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_firstVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_firstVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_firstVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_horizontalAlign = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_horizontalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_horizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_horizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_horizontalGap = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_horizontalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_horizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_horizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_lastHorizontalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_lastHorizontalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_lastHorizontalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_lastHorizontalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_lastVerticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_lastVerticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_lastVerticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_lastVerticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_maxElementsWrap = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_maxElementsWrap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_verticalAlign = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_verticalAlign;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_verticalBias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_verticalBias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_verticalGap = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_verticalGap;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_verticalStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_verticalStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_flow_wrapMode = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_flow_wrapMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constrainedHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constrainedHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constrainedWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constrainedWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintBaseline_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintBaseline_toBaselineOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintBaseline_toBaselineOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintBottom_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintBottom_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintBottom_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintBottom_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintBottom_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintBottom_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintCircle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintCircle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintCircleAngle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintCircleAngle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintCircleRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintDimensionRatio = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintDimensionRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintEnd_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintEnd_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintEnd_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintEnd_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintGuide_begin = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintGuide_begin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintGuide_end = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintGuide_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintGuide_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintGuide_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHeight_default = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHeight_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHeight_max = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHeight_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHeight_min = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHeight_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHeight_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHeight_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHorizontal_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHorizontal_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintHorizontal_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintHorizontal_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintLeft_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintLeft_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintLeft_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintLeft_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintLeft_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintLeft_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintRight_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintRight_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintRight_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintRight_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintRight_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintRight_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintStart_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintStart_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintStart_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintStart_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintTag = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintTag;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintTop_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintTop_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintTop_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintTop_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintTop_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintTop_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintVertical_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintVertical_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintVertical_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintVertical_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintVertical_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintVertical_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintWidth_default = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintWidth_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintWidth_max = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintWidth_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintWidth_min = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintWidth_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_constraintWidth_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_constraintWidth_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_editor_absoluteX = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_editor_absoluteX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_editor_absoluteY = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_editor_absoluteY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_goneMarginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_goneMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_goneMarginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_goneMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_goneMarginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_goneMarginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_goneMarginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_goneMarginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_goneMarginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_goneMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_layout_goneMarginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_layout_goneMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_motionStagger = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_motionStagger;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_pathMotionArc = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_pathMotionArc;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_pivotAnchor = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_pivotAnchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_transitionPathRotate = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_transitionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Constraint_visibilityMode = global::DjK.WeatherApp.Droid.Resource.Styleable.Constraint_visibilityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_keylines = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_attributeName = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_attributeName;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customBoolean = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customBoolean;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customColorDrawableValue = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customColorDrawableValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customColorValue = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customColorValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customDimension = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customDimension;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customFloatValue = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customFloatValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customIntegerValue = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customIntegerValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customPixelDimension = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customPixelDimension;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.CustomAttribute_customStringValue = global::DjK.WeatherApp.Droid.Resource.Styleable.CustomAttribute_customStringValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_android_dialogIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_android_dialogIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_android_dialogLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_android_dialogLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_android_dialogMessage = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_android_dialogMessage;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_android_dialogTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_android_dialogTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_android_negativeButtonText = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_android_negativeButtonText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_android_positiveButtonText = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_android_positiveButtonText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_dialogIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_dialogIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_dialogLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_dialogLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_dialogMessage = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_dialogMessage;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_dialogTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_dialogTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_negativeButtonText = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_negativeButtonText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DialogPreference_positiveButtonText = global::DjK.WeatherApp.Droid.Resource.Styleable.DialogPreference_positiveButtonText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_barLength = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_color = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_drawableSize = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_spinBars = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerArrowToggle_thickness = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.DrawerLayout_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.DrawerLayout_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.EditTextPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.EditTextPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.EditTextPreference_useSimpleSummaryProvider = global::DjK.WeatherApp.Droid.Resource.Styleable.EditTextPreference_useSimpleSummaryProvider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_collapsedSize = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_collapsedSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_extendMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_hideMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_showMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.ExtendedFloatingActionButton_shrinkMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_android_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_android_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_borderWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_ensureMinTouchTargetSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_fabCustomSize = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_fabSize = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_fabSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_maxImageSize = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_rippleColor = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_showMotionSpec = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FloatingActionButton_useCompatPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FlowLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.FlowLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FlowLayout_itemSpacing = global::DjK.WeatherApp.Droid.Resource.Styleable.FlowLayout_itemSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FlowLayout_lineSpacing = global::DjK.WeatherApp.Droid.Resource.Styleable.FlowLayout_lineSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_android_font = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_android_fontStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_android_fontWeight = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_font = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_fontStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_fontWeight = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamilyFont_ttcIndex = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderAuthority = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderCerts = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderPackage = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderQuery = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FontFamily_fontProviderSystemFontFamily = global::DjK.WeatherApp.Droid.Resource.Styleable.FontFamily_fontProviderSystemFontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ForegroundLinearLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ForegroundLinearLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::DjK.WeatherApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::DjK.WeatherApp.Droid.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Fragment = global::DjK.WeatherApp.Droid.Resource.Styleable.Fragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FragmentContainerView = global::DjK.WeatherApp.Droid.Resource.Styleable.FragmentContainerView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FragmentContainerView_android_name = global::DjK.WeatherApp.Droid.Resource.Styleable.FragmentContainerView_android_name;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.FragmentContainerView_android_tag = global::DjK.WeatherApp.Droid.Resource.Styleable.FragmentContainerView_android_tag;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Fragment_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.Fragment_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Fragment_android_name = global::DjK.WeatherApp.Droid.Resource.Styleable.Fragment_android_name;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Fragment_android_tag = global::DjK.WeatherApp.Droid.Resource.Styleable.Fragment_android_tag;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColorItem = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColorItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColorItem_android_color = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColorItem_android_offset = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_centerColor = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_centerX = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_centerY = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_endColor = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_endX = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_endY = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_gradientRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_startColor = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_startX = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_startY = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_tileMode = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.GradientColor_android_type = global::DjK.WeatherApp.Droid.Resource.Styleable.GradientColor_android_type;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_altSrc = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_altSrc;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_brightness = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_brightness;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_contrast = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_contrast;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_crossfade = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_crossfade;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_overlay = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_overlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_round = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_round;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_roundPercent = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_roundPercent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_saturation = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_saturation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ImageFilterView_warmth = global::DjK.WeatherApp.Droid.Resource.Styleable.ImageFilterView_warmth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Insets = global::DjK.WeatherApp.Droid.Resource.Styleable.Insets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Insets_paddingBottomSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.Insets_paddingBottomSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Insets_paddingLeftSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.Insets_paddingLeftSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Insets_paddingRightSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.Insets_paddingRightSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Insets_paddingTopSystemWindowInsets = global::DjK.WeatherApp.Droid.Resource.Styleable.Insets_paddingTopSystemWindowInsets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_rotation = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_rotation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_rotationX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_rotationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_rotationY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_rotationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_scaleX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_scaleX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_scaleY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_scaleY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_transformPivotX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_transformPivotX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_transformPivotY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_transformPivotY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_translationX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_translationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_translationY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_translationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_android_translationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_android_translationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_curveFit = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_curveFit;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_framePosition = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_framePosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_motionTarget = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_motionTarget;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyAttribute_transitionPathRotate = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyAttribute_transitionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_rotation = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_rotation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_rotationX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_rotationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_rotationY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_rotationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_scaleX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_scaleX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_scaleY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_scaleY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_translationX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_translationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_translationY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_translationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_android_translationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_android_translationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_curveFit = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_curveFit;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_framePosition = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_framePosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_motionTarget = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_motionTarget;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_transitionPathRotate = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_transitionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_waveOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_waveOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_wavePeriod = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_wavePeriod;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_waveShape = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_waveShape;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyCycle_waveVariesBy = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyCycle_waveVariesBy;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyFrame = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyFrame;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyFramesAcceleration = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyFramesAcceleration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyFramesVelocity = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyFramesVelocity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_curveFit = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_curveFit;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_drawPath = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_drawPath;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_framePosition = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_framePosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_keyPositionType = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_keyPositionType;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_motionTarget = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_motionTarget;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_pathMotionArc = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_pathMotionArc;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_percentHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_percentHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_percentWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_percentWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_percentX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_percentX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_percentY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_percentY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_sizePercent = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_sizePercent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyPosition_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyPosition_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_rotation = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_rotation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_rotationX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_rotationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_rotationY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_rotationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_scaleX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_scaleX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_scaleY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_scaleY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_translationX = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_translationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_translationY = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_translationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_android_translationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_android_translationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_curveFit = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_curveFit;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_framePosition = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_framePosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_motionTarget = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_motionTarget;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_transitionPathRotate = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_transitionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_waveDecay = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_waveDecay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_waveOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_waveOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_wavePeriod = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_wavePeriod;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTimeCycle_waveShape = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTimeCycle_waveShape;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_framePosition = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_framePosition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_motionTarget = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_motionTarget;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_motion_postLayoutCollision = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_motion_postLayoutCollision;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_motion_triggerOnCollision = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_motion_triggerOnCollision;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_onCross = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_onCross;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_onNegativeCross = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_onNegativeCross;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_onPositiveCross = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_onPositiveCross;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_triggerId = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_triggerId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_triggerReceiver = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_triggerReceiver;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.KeyTrigger_triggerSlack = global::DjK.WeatherApp.Droid.Resource.Styleable.KeyTrigger_triggerSlack;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_height = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_marginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_marginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_marginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_marginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_marginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_marginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_marginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_marginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_marginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_marginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_marginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_marginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_layout_width = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_layout_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_barrierAllowsGoneWidgets = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_barrierAllowsGoneWidgets;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_barrierDirection = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_barrierDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_barrierMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_barrierMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_chainUseRtl = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_chainUseRtl;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_constraint_referenced_ids = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_constraint_referenced_ids;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_constraint_referenced_tags = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_constraint_referenced_tags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constrainedHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constrainedHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constrainedWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constrainedWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintBaseline_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintBaseline_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintBaseline_toBaselineOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintBaseline_toBaselineOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintBottom_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintBottom_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintBottom_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintBottom_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintBottom_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintBottom_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintCircle = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintCircle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintCircleAngle = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintCircleAngle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintCircleRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintDimensionRatio = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintDimensionRatio;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintEnd_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintEnd_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintEnd_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintEnd_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintGuide_begin = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintGuide_begin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintGuide_end = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintGuide_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintGuide_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintGuide_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHeight_default = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHeight_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHeight_max = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHeight_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHeight_min = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHeight_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHeight_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHeight_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHorizontal_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHorizontal_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintHorizontal_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintHorizontal_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintLeft_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintLeft_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintLeft_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintLeft_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintLeft_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintLeft_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintRight_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintRight_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintRight_toLeftOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintRight_toLeftOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintRight_toRightOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintRight_toRightOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintStart_toEndOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintStart_toEndOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintStart_toStartOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintStart_toStartOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintTop_creator = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintTop_creator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintTop_toBottomOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintTop_toBottomOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintTop_toTopOf = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintTop_toTopOf;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintVertical_bias = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintVertical_bias;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintVertical_chainStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintVertical_chainStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintVertical_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintVertical_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintWidth_default = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintWidth_default;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintWidth_max = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintWidth_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintWidth_min = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintWidth_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_constraintWidth_percent = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_constraintWidth_percent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_editor_absoluteX = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_editor_absoluteX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_editor_absoluteY = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_editor_absoluteY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_goneMarginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_goneMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_goneMarginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_goneMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_goneMarginLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_goneMarginLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_goneMarginRight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_goneMarginRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_goneMarginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_goneMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_layout_goneMarginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_layout_goneMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_maxHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Layout_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Layout_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_android_gravity = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_divider = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearLayoutCompat_showDividers = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearProgressIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearProgressIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearProgressIndicator_indeterminateAnimationType = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearProgressIndicator_indeterminateAnimationType;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.LinearProgressIndicator_indicatorDirectionLinear = global::DjK.WeatherApp.Droid.Resource.Styleable.LinearProgressIndicator_indicatorDirectionLinear;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPopupWindow = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPreference_android_entries = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPreference_android_entries;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPreference_android_entryValues = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPreference_android_entryValues;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPreference_entries = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPreference_entries;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPreference_entryValues = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPreference_entryValues;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ListPreference_useSimpleSummaryProvider = global::DjK.WeatherApp.Droid.Resource.Styleable.ListPreference_useSimpleSummaryProvider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialog = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialog;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialogTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAlertDialog_backgroundInsetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAutoCompleteTextView = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAutoCompleteTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialAutoCompleteTextView_android_inputType;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButtonToggleGroup = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButtonToggleGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButtonToggleGroup_checkedButton = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButtonToggleGroup_checkedButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButtonToggleGroup_selectionRequired;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButtonToggleGroup_singleSelection = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButtonToggleGroup_singleSelection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_android_background = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_android_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_android_checkable = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_android_checkable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_android_insetBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_android_insetLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_android_insetRight = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_android_insetRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_android_insetTop = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_android_insetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_backgroundTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_cornerRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_cornerRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_icon = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_iconGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_iconGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_iconPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_iconPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_iconSize = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_iconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_iconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_iconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_iconTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_iconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_rippleColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_rippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_strokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_strokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialButton_strokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialButton_strokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_android_insetBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_android_insetLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_android_insetRight = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_android_insetTop = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_android_insetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_itemFillColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_itemFillColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_itemShapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_itemStrokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_itemStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendarItem_itemTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendarItem_itemTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_android_windowFullscreen = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_android_windowFullscreen;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_dayInvalidStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_dayInvalidStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_daySelectedStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_daySelectedStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_dayStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_dayStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_dayTodayStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_dayTodayStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_nestedScrollable = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_nestedScrollable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_rangeFillColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_rangeFillColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_yearSelectedStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_yearSelectedStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_yearStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_yearStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCalendar_yearTodayStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCalendar_yearTodayStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_android_checkable = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_android_checkable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_cardForegroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_cardForegroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_checkedIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_checkedIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_checkedIconMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_checkedIconMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_checkedIconSize = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_checkedIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_checkedIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_checkedIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_rippleColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_rippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_state_dragged = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_state_dragged;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_strokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_strokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCardView_strokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCheckBox = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCheckBox;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCheckBox_buttonTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCheckBox_buttonTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialCheckBox_useMaterialThemeColors;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialRadioButton = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialRadioButton;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialRadioButton_buttonTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialRadioButton_buttonTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialRadioButton_useMaterialThemeColors;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialShape = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialShape;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialShape_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialShape_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialShape_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialShape_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextAppearance_android_letterSpacing = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextAppearance_android_letterSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextAppearance_android_lineHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextAppearance_android_lineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextAppearance_lineHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextAppearance_lineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextView = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextView_android_lineHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextView_android_lineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextView_android_textAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextView_android_textAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTextView_lineHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTextView_lineHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTimePicker = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTimePicker;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTimePicker_clockIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTimePicker_clockIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialTimePicker_keyboardIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialTimePicker_keyboardIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialToolbar = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialToolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialToolbar_navigationIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialToolbar_navigationIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialToolbar_subtitleCentered = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialToolbar_subtitleCentered;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MaterialToolbar_titleCentered = global::DjK.WeatherApp.Droid.Resource.Styleable.MaterialToolbar_titleCentered;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup_android_checkableBehavior = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup_android_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup_android_menuCategory = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup_android_orderInCategory = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuGroup_android_visible = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_actionLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_actionProviderClass = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_actionViewClass = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_alphabeticModifiers = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_checkable = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_checked = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_icon = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_menuCategory = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_numericShortcut = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_onClick = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_orderInCategory = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_title = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_titleCondensed = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_android_visible = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_contentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_iconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_iconTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_numericModifiers = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_showAsAction = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuItem_tooltipText = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_headerBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_horizontalDivider = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_itemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_itemTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_verticalDivider = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_android_windowAnimationStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_preserveIconSpacing = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MenuView_subMenuArrow = global::DjK.WeatherApp.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView_mock_diagonalsColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView_mock_diagonalsColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView_mock_label = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView_mock_label;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView_mock_labelBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView_mock_labelBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView_mock_labelColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView_mock_labelColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView_mock_showDiagonals = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView_mock_showDiagonals;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MockView_mock_showLabel = global::DjK.WeatherApp.Droid.Resource.Styleable.MockView_mock_showLabel;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Motion = global::DjK.WeatherApp.Droid.Resource.Styleable.Motion;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionHelper = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionHelper;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionHelper_onHide = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionHelper_onHide;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionHelper_onShow = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionHelper_onShow;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout_applyMotionScene = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout_applyMotionScene;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout_currentState = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout_currentState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout_layoutDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout_layoutDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout_motionDebug = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout_motionDebug;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionLayout_showPaths = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionLayout_showPaths;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionScene = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionScene;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionScene_defaultDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionScene_defaultDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionScene_layoutDuringTransition = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionScene_layoutDuringTransition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionTelltales = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionTelltales;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionTelltales_telltales_tailColor = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionTelltales_telltales_tailColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionTelltales_telltales_tailScale = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionTelltales_telltales_tailScale;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MotionTelltales_telltales_velocityMode = global::DjK.WeatherApp.Droid.Resource.Styleable.MotionTelltales_telltales_velocityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Motion_drawPath = global::DjK.WeatherApp.Droid.Resource.Styleable.Motion_drawPath;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Motion_motionPathRotate = global::DjK.WeatherApp.Droid.Resource.Styleable.Motion_motionPathRotate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Motion_motionStagger = global::DjK.WeatherApp.Droid.Resource.Styleable.Motion_motionStagger;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Motion_pathMotionArc = global::DjK.WeatherApp.Droid.Resource.Styleable.Motion_pathMotionArc;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Motion_transitionEasing = global::DjK.WeatherApp.Droid.Resource.Styleable.Motion_transitionEasing;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MultiSelectListPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.MultiSelectListPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MultiSelectListPreference_android_entries = global::DjK.WeatherApp.Droid.Resource.Styleable.MultiSelectListPreference_android_entries;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MultiSelectListPreference_android_entryValues = global::DjK.WeatherApp.Droid.Resource.Styleable.MultiSelectListPreference_android_entryValues;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MultiSelectListPreference_entries = global::DjK.WeatherApp.Droid.Resource.Styleable.MultiSelectListPreference_entries;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MultiSelectListPreference_entryValues = global::DjK.WeatherApp.Droid.Resource.Styleable.MultiSelectListPreference_entryValues;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxBinding = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxBinding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxBinding_MvxBind = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxBinding_MvxBind;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxBinding_MvxLang = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxBinding_MvxLang;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxControl = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxControl;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxControl_MvxTemplate = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxControl_MvxTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxExpandableListView = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxExpandableListView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxExpandableListView_MvxGroupItemTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxListView = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxListView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxListView_MvxDropDownItemTemplate = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxListView_MvxDropDownItemTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.MvxListView_MvxItemTemplate = global::DjK.WeatherApp.Droid.Resource.Styleable.MvxListView_MvxItemTemplate;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemIconSize = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemRippleColor = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemRippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemTextAppearanceActive = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemTextAppearanceActive;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemTextAppearanceInactive = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemTextAppearanceInactive;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_itemTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_itemTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_labelVisibilityMode = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_labelVisibilityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationBarView_menu = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationBarView_menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationRailView = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationRailView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationRailView_headerLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationRailView_headerLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationRailView_menuGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationRailView_menuGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_android_background = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_android_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_headerLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_headerLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemHorizontalPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemIconPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemIconPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemIconSize = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemIconSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemMaxLines = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemMaxLines;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeFillColor = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeFillColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeInsetBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeInsetEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeInsetStart = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemShapeInsetTop = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemShapeInsetTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_itemTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_itemTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_menu = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.NavigationView_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.NavigationView_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnClick = global::DjK.WeatherApp.Droid.Resource.Styleable.OnClick;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnClick_clickAction = global::DjK.WeatherApp.Droid.Resource.Styleable.OnClick_clickAction;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnClick_targetId = global::DjK.WeatherApp.Droid.Resource.Styleable.OnClick_targetId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_dragDirection = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_dragDirection;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_dragScale = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_dragScale;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_dragThreshold = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_dragThreshold;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_limitBoundsTo = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_limitBoundsTo;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_maxAcceleration = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_maxAcceleration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_maxVelocity = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_maxVelocity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_moveWhenScrollAtTop = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_moveWhenScrollAtTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_nestedScrollFlags = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_nestedScrollFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_onTouchUp = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_onTouchUp;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_touchAnchorId = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_touchAnchorId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_touchAnchorSide = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_touchAnchorSide;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.OnSwipe_touchRegionId = global::DjK.WeatherApp.Droid.Resource.Styleable.OnSwipe_touchRegionId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PopupWindow = global::DjK.WeatherApp.Droid.Resource.Styleable.PopupWindow;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PopupWindowBackgroundState = global::DjK.WeatherApp.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::DjK.WeatherApp.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PopupWindow_android_popupBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PopupWindow_overlapAnchor = global::DjK.WeatherApp.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragment = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragmentCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragmentCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragmentCompat_allowDividerAfterLastItem = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragmentCompat_allowDividerAfterLastItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragmentCompat_android_divider = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragmentCompat_android_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragmentCompat_android_dividerHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragmentCompat_android_dividerHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragmentCompat_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragmentCompat_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragment_allowDividerAfterLastItem = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragment_allowDividerAfterLastItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragment_android_divider = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragment_android_divider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragment_android_dividerHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragment_android_dividerHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceFragment_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceFragment_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceGroup = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceGroup_android_orderingFromXml = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceGroup_android_orderingFromXml;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceGroup_initialExpandedChildrenCount = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceGroup_initialExpandedChildrenCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceGroup_orderingFromXml = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceGroup_orderingFromXml;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceImageView = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceImageView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceImageView_android_maxHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceImageView_android_maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceImageView_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceImageView_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceImageView_maxHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceImageView_maxHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceImageView_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceImageView_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_checkBoxPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_checkBoxPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_dialogPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_dialogPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_dropdownPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_dropdownPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_editTextPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_editTextPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceCategoryStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceCategoryStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceCategoryTitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceCategoryTitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceFragmentCompatStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceFragmentCompatStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceFragmentListStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceFragmentListStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceFragmentStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceFragmentStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceInformationStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceInformationStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceScreenStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceScreenStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_preferenceTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_preferenceTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_seekBarPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_seekBarPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_switchPreferenceCompatStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_switchPreferenceCompatStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PreferenceTheme_switchPreferenceStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.PreferenceTheme_switchPreferenceStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_allowDividerAbove = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_allowDividerAbove;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_allowDividerBelow = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_allowDividerBelow;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_defaultValue = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_defaultValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_dependency = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_dependency;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_fragment = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_fragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_icon = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_iconSpaceReserved = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_iconSpaceReserved;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_key = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_key;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_order = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_order;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_persistent = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_persistent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_selectable = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_selectable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_shouldDisableView = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_shouldDisableView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_singleLineTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_singleLineTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_summary = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_summary;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_title = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_android_widgetLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_android_widgetLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_defaultValue = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_defaultValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_dependency = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_dependency;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_enableCopying = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_enableCopying;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_fragment = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_fragment;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_icon = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_iconSpaceReserved = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_iconSpaceReserved;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_isPreferenceVisible = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_isPreferenceVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_key = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_key;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_order = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_order;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_persistent = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_persistent;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_selectable = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_selectable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_shouldDisableView = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_shouldDisableView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_singleLineTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_singleLineTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_summary = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_summary;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_title = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Preference_widgetLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.Preference_widgetLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PropertySet = global::DjK.WeatherApp.Droid.Resource.Styleable.PropertySet;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PropertySet_android_alpha = global::DjK.WeatherApp.Droid.Resource.Styleable.PropertySet_android_alpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PropertySet_android_visibility = global::DjK.WeatherApp.Droid.Resource.Styleable.PropertySet_android_visibility;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PropertySet_layout_constraintTag = global::DjK.WeatherApp.Droid.Resource.Styleable.PropertySet_layout_constraintTag;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PropertySet_motionProgress = global::DjK.WeatherApp.Droid.Resource.Styleable.PropertySet_motionProgress;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.PropertySet_visibilityMode = global::DjK.WeatherApp.Droid.Resource.Styleable.PropertySet_visibilityMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RadialViewGroup = global::DjK.WeatherApp.Droid.Resource.Styleable.RadialViewGroup;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RadialViewGroup_materialCircleRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.RadialViewGroup_materialCircleRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RangeSlider = global::DjK.WeatherApp.Droid.Resource.Styleable.RangeSlider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RangeSlider_minSeparation = global::DjK.WeatherApp.Droid.Resource.Styleable.RangeSlider_minSeparation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RangeSlider_values = global::DjK.WeatherApp.Droid.Resource.Styleable.RangeSlider_values;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecycleListView = global::DjK.WeatherApp.Droid.Resource.Styleable.RecycleListView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::DjK.WeatherApp.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::DjK.WeatherApp.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_android_clipToPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_android_clipToPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_android_descendantFocusability = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_fastScrollEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_layoutManager = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_layoutManager;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_reverseLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_reverseLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_spanCount = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_spanCount;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.RecyclerView_stackFromEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ScrimInsetsFrameLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::DjK.WeatherApp.Droid.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ScrollingViewBehavior_Layout = global::DjK.WeatherApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::DjK.WeatherApp.Droid.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_android_focusable = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_android_imeOptions = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_android_inputType = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_closeIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_commitIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_defaultQueryHint = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_goIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_goIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_iconifiedByDefault = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_queryBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_queryHint = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_queryHint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_searchHintIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_searchIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_submitBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_suggestionRowLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SearchView_voiceIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_adjustable = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_adjustable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_android_max = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_android_max;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_min = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_min;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_seekBarIncrement = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_seekBarIncrement;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_showSeekBarValue = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_showSeekBarValue;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SeekBarPreference_updatesContinuously = global::DjK.WeatherApp.Droid.Resource.Styleable.SeekBarPreference_updatesContinuously;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPaddingBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPaddingBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPaddingEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPaddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPaddingLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPaddingLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPaddingRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPaddingRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPaddingStart = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPaddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_contentPaddingTop = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_contentPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_strokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_strokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeableImageView_strokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeableImageView_strokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerFamily = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyBottomRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerFamilyTopRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerSize = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeBottomRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ShapeAppearance_cornerSizeTopRight = global::DjK.WeatherApp.Droid.Resource.Styleable.ShapeAppearance_cornerSizeTopRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_android_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_android_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_android_stepSize = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_android_stepSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_android_value = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_android_value;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_android_valueFrom = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_android_valueFrom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_android_valueTo = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_android_valueTo;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_haloColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_haloColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_haloRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_haloRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_labelBehavior = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_labelBehavior;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_labelStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_labelStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_thumbColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_thumbColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_thumbElevation = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_thumbElevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_thumbRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_thumbRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_thumbStrokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_thumbStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_thumbStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_thumbStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_tickColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_tickColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_tickColorActive = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_tickColorActive;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_tickColorInactive = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_tickColorInactive;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_tickVisible = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_tickVisible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_trackColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_trackColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_trackColorActive = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_trackColorActive;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_trackColorInactive = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_trackColorInactive;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Slider_trackHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Slider_trackHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Snackbar = global::DjK.WeatherApp.Droid.Resource.Styleable.Snackbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_actionTextColorAlpha = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_actionTextColorAlpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_animationMode = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_animationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_backgroundOverlayColorAlpha;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_backgroundTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_backgroundTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Snackbar_snackbarButtonStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Snackbar_snackbarStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Snackbar_snackbarStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Snackbar_snackbarTextViewStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.Snackbar_snackbarTextViewStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Spinner = global::DjK.WeatherApp.Droid.Resource.Styleable.Spinner;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Spinner_android_dropDownWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Spinner_android_entries = global::DjK.WeatherApp.Droid.Resource.Styleable.Spinner_android_entries;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Spinner_android_popupBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Spinner_android_prompt = global::DjK.WeatherApp.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Spinner_popupTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.State = global::DjK.WeatherApp.Droid.Resource.Styleable.State;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawableItem = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawableItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawableItem_android_drawable = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable_android_constantSize = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable_android_dither = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable_android_dither;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable_android_variablePadding = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateListDrawable_android_visible = global::DjK.WeatherApp.Droid.Resource.Styleable.StateListDrawable_android_visible;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateSet = global::DjK.WeatherApp.Droid.Resource.Styleable.StateSet;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.StateSet_defaultState = global::DjK.WeatherApp.Droid.Resource.Styleable.StateSet_defaultState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.State_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.State_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.State_constraints = global::DjK.WeatherApp.Droid.Resource.Styleable.State_constraints;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_android_textOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_android_textOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_android_thumb = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_showText = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_splitTrack = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_switchMinWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_switchPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_switchTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_thumbTextPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_thumbTint = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_thumbTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_track = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_track;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_trackTint = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchCompat_trackTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchMaterial = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchMaterial;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchMaterial_useMaterialThemeColors = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchMaterial_useMaterialThemeColors;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_android_disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_android_disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_android_summaryOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_android_summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_android_summaryOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_android_summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_android_switchTextOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_android_switchTextOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_android_switchTextOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_android_switchTextOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_summaryOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_summaryOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_switchTextOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_switchTextOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreferenceCompat_switchTextOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreferenceCompat_switchTextOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_android_disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_android_disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_android_summaryOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_android_summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_android_summaryOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_android_summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_android_switchTextOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_android_switchTextOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_android_switchTextOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_android_switchTextOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_disableDependentsState = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_disableDependentsState;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_summaryOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_summaryOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_summaryOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_summaryOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_switchTextOff = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_switchTextOff;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.SwitchPreference_switchTextOn = global::DjK.WeatherApp.Droid.Resource.Styleable.SwitchPreference_switchTextOn;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabItem = global::DjK.WeatherApp.Droid.Resource.Styleable.TabItem;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabItem_android_icon = global::DjK.WeatherApp.Droid.Resource.Styleable.TabItem_android_icon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabItem_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.TabItem_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabItem_android_text = global::DjK.WeatherApp.Droid.Resource.Styleable.TabItem_android_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabBackground = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabBackground;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabContentStart = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabContentStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIconTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicator = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicatorAnimationMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicatorAnimationMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicatorColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicatorGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabIndicatorHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabInlineLabel = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabMaxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabMinWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabMinWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabPadding = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabPadding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabPaddingBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabPaddingEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabPaddingStart = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabPaddingTop = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabRippleColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabRippleColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabSelectedTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TabLayout_tabUnboundedRipple = global::DjK.WeatherApp.Droid.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_fontFamily = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_shadowColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_shadowDx = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_shadowDy = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_shadowRadius = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_textColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_textColorHint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_textColorLink = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_textFontWeight = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_textFontWeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_textSize = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_textStyle = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_android_typeface = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_fontFamily = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_fontVariationSettings = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_fontVariationSettings;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_textAllCaps = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextAppearance_textLocale = global::DjK.WeatherApp.Droid.Resource.Styleable.TextAppearance_textLocale;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputEditText = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputEditText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputEditText_textInputLayoutFocusedRectEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_android_enabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_android_enabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_android_hint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_android_hint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_android_maxWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_android_maxWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_android_textColorHint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxStrokeColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxStrokeErrorColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeErrorColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_boxStrokeWidthFocused;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_counterEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_counterMaxLength = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_counterOverflowTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_counterOverflowTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_counterTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_counterTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_counterTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_endIconCheckable = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_endIconCheckable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_endIconContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_endIconContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_endIconDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_endIconDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_endIconMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_endIconMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_endIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_endIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_endIconTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_endIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorIconDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorIconDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorIconTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_errorTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_errorTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_expandedHintEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_expandedHintEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_helperText = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_helperText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_helperTextEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_helperTextTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_helperTextTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_hintEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_hintTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_hintTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_hintTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_passwordToggleTint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_placeholderText = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_placeholderText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_placeholderTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_placeholderTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_placeholderTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_placeholderTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_prefixText = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_prefixText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_prefixTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_prefixTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_prefixTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_prefixTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_shapeAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_shapeAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_shapeAppearanceOverlay;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_startIconCheckable = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_startIconCheckable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_startIconContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_startIconContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_startIconDrawable = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_startIconDrawable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_startIconTint = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_startIconTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_startIconTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_startIconTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_suffixText = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_suffixText;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_suffixTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_suffixTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.TextInputLayout_suffixTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.TextInputLayout_suffixTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ThemeEnforcement = global::DjK.WeatherApp.Droid.Resource.Styleable.ThemeEnforcement;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_android_gravity = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_android_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_buttonGravity = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_collapseContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_collapseIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_contentInsetEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_contentInsetLeft = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_contentInsetRight = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_contentInsetStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_logo = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_logo;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_logoDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_maxButtonHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_menu = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_menu;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_navigationContentDescription = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_navigationIcon = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_popupTheme = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_subtitle = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_subtitleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_subtitleTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_title = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_title;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleMargin = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleMarginBottom = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleMarginEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleMargins = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleMarginStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleMarginTop = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleTextAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Toolbar_titleTextColor = global::DjK.WeatherApp.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_android_layout_margin = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_android_layout_margin;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_android_minHeight = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_android_minHeight;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_android_minWidth = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_android_minWidth;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_android_padding = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_android_padding;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_android_text = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_android_text;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_android_textAppearance = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_android_textAppearance;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Tooltip_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.Tooltip_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_elevation = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_elevation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_rotation = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_rotation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_rotationX = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_rotationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_rotationY = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_rotationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_scaleX = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_scaleX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_scaleY = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_scaleY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_transformPivotX = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_transformPivotX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_transformPivotY = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_transformPivotY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_translationX = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_translationX;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_translationY = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_translationY;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transform_android_translationZ = global::DjK.WeatherApp.Droid.Resource.Styleable.Transform_android_translationZ;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_autoTransition = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_autoTransition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_constraintSetEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_constraintSetEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_constraintSetStart = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_constraintSetStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_duration = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_duration;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_layoutDuringTransition = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_layoutDuringTransition;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_motionInterpolator = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_motionInterpolator;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_pathMotionArc = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_pathMotionArc;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_staggered = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_staggered;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_transitionDisable = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_transitionDisable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Transition_transitionFlags = global::DjK.WeatherApp.Droid.Resource.Styleable.Transition_transitionFlags;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Variant = global::DjK.WeatherApp.Droid.Resource.Styleable.Variant;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Variant_constraints = global::DjK.WeatherApp.Droid.Resource.Styleable.Variant_constraints;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Variant_region_heightLessThan = global::DjK.WeatherApp.Droid.Resource.Styleable.Variant_region_heightLessThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Variant_region_heightMoreThan = global::DjK.WeatherApp.Droid.Resource.Styleable.Variant_region_heightMoreThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Variant_region_widthLessThan = global::DjK.WeatherApp.Droid.Resource.Styleable.Variant_region_widthLessThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.Variant_region_widthMoreThan = global::DjK.WeatherApp.Droid.Resource.Styleable.Variant_region_widthMoreThan;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.View = global::DjK.WeatherApp.Droid.Resource.Styleable.View;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewBackgroundHelper = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewBackgroundHelper_android_background = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewPager2 = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewPager2;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewPager2_android_orientation = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewPager2_android_orientation;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewStubCompat = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewStubCompat;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewStubCompat_android_id = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewStubCompat_android_inflatedId = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.ViewStubCompat_android_layout = global::DjK.WeatherApp.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.View_android_focusable = global::DjK.WeatherApp.Droid.Resource.Styleable.View_android_focusable;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.View_android_theme = global::DjK.WeatherApp.Droid.Resource.Styleable.View_android_theme;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.View_paddingEnd = global::DjK.WeatherApp.Droid.Resource.Styleable.View_paddingEnd;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.View_paddingStart = global::DjK.WeatherApp.Droid.Resource.Styleable.View_paddingStart;
+			global::MvvmCross.Plugin.Visibility.Resource.Styleable.View_theme = global::DjK.WeatherApp.Droid.Resource.Styleable.View_theme;
+			global::MvvmCross.Plugin.Visibility.Resource.Xml.standalone_badge = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge;
+			global::MvvmCross.Plugin.Visibility.Resource.Xml.standalone_badge_gravity_bottom_end = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_gravity_bottom_end;
+			global::MvvmCross.Plugin.Visibility.Resource.Xml.standalone_badge_gravity_bottom_start = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_gravity_bottom_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Xml.standalone_badge_gravity_top_start = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_gravity_top_start;
+			global::MvvmCross.Plugin.Visibility.Resource.Xml.standalone_badge_offset = global::DjK.WeatherApp.Droid.Resource.Xml.standalone_badge_offset;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::DjK.WeatherApp.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::DjK.WeatherApp.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::DjK.WeatherApp.Droid.Resource.Attribute.fontProviderAuthority;
@@ -13742,307 +18783,310 @@ namespace DjK.WeatherApp.Droid
 			public const int get_weather = 2131230937;
 			
 			// aapt resource value: 0x7F0800DA
-			public const int ghost_view = 2131230938;
+			public const int get_weather_progress_bar = 2131230938;
 			
 			// aapt resource value: 0x7F0800DB
-			public const int ghost_view_holder = 2131230939;
+			public const int ghost_view = 2131230939;
 			
 			// aapt resource value: 0x7F0800DC
-			public const int gone = 2131230940;
+			public const int ghost_view_holder = 2131230940;
 			
 			// aapt resource value: 0x7F0800DD
-			public const int graph = 2131230941;
+			public const int gone = 2131230941;
 			
 			// aapt resource value: 0x7F0800DE
-			public const int graph_wrap = 2131230942;
-			
-			// aapt resource value: 0x7F0800E0
-			public const int grouping = 2131230944;
-			
-			// aapt resource value: 0x7F0800E1
-			public const int groups = 2131230945;
+			public const int graph = 2131230942;
 			
 			// aapt resource value: 0x7F0800DF
-			public const int group_divider = 2131230943;
+			public const int graph_wrap = 2131230943;
+			
+			// aapt resource value: 0x7F0800E1
+			public const int grouping = 2131230945;
 			
 			// aapt resource value: 0x7F0800E2
-			public const int guideline = 2131230946;
+			public const int groups = 2131230946;
+			
+			// aapt resource value: 0x7F0800E0
+			public const int group_divider = 2131230944;
 			
 			// aapt resource value: 0x7F0800E3
-			public const int header_title = 2131230947;
+			public const int guideline = 2131230947;
 			
 			// aapt resource value: 0x7F0800E4
-			public const int hideable = 2131230948;
+			public const int header_title = 2131230948;
 			
 			// aapt resource value: 0x7F0800E5
-			public const int home = 2131230949;
+			public const int hideable = 2131230949;
 			
 			// aapt resource value: 0x7F0800E6
-			public const int homeAsUp = 2131230950;
+			public const int home = 2131230950;
 			
 			// aapt resource value: 0x7F0800E7
-			public const int honorRequest = 2131230951;
+			public const int homeAsUp = 2131230951;
 			
 			// aapt resource value: 0x7F0800E8
-			public const int horizontal_only = 2131230952;
+			public const int honorRequest = 2131230952;
 			
 			// aapt resource value: 0x7F0800E9
-			public const int icon = 2131230953;
+			public const int horizontal_only = 2131230953;
 			
 			// aapt resource value: 0x7F0800EA
-			public const int icon_frame = 2131230954;
+			public const int icon = 2131230954;
 			
 			// aapt resource value: 0x7F0800EB
-			public const int icon_group = 2131230955;
+			public const int icon_frame = 2131230955;
 			
 			// aapt resource value: 0x7F0800EC
-			public const int ifRoom = 2131230956;
+			public const int icon_group = 2131230956;
 			
 			// aapt resource value: 0x7F0800ED
-			public const int ignore = 2131230957;
+			public const int ifRoom = 2131230957;
 			
 			// aapt resource value: 0x7F0800EE
-			public const int ignoreRequest = 2131230958;
+			public const int ignore = 2131230958;
 			
 			// aapt resource value: 0x7F0800EF
-			public const int image = 2131230959;
+			public const int ignoreRequest = 2131230959;
 			
 			// aapt resource value: 0x7F0800F0
-			public const int immediateStop = 2131230960;
+			public const int image = 2131230960;
 			
 			// aapt resource value: 0x7F0800F1
-			public const int included = 2131230961;
+			public const int immediateStop = 2131230961;
 			
 			// aapt resource value: 0x7F0800F2
-			public const int info = 2131230962;
+			public const int included = 2131230962;
 			
 			// aapt resource value: 0x7F0800F3
-			public const int invisible = 2131230963;
+			public const int info = 2131230963;
 			
 			// aapt resource value: 0x7F0800F4
-			public const int inward = 2131230964;
+			public const int invisible = 2131230964;
 			
 			// aapt resource value: 0x7F0800F5
-			public const int italic = 2131230965;
+			public const int inward = 2131230965;
 			
 			// aapt resource value: 0x7F0800F6
-			public const int item_touch_helper_previous_elevation = 2131230966;
+			public const int italic = 2131230966;
 			
 			// aapt resource value: 0x7F0800F7
-			public const int jumpToEnd = 2131230967;
+			public const int item_touch_helper_previous_elevation = 2131230967;
 			
 			// aapt resource value: 0x7F0800F8
-			public const int jumpToStart = 2131230968;
+			public const int jumpToEnd = 2131230968;
 			
 			// aapt resource value: 0x7F0800F9
-			public const int labeled = 2131230969;
+			public const int jumpToStart = 2131230969;
 			
 			// aapt resource value: 0x7F0800FA
-			public const int layout = 2131230970;
+			public const int labeled = 2131230970;
 			
 			// aapt resource value: 0x7F0800FB
-			public const int left = 2131230971;
+			public const int layout = 2131230971;
 			
 			// aapt resource value: 0x7F0800FC
-			public const int leftToRight = 2131230972;
+			public const int left = 2131230972;
 			
 			// aapt resource value: 0x7F0800FD
-			public const int legacy = 2131230973;
+			public const int leftToRight = 2131230973;
 			
 			// aapt resource value: 0x7F0800FE
-			public const int line1 = 2131230974;
+			public const int legacy = 2131230974;
 			
 			// aapt resource value: 0x7F0800FF
-			public const int line3 = 2131230975;
+			public const int line1 = 2131230975;
 			
 			// aapt resource value: 0x7F080100
-			public const int linear = 2131230976;
+			public const int line3 = 2131230976;
 			
 			// aapt resource value: 0x7F080101
-			public const int listMode = 2131230977;
+			public const int linear = 2131230977;
 			
 			// aapt resource value: 0x7F080102
-			public const int list_item = 2131230978;
+			public const int listMode = 2131230978;
 			
 			// aapt resource value: 0x7F080103
-			public const int location = 2131230979;
+			public const int list_item = 2131230979;
 			
 			// aapt resource value: 0x7F080104
-			public const int location_label = 2131230980;
+			public const int location = 2131230980;
 			
 			// aapt resource value: 0x7F080105
-			public const int masked = 2131230981;
+			public const int location_label = 2131230981;
 			
 			// aapt resource value: 0x7F080106
-			public const int match_constraint = 2131230982;
+			public const int masked = 2131230982;
 			
 			// aapt resource value: 0x7F080107
-			public const int match_parent = 2131230983;
+			public const int match_constraint = 2131230983;
 			
 			// aapt resource value: 0x7F080108
-			public const int material_clock_display = 2131230984;
+			public const int match_parent = 2131230984;
 			
 			// aapt resource value: 0x7F080109
-			public const int material_clock_face = 2131230985;
+			public const int material_clock_display = 2131230985;
 			
 			// aapt resource value: 0x7F08010A
-			public const int material_clock_hand = 2131230986;
+			public const int material_clock_face = 2131230986;
 			
 			// aapt resource value: 0x7F08010B
-			public const int material_clock_period_am_button = 2131230987;
+			public const int material_clock_hand = 2131230987;
 			
 			// aapt resource value: 0x7F08010C
-			public const int material_clock_period_pm_button = 2131230988;
+			public const int material_clock_period_am_button = 2131230988;
 			
 			// aapt resource value: 0x7F08010D
-			public const int material_clock_period_toggle = 2131230989;
+			public const int material_clock_period_pm_button = 2131230989;
 			
 			// aapt resource value: 0x7F08010E
-			public const int material_hour_text_input = 2131230990;
+			public const int material_clock_period_toggle = 2131230990;
 			
 			// aapt resource value: 0x7F08010F
-			public const int material_hour_tv = 2131230991;
+			public const int material_hour_text_input = 2131230991;
 			
 			// aapt resource value: 0x7F080110
-			public const int material_label = 2131230992;
+			public const int material_hour_tv = 2131230992;
 			
 			// aapt resource value: 0x7F080111
-			public const int material_minute_text_input = 2131230993;
+			public const int material_label = 2131230993;
 			
 			// aapt resource value: 0x7F080112
-			public const int material_minute_tv = 2131230994;
+			public const int material_minute_text_input = 2131230994;
 			
 			// aapt resource value: 0x7F080113
-			public const int material_textinput_timepicker = 2131230995;
+			public const int material_minute_tv = 2131230995;
 			
 			// aapt resource value: 0x7F080114
-			public const int material_timepicker_cancel_button = 2131230996;
+			public const int material_textinput_timepicker = 2131230996;
 			
 			// aapt resource value: 0x7F080115
-			public const int material_timepicker_container = 2131230997;
+			public const int material_timepicker_cancel_button = 2131230997;
 			
 			// aapt resource value: 0x7F080116
-			public const int material_timepicker_edit_text = 2131230998;
+			public const int material_timepicker_container = 2131230998;
 			
 			// aapt resource value: 0x7F080117
-			public const int material_timepicker_mode_button = 2131230999;
+			public const int material_timepicker_edit_text = 2131230999;
 			
 			// aapt resource value: 0x7F080118
-			public const int material_timepicker_ok_button = 2131231000;
+			public const int material_timepicker_mode_button = 2131231000;
 			
 			// aapt resource value: 0x7F080119
-			public const int material_timepicker_view = 2131231001;
+			public const int material_timepicker_ok_button = 2131231001;
 			
 			// aapt resource value: 0x7F08011A
-			public const int material_value_index = 2131231002;
+			public const int material_timepicker_view = 2131231002;
 			
 			// aapt resource value: 0x7F08011B
-			public const int matrix = 2131231003;
+			public const int material_value_index = 2131231003;
 			
 			// aapt resource value: 0x7F08011C
-			public const int message = 2131231004;
+			public const int matrix = 2131231004;
+			
+			// aapt resource value: 0x7F08011D
+			public const int message = 2131231005;
 			
 			// aapt resource value: 0x7F080005
 			public const int META = 2131230725;
 			
-			// aapt resource value: 0x7F08011D
-			public const int middle = 2131231005;
-			
 			// aapt resource value: 0x7F08011E
-			public const int mini = 2131231006;
+			public const int middle = 2131231006;
 			
 			// aapt resource value: 0x7F08011F
-			public const int month_grid = 2131231007;
+			public const int mini = 2131231007;
 			
 			// aapt resource value: 0x7F080120
-			public const int month_navigation_bar = 2131231008;
+			public const int month_grid = 2131231008;
 			
 			// aapt resource value: 0x7F080121
-			public const int month_navigation_fragment_toggle = 2131231009;
+			public const int month_navigation_bar = 2131231009;
 			
 			// aapt resource value: 0x7F080122
-			public const int month_navigation_next = 2131231010;
+			public const int month_navigation_fragment_toggle = 2131231010;
 			
 			// aapt resource value: 0x7F080123
-			public const int month_navigation_previous = 2131231011;
+			public const int month_navigation_next = 2131231011;
 			
 			// aapt resource value: 0x7F080124
-			public const int month_title = 2131231012;
+			public const int month_navigation_previous = 2131231012;
 			
 			// aapt resource value: 0x7F080125
-			public const int motion_base = 2131231013;
+			public const int month_title = 2131231013;
 			
 			// aapt resource value: 0x7F080126
-			public const int mtrl_anchor_parent = 2131231014;
-			
-			// aapt resource value: 0x7F080128
-			public const int mtrl_calendar_days_of_week = 2131231016;
+			public const int motion_base = 2131231014;
 			
 			// aapt resource value: 0x7F080127
-			public const int mtrl_calendar_day_selector_frame = 2131231015;
+			public const int mtrl_anchor_parent = 2131231015;
 			
 			// aapt resource value: 0x7F080129
-			public const int mtrl_calendar_frame = 2131231017;
+			public const int mtrl_calendar_days_of_week = 2131231017;
+			
+			// aapt resource value: 0x7F080128
+			public const int mtrl_calendar_day_selector_frame = 2131231016;
 			
 			// aapt resource value: 0x7F08012A
-			public const int mtrl_calendar_main_pane = 2131231018;
+			public const int mtrl_calendar_frame = 2131231018;
 			
 			// aapt resource value: 0x7F08012B
-			public const int mtrl_calendar_months = 2131231019;
+			public const int mtrl_calendar_main_pane = 2131231019;
 			
 			// aapt resource value: 0x7F08012C
-			public const int mtrl_calendar_selection_frame = 2131231020;
+			public const int mtrl_calendar_months = 2131231020;
 			
 			// aapt resource value: 0x7F08012D
-			public const int mtrl_calendar_text_input_frame = 2131231021;
+			public const int mtrl_calendar_selection_frame = 2131231021;
 			
 			// aapt resource value: 0x7F08012E
-			public const int mtrl_calendar_year_selector_frame = 2131231022;
+			public const int mtrl_calendar_text_input_frame = 2131231022;
 			
 			// aapt resource value: 0x7F08012F
-			public const int mtrl_card_checked_layer_id = 2131231023;
+			public const int mtrl_calendar_year_selector_frame = 2131231023;
 			
 			// aapt resource value: 0x7F080130
-			public const int mtrl_child_content_container = 2131231024;
+			public const int mtrl_card_checked_layer_id = 2131231024;
 			
 			// aapt resource value: 0x7F080131
-			public const int mtrl_internal_children_alpha_tag = 2131231025;
+			public const int mtrl_child_content_container = 2131231025;
 			
 			// aapt resource value: 0x7F080132
-			public const int mtrl_motion_snapshot_view = 2131231026;
+			public const int mtrl_internal_children_alpha_tag = 2131231026;
 			
 			// aapt resource value: 0x7F080133
-			public const int mtrl_picker_fullscreen = 2131231027;
+			public const int mtrl_motion_snapshot_view = 2131231027;
 			
 			// aapt resource value: 0x7F080134
-			public const int mtrl_picker_header = 2131231028;
+			public const int mtrl_picker_fullscreen = 2131231028;
 			
 			// aapt resource value: 0x7F080135
-			public const int mtrl_picker_header_selection_text = 2131231029;
+			public const int mtrl_picker_header = 2131231029;
 			
 			// aapt resource value: 0x7F080136
-			public const int mtrl_picker_header_title_and_selection = 2131231030;
+			public const int mtrl_picker_header_selection_text = 2131231030;
 			
 			// aapt resource value: 0x7F080137
-			public const int mtrl_picker_header_toggle = 2131231031;
+			public const int mtrl_picker_header_title_and_selection = 2131231031;
 			
 			// aapt resource value: 0x7F080138
-			public const int mtrl_picker_text_input_date = 2131231032;
+			public const int mtrl_picker_header_toggle = 2131231032;
 			
 			// aapt resource value: 0x7F080139
-			public const int mtrl_picker_text_input_range_end = 2131231033;
+			public const int mtrl_picker_text_input_date = 2131231033;
 			
 			// aapt resource value: 0x7F08013A
-			public const int mtrl_picker_text_input_range_start = 2131231034;
+			public const int mtrl_picker_text_input_range_end = 2131231034;
 			
 			// aapt resource value: 0x7F08013B
-			public const int mtrl_picker_title_text = 2131231035;
+			public const int mtrl_picker_text_input_range_start = 2131231035;
 			
 			// aapt resource value: 0x7F08013C
-			public const int mtrl_view_tag_bottom_padding = 2131231036;
+			public const int mtrl_picker_title_text = 2131231036;
 			
 			// aapt resource value: 0x7F08013D
-			public const int multiply = 2131231037;
+			public const int mtrl_view_tag_bottom_padding = 2131231037;
+			
+			// aapt resource value: 0x7F08013E
+			public const int multiply = 2131231038;
 			
 			// aapt resource value: 0x7F080006
 			public const int MvvmCrossTagId = 2131230726;
@@ -14050,257 +19094,257 @@ namespace DjK.WeatherApp.Droid
 			// aapt resource value: 0x7F080007
 			public const int MvxBindingTagUnique = 2131230727;
 			
-			// aapt resource value: 0x7F08013E
-			public const int navigation_bar_item_active_indicator_view = 2131231038;
-			
 			// aapt resource value: 0x7F08013F
-			public const int navigation_bar_item_icon_container = 2131231039;
+			public const int navigation_bar_item_active_indicator_view = 2131231039;
 			
 			// aapt resource value: 0x7F080140
-			public const int navigation_bar_item_icon_view = 2131231040;
+			public const int navigation_bar_item_icon_container = 2131231040;
 			
 			// aapt resource value: 0x7F080141
-			public const int navigation_bar_item_labels_group = 2131231041;
+			public const int navigation_bar_item_icon_view = 2131231041;
 			
 			// aapt resource value: 0x7F080142
-			public const int navigation_bar_item_large_label_view = 2131231042;
+			public const int navigation_bar_item_labels_group = 2131231042;
 			
 			// aapt resource value: 0x7F080143
-			public const int navigation_bar_item_small_label_view = 2131231043;
+			public const int navigation_bar_item_large_label_view = 2131231043;
 			
 			// aapt resource value: 0x7F080144
-			public const int navigation_header_container = 2131231044;
+			public const int navigation_bar_item_small_label_view = 2131231044;
 			
 			// aapt resource value: 0x7F080145
-			public const int never = 2131231045;
+			public const int navigation_header_container = 2131231045;
 			
 			// aapt resource value: 0x7F080146
-			public const int neverCompleteToEnd = 2131231046;
+			public const int never = 2131231046;
 			
 			// aapt resource value: 0x7F080147
-			public const int neverCompleteToStart = 2131231047;
-			
-			// aapt resource value: 0x7F08014A
-			public const int none = 2131231050;
-			
-			// aapt resource value: 0x7F08014B
-			public const int normal = 2131231051;
-			
-			// aapt resource value: 0x7F08014C
-			public const int north = 2131231052;
+			public const int neverCompleteToEnd = 2131231047;
 			
 			// aapt resource value: 0x7F080148
-			public const int noScroll = 2131231048;
+			public const int neverCompleteToStart = 2131231048;
 			
-			// aapt resource value: 0x7F080149
-			public const int noState = 2131231049;
+			// aapt resource value: 0x7F08014B
+			public const int none = 2131231051;
+			
+			// aapt resource value: 0x7F08014C
+			public const int normal = 2131231052;
 			
 			// aapt resource value: 0x7F08014D
-			public const int notification_background = 2131231053;
+			public const int north = 2131231053;
+			
+			// aapt resource value: 0x7F080149
+			public const int noScroll = 2131231049;
+			
+			// aapt resource value: 0x7F08014A
+			public const int noState = 2131231050;
 			
 			// aapt resource value: 0x7F08014E
-			public const int notification_main_column = 2131231054;
+			public const int notification_background = 2131231054;
 			
 			// aapt resource value: 0x7F08014F
-			public const int notification_main_column_container = 2131231055;
+			public const int notification_main_column = 2131231055;
+			
+			// aapt resource value: 0x7F080150
+			public const int notification_main_column_container = 2131231056;
 			
 			// aapt resource value: 0x7F080008
 			public const int NO_DEBUG = 2131230728;
 			
-			// aapt resource value: 0x7F080150
-			public const int off = 2131231056;
-			
 			// aapt resource value: 0x7F080151
-			public const int on = 2131231057;
+			public const int off = 2131231057;
 			
 			// aapt resource value: 0x7F080152
-			public const int onInterceptTouchReturnSwipe = 2131231058;
+			public const int on = 2131231058;
 			
 			// aapt resource value: 0x7F080153
-			public const int outline = 2131231059;
+			public const int onInterceptTouchReturnSwipe = 2131231059;
 			
 			// aapt resource value: 0x7F080154
-			public const int outward = 2131231060;
+			public const int outline = 2131231060;
 			
 			// aapt resource value: 0x7F080155
-			public const int overshoot = 2131231061;
+			public const int outward = 2131231061;
 			
 			// aapt resource value: 0x7F080156
-			public const int packed = 2131231062;
+			public const int overshoot = 2131231062;
 			
 			// aapt resource value: 0x7F080157
-			public const int parallax = 2131231063;
+			public const int packed = 2131231063;
 			
 			// aapt resource value: 0x7F080158
-			public const int parent = 2131231064;
+			public const int parallax = 2131231064;
 			
 			// aapt resource value: 0x7F080159
-			public const int parentPanel = 2131231065;
+			public const int parent = 2131231065;
 			
 			// aapt resource value: 0x7F08015A
-			public const int parentRelative = 2131231066;
+			public const int parentPanel = 2131231066;
 			
 			// aapt resource value: 0x7F08015B
-			public const int parent_matrix = 2131231067;
+			public const int parentRelative = 2131231067;
 			
 			// aapt resource value: 0x7F08015C
-			public const int password_toggle = 2131231068;
+			public const int parent_matrix = 2131231068;
 			
 			// aapt resource value: 0x7F08015D
-			public const int path = 2131231069;
+			public const int password_toggle = 2131231069;
 			
 			// aapt resource value: 0x7F08015E
-			public const int pathRelative = 2131231070;
+			public const int path = 2131231070;
 			
 			// aapt resource value: 0x7F08015F
-			public const int peekHeight = 2131231071;
+			public const int pathRelative = 2131231071;
 			
 			// aapt resource value: 0x7F080160
-			public const int percent = 2131231072;
+			public const int peekHeight = 2131231072;
 			
 			// aapt resource value: 0x7F080161
-			public const int pin = 2131231073;
+			public const int percent = 2131231073;
 			
 			// aapt resource value: 0x7F080162
-			public const int position = 2131231074;
+			public const int pin = 2131231074;
 			
 			// aapt resource value: 0x7F080163
-			public const int postLayout = 2131231075;
+			public const int position = 2131231075;
 			
 			// aapt resource value: 0x7F080164
-			public const int progress_circular = 2131231076;
+			public const int postLayout = 2131231076;
 			
 			// aapt resource value: 0x7F080165
-			public const int progress_horizontal = 2131231077;
+			public const int progress_circular = 2131231077;
 			
 			// aapt resource value: 0x7F080166
-			public const int radio = 2131231078;
+			public const int progress_horizontal = 2131231078;
 			
 			// aapt resource value: 0x7F080167
-			public const int ratio = 2131231079;
+			public const int radio = 2131231079;
 			
 			// aapt resource value: 0x7F080168
-			public const int rectangles = 2131231080;
+			public const int ratio = 2131231080;
 			
 			// aapt resource value: 0x7F080169
-			public const int recycler_view = 2131231081;
+			public const int rectangles = 2131231081;
 			
 			// aapt resource value: 0x7F08016A
-			public const int reverseSawtooth = 2131231082;
+			public const int recycler_view = 2131231082;
 			
 			// aapt resource value: 0x7F08016B
-			public const int right = 2131231083;
+			public const int reverseSawtooth = 2131231083;
 			
 			// aapt resource value: 0x7F08016C
-			public const int rightToLeft = 2131231084;
+			public const int right = 2131231084;
 			
 			// aapt resource value: 0x7F08016D
-			public const int right_icon = 2131231085;
+			public const int rightToLeft = 2131231085;
 			
 			// aapt resource value: 0x7F08016E
-			public const int right_side = 2131231086;
+			public const int right_icon = 2131231086;
 			
 			// aapt resource value: 0x7F08016F
-			public const int rounded = 2131231087;
+			public const int right_side = 2131231087;
 			
 			// aapt resource value: 0x7F080170
-			public const int row_index_key = 2131231088;
+			public const int rounded = 2131231088;
 			
 			// aapt resource value: 0x7F080171
-			public const int save_non_transition_alpha = 2131231089;
+			public const int row_index_key = 2131231089;
 			
 			// aapt resource value: 0x7F080172
-			public const int save_overlay_view = 2131231090;
+			public const int save_non_transition_alpha = 2131231090;
 			
 			// aapt resource value: 0x7F080173
-			public const int sawtooth = 2131231091;
+			public const int save_overlay_view = 2131231091;
 			
 			// aapt resource value: 0x7F080174
-			public const int scale = 2131231092;
+			public const int sawtooth = 2131231092;
 			
 			// aapt resource value: 0x7F080175
-			public const int screen = 2131231093;
+			public const int scale = 2131231093;
 			
 			// aapt resource value: 0x7F080176
-			public const int scroll = 2131231094;
-			
-			// aapt resource value: 0x7F08017A
-			public const int scrollable = 2131231098;
+			public const int screen = 2131231094;
 			
 			// aapt resource value: 0x7F080177
-			public const int scrollIndicatorDown = 2131231095;
-			
-			// aapt resource value: 0x7F080178
-			public const int scrollIndicatorUp = 2131231096;
-			
-			// aapt resource value: 0x7F080179
-			public const int scrollView = 2131231097;
+			public const int scroll = 2131231095;
 			
 			// aapt resource value: 0x7F08017B
-			public const int search_badge = 2131231099;
+			public const int scrollable = 2131231099;
+			
+			// aapt resource value: 0x7F080178
+			public const int scrollIndicatorDown = 2131231096;
+			
+			// aapt resource value: 0x7F080179
+			public const int scrollIndicatorUp = 2131231097;
+			
+			// aapt resource value: 0x7F08017A
+			public const int scrollView = 2131231098;
 			
 			// aapt resource value: 0x7F08017C
-			public const int search_bar = 2131231100;
+			public const int search_badge = 2131231100;
 			
 			// aapt resource value: 0x7F08017D
-			public const int search_button = 2131231101;
+			public const int search_bar = 2131231101;
 			
 			// aapt resource value: 0x7F08017E
-			public const int search_close_btn = 2131231102;
+			public const int search_button = 2131231102;
 			
 			// aapt resource value: 0x7F08017F
-			public const int search_edit_frame = 2131231103;
+			public const int search_close_btn = 2131231103;
 			
 			// aapt resource value: 0x7F080180
-			public const int search_go_btn = 2131231104;
+			public const int search_edit_frame = 2131231104;
 			
 			// aapt resource value: 0x7F080181
-			public const int search_mag_icon = 2131231105;
+			public const int search_go_btn = 2131231105;
 			
 			// aapt resource value: 0x7F080182
-			public const int search_plate = 2131231106;
+			public const int search_mag_icon = 2131231106;
 			
 			// aapt resource value: 0x7F080183
-			public const int search_src_text = 2131231107;
+			public const int search_plate = 2131231107;
 			
 			// aapt resource value: 0x7F080184
-			public const int search_voice_btn = 2131231108;
+			public const int search_src_text = 2131231108;
 			
 			// aapt resource value: 0x7F080185
-			public const int seekbar = 2131231109;
+			public const int search_voice_btn = 2131231109;
 			
 			// aapt resource value: 0x7F080186
-			public const int seekbar_value = 2131231110;
-			
-			// aapt resource value: 0x7F080188
-			public const int selected = 2131231112;
-			
-			// aapt resource value: 0x7F080189
-			public const int selection_type = 2131231113;
+			public const int seekbar = 2131231110;
 			
 			// aapt resource value: 0x7F080187
-			public const int select_dialog_listview = 2131231111;
+			public const int seekbar_value = 2131231111;
+			
+			// aapt resource value: 0x7F080189
+			public const int selected = 2131231113;
 			
 			// aapt resource value: 0x7F08018A
-			public const int sharedValueSet = 2131231114;
+			public const int selection_type = 2131231114;
+			
+			// aapt resource value: 0x7F080188
+			public const int select_dialog_listview = 2131231112;
 			
 			// aapt resource value: 0x7F08018B
-			public const int sharedValueUnset = 2131231115;
+			public const int sharedValueSet = 2131231115;
+			
+			// aapt resource value: 0x7F08018C
+			public const int sharedValueUnset = 2131231116;
 			
 			// aapt resource value: 0x7F080009
 			public const int SHIFT = 2131230729;
 			
-			// aapt resource value: 0x7F08018C
-			public const int shortcut = 2131231116;
-			
 			// aapt resource value: 0x7F08018D
-			public const int showCustom = 2131231117;
+			public const int shortcut = 2131231117;
 			
 			// aapt resource value: 0x7F08018E
-			public const int showHome = 2131231118;
+			public const int showCustom = 2131231118;
 			
 			// aapt resource value: 0x7F08018F
-			public const int showTitle = 2131231119;
+			public const int showHome = 2131231119;
+			
+			// aapt resource value: 0x7F080190
+			public const int showTitle = 2131231120;
 			
 			// aapt resource value: 0x7F08000A
 			public const int SHOW_ALL = 2131230730;
@@ -14311,272 +19355,272 @@ namespace DjK.WeatherApp.Droid
 			// aapt resource value: 0x7F08000C
 			public const int SHOW_PROGRESS = 2131230732;
 			
-			// aapt resource value: 0x7F080190
-			public const int sin = 2131231120;
-			
 			// aapt resource value: 0x7F080191
-			public const int skipCollapsed = 2131231121;
+			public const int sin = 2131231121;
 			
 			// aapt resource value: 0x7F080192
-			public const int skipped = 2131231122;
+			public const int skipCollapsed = 2131231122;
 			
 			// aapt resource value: 0x7F080193
-			public const int slide = 2131231123;
+			public const int skipped = 2131231123;
 			
 			// aapt resource value: 0x7F080194
-			public const int snackbar_action = 2131231124;
+			public const int slide = 2131231124;
 			
 			// aapt resource value: 0x7F080195
-			public const int snackbar_text = 2131231125;
+			public const int snackbar_action = 2131231125;
 			
 			// aapt resource value: 0x7F080196
-			public const int snap = 2131231126;
+			public const int snackbar_text = 2131231126;
 			
 			// aapt resource value: 0x7F080197
-			public const int snapMargins = 2131231127;
+			public const int snap = 2131231127;
 			
 			// aapt resource value: 0x7F080198
-			public const int south = 2131231128;
+			public const int snapMargins = 2131231128;
 			
 			// aapt resource value: 0x7F080199
-			public const int spacer = 2131231129;
+			public const int south = 2131231129;
 			
 			// aapt resource value: 0x7F08019A
-			public const int special_effects_controller_view_tag = 2131231130;
+			public const int spacer = 2131231130;
 			
 			// aapt resource value: 0x7F08019B
-			public const int spinner = 2131231131;
+			public const int special_effects_controller_view_tag = 2131231131;
 			
 			// aapt resource value: 0x7F08019C
-			public const int spline = 2131231132;
+			public const int spinner = 2131231132;
 			
 			// aapt resource value: 0x7F08019D
-			public const int split_action_bar = 2131231133;
+			public const int spline = 2131231133;
 			
 			// aapt resource value: 0x7F08019E
-			public const int spread = 2131231134;
+			public const int split_action_bar = 2131231134;
 			
 			// aapt resource value: 0x7F08019F
-			public const int spread_inside = 2131231135;
+			public const int spread = 2131231135;
 			
 			// aapt resource value: 0x7F0801A0
-			public const int spring = 2131231136;
+			public const int spread_inside = 2131231136;
 			
 			// aapt resource value: 0x7F0801A1
-			public const int square = 2131231137;
+			public const int spring = 2131231137;
 			
 			// aapt resource value: 0x7F0801A2
-			public const int src_atop = 2131231138;
+			public const int square = 2131231138;
 			
 			// aapt resource value: 0x7F0801A3
-			public const int src_in = 2131231139;
+			public const int src_atop = 2131231139;
 			
 			// aapt resource value: 0x7F0801A4
-			public const int src_over = 2131231140;
+			public const int src_in = 2131231140;
 			
 			// aapt resource value: 0x7F0801A5
-			public const int standard = 2131231141;
+			public const int src_over = 2131231141;
 			
 			// aapt resource value: 0x7F0801A6
-			public const int start = 2131231142;
+			public const int standard = 2131231142;
 			
 			// aapt resource value: 0x7F0801A7
-			public const int startHorizontal = 2131231143;
+			public const int start = 2131231143;
 			
 			// aapt resource value: 0x7F0801A8
-			public const int startToEnd = 2131231144;
+			public const int startHorizontal = 2131231144;
 			
 			// aapt resource value: 0x7F0801A9
-			public const int startVertical = 2131231145;
+			public const int startToEnd = 2131231145;
 			
 			// aapt resource value: 0x7F0801AA
-			public const int staticLayout = 2131231146;
+			public const int startVertical = 2131231146;
 			
 			// aapt resource value: 0x7F0801AB
-			public const int staticPostLayout = 2131231147;
+			public const int staticLayout = 2131231147;
 			
 			// aapt resource value: 0x7F0801AC
-			public const int stop = 2131231148;
+			public const int staticPostLayout = 2131231148;
 			
 			// aapt resource value: 0x7F0801AD
-			public const int stretch = 2131231149;
+			public const int stop = 2131231149;
 			
 			// aapt resource value: 0x7F0801AE
-			public const int submenuarrow = 2131231150;
+			public const int stretch = 2131231150;
 			
 			// aapt resource value: 0x7F0801AF
-			public const int submit_area = 2131231151;
+			public const int submenuarrow = 2131231151;
 			
 			// aapt resource value: 0x7F0801B0
-			public const int supportScrollUp = 2131231152;
+			public const int submit_area = 2131231152;
 			
 			// aapt resource value: 0x7F0801B1
-			public const int switchWidget = 2131231153;
+			public const int supportScrollUp = 2131231153;
+			
+			// aapt resource value: 0x7F0801B2
+			public const int switchWidget = 2131231154;
 			
 			// aapt resource value: 0x7F08000D
 			public const int SYM = 2131230733;
 			
-			// aapt resource value: 0x7F0801B2
-			public const int tabMode = 2131231154;
-			
 			// aapt resource value: 0x7F0801B3
-			public const int tag_accessibility_actions = 2131231155;
+			public const int tabMode = 2131231155;
 			
 			// aapt resource value: 0x7F0801B4
-			public const int tag_accessibility_clickable_spans = 2131231156;
+			public const int tag_accessibility_actions = 2131231156;
 			
 			// aapt resource value: 0x7F0801B5
-			public const int tag_accessibility_heading = 2131231157;
+			public const int tag_accessibility_clickable_spans = 2131231157;
 			
 			// aapt resource value: 0x7F0801B6
-			public const int tag_accessibility_pane_title = 2131231158;
+			public const int tag_accessibility_heading = 2131231158;
 			
 			// aapt resource value: 0x7F0801B7
-			public const int tag_on_apply_window_listener = 2131231159;
+			public const int tag_accessibility_pane_title = 2131231159;
 			
 			// aapt resource value: 0x7F0801B8
-			public const int tag_on_receive_content_listener = 2131231160;
+			public const int tag_on_apply_window_listener = 2131231160;
 			
 			// aapt resource value: 0x7F0801B9
-			public const int tag_on_receive_content_mime_types = 2131231161;
+			public const int tag_on_receive_content_listener = 2131231161;
 			
 			// aapt resource value: 0x7F0801BA
-			public const int tag_screen_reader_focusable = 2131231162;
+			public const int tag_on_receive_content_mime_types = 2131231162;
 			
 			// aapt resource value: 0x7F0801BB
-			public const int tag_state_description = 2131231163;
+			public const int tag_screen_reader_focusable = 2131231163;
 			
 			// aapt resource value: 0x7F0801BC
-			public const int tag_transition_group = 2131231164;
+			public const int tag_state_description = 2131231164;
 			
 			// aapt resource value: 0x7F0801BD
-			public const int tag_unhandled_key_event_manager = 2131231165;
+			public const int tag_transition_group = 2131231165;
 			
 			// aapt resource value: 0x7F0801BE
-			public const int tag_unhandled_key_listeners = 2131231166;
+			public const int tag_unhandled_key_event_manager = 2131231166;
 			
 			// aapt resource value: 0x7F0801BF
-			public const int tag_window_insets_animation_callback = 2131231167;
+			public const int tag_unhandled_key_listeners = 2131231167;
 			
 			// aapt resource value: 0x7F0801C0
-			public const int temperature = 2131231168;
+			public const int tag_window_insets_animation_callback = 2131231168;
 			
 			// aapt resource value: 0x7F0801C1
-			public const int temperature_feels_like = 2131231169;
+			public const int temperature = 2131231169;
 			
 			// aapt resource value: 0x7F0801C2
-			public const int temperature_feels_like_label = 2131231170;
+			public const int temperature_feels_like = 2131231170;
 			
 			// aapt resource value: 0x7F0801C3
-			public const int temperature_feels_like_unit = 2131231171;
+			public const int temperature_feels_like_label = 2131231171;
 			
 			// aapt resource value: 0x7F0801C4
-			public const int temperature_label = 2131231172;
+			public const int temperature_feels_like_unit = 2131231172;
 			
 			// aapt resource value: 0x7F0801C5
-			public const int temperature_max = 2131231173;
+			public const int temperature_label = 2131231173;
 			
 			// aapt resource value: 0x7F0801C6
-			public const int temperature_max_label = 2131231174;
+			public const int temperature_max = 2131231174;
 			
 			// aapt resource value: 0x7F0801C7
-			public const int temperature_max_unit = 2131231175;
+			public const int temperature_max_label = 2131231175;
 			
 			// aapt resource value: 0x7F0801C8
-			public const int temperature_min = 2131231176;
+			public const int temperature_max_unit = 2131231176;
 			
 			// aapt resource value: 0x7F0801C9
-			public const int temperature_min_label = 2131231177;
+			public const int temperature_min = 2131231177;
 			
 			// aapt resource value: 0x7F0801CA
-			public const int temperature_min_unit = 2131231178;
+			public const int temperature_min_label = 2131231178;
 			
 			// aapt resource value: 0x7F0801CB
-			public const int temperature_unit = 2131231179;
+			public const int temperature_min_unit = 2131231179;
 			
 			// aapt resource value: 0x7F0801CC
-			public const int test_checkbox_android_button_tint = 2131231180;
+			public const int temperature_unit = 2131231180;
 			
 			// aapt resource value: 0x7F0801CD
-			public const int test_checkbox_app_button_tint = 2131231181;
+			public const int test_checkbox_android_button_tint = 2131231181;
 			
 			// aapt resource value: 0x7F0801CE
-			public const int test_radiobutton_android_button_tint = 2131231182;
+			public const int test_checkbox_app_button_tint = 2131231182;
 			
 			// aapt resource value: 0x7F0801CF
-			public const int test_radiobutton_app_button_tint = 2131231183;
+			public const int test_radiobutton_android_button_tint = 2131231183;
 			
 			// aapt resource value: 0x7F0801D0
-			public const int text = 2131231184;
+			public const int test_radiobutton_app_button_tint = 2131231184;
 			
 			// aapt resource value: 0x7F0801D1
-			public const int text2 = 2131231185;
+			public const int text = 2131231185;
 			
 			// aapt resource value: 0x7F0801D2
-			public const int textEnd = 2131231186;
-			
-			// aapt resource value: 0x7F0801DA
-			public const int textinput_counter = 2131231194;
-			
-			// aapt resource value: 0x7F0801DB
-			public const int textinput_error = 2131231195;
-			
-			// aapt resource value: 0x7F0801DC
-			public const int textinput_helper_text = 2131231196;
-			
-			// aapt resource value: 0x7F0801DD
-			public const int textinput_placeholder = 2131231197;
-			
-			// aapt resource value: 0x7F0801DE
-			public const int textinput_prefix_text = 2131231198;
-			
-			// aapt resource value: 0x7F0801DF
-			public const int textinput_suffix_text = 2131231199;
+			public const int text2 = 2131231186;
 			
 			// aapt resource value: 0x7F0801D3
-			public const int textSpacerNoButtons = 2131231187;
+			public const int textEnd = 2131231187;
 			
-			// aapt resource value: 0x7F0801D4
-			public const int textSpacerNoTitle = 2131231188;
+			// aapt resource value: 0x7F0801DB
+			public const int textinput_counter = 2131231195;
 			
-			// aapt resource value: 0x7F0801D5
-			public const int textStart = 2131231189;
+			// aapt resource value: 0x7F0801DC
+			public const int textinput_error = 2131231196;
 			
-			// aapt resource value: 0x7F0801D6
-			public const int textTop = 2131231190;
+			// aapt resource value: 0x7F0801DD
+			public const int textinput_helper_text = 2131231197;
 			
-			// aapt resource value: 0x7F0801D7
-			public const int text_input_end_icon = 2131231191;
+			// aapt resource value: 0x7F0801DE
+			public const int textinput_placeholder = 2131231198;
 			
-			// aapt resource value: 0x7F0801D8
-			public const int text_input_error_icon = 2131231192;
-			
-			// aapt resource value: 0x7F0801D9
-			public const int text_input_start_icon = 2131231193;
+			// aapt resource value: 0x7F0801DF
+			public const int textinput_prefix_text = 2131231199;
 			
 			// aapt resource value: 0x7F0801E0
-			public const int time = 2131231200;
+			public const int textinput_suffix_text = 2131231200;
+			
+			// aapt resource value: 0x7F0801D4
+			public const int textSpacerNoButtons = 2131231188;
+			
+			// aapt resource value: 0x7F0801D5
+			public const int textSpacerNoTitle = 2131231189;
+			
+			// aapt resource value: 0x7F0801D6
+			public const int textStart = 2131231190;
+			
+			// aapt resource value: 0x7F0801D7
+			public const int textTop = 2131231191;
+			
+			// aapt resource value: 0x7F0801D8
+			public const int text_input_end_icon = 2131231192;
+			
+			// aapt resource value: 0x7F0801D9
+			public const int text_input_error_icon = 2131231193;
+			
+			// aapt resource value: 0x7F0801DA
+			public const int text_input_start_icon = 2131231194;
 			
 			// aapt resource value: 0x7F0801E1
-			public const int title = 2131231201;
+			public const int time = 2131231201;
 			
 			// aapt resource value: 0x7F0801E2
-			public const int titleDividerNoCustom = 2131231202;
+			public const int title = 2131231202;
 			
 			// aapt resource value: 0x7F0801E3
-			public const int title_template = 2131231203;
+			public const int titleDividerNoCustom = 2131231203;
 			
 			// aapt resource value: 0x7F0801E4
-			public const int toggle = 2131231204;
+			public const int title_template = 2131231204;
 			
 			// aapt resource value: 0x7F0801E5
-			public const int toolbar = 2131231205;
+			public const int toggle = 2131231205;
 			
 			// aapt resource value: 0x7F0801E6
-			public const int top = 2131231206;
+			public const int toolbar = 2131231206;
 			
 			// aapt resource value: 0x7F0801E7
-			public const int topPanel = 2131231207;
+			public const int top = 2131231207;
+			
+			// aapt resource value: 0x7F0801E8
+			public const int topPanel = 2131231208;
 			
 			// aapt resource value: 0x7F08000E
 			public const int TOP_END = 2131230734;
@@ -14584,101 +19628,101 @@ namespace DjK.WeatherApp.Droid
 			// aapt resource value: 0x7F08000F
 			public const int TOP_START = 2131230735;
 			
-			// aapt resource value: 0x7F0801E8
-			public const int touch_outside = 2131231208;
-			
 			// aapt resource value: 0x7F0801E9
-			public const int transitionToEnd = 2131231209;
+			public const int touch_outside = 2131231209;
 			
 			// aapt resource value: 0x7F0801EA
-			public const int transitionToStart = 2131231210;
+			public const int transitionToEnd = 2131231210;
 			
 			// aapt resource value: 0x7F0801EB
-			public const int transition_current_scene = 2131231211;
+			public const int transitionToStart = 2131231211;
 			
 			// aapt resource value: 0x7F0801EC
-			public const int transition_layout_save = 2131231212;
+			public const int transition_current_scene = 2131231212;
 			
 			// aapt resource value: 0x7F0801ED
-			public const int transition_position = 2131231213;
+			public const int transition_layout_save = 2131231213;
 			
 			// aapt resource value: 0x7F0801EE
-			public const int transition_scene_layoutid_cache = 2131231214;
+			public const int transition_position = 2131231214;
 			
 			// aapt resource value: 0x7F0801EF
-			public const int transition_transform = 2131231215;
+			public const int transition_scene_layoutid_cache = 2131231215;
 			
 			// aapt resource value: 0x7F0801F0
-			public const int triangle = 2131231216;
+			public const int transition_transform = 2131231216;
 			
 			// aapt resource value: 0x7F0801F1
-			public const int @unchecked = 2131231217;
+			public const int triangle = 2131231217;
 			
 			// aapt resource value: 0x7F0801F2
-			public const int uniform = 2131231218;
+			public const int @unchecked = 2131231218;
 			
 			// aapt resource value: 0x7F0801F3
-			public const int unlabeled = 2131231219;
+			public const int uniform = 2131231219;
 			
 			// aapt resource value: 0x7F0801F4
-			public const int up = 2131231220;
+			public const int unlabeled = 2131231220;
 			
 			// aapt resource value: 0x7F0801F5
-			public const int useLogo = 2131231221;
+			public const int up = 2131231221;
 			
 			// aapt resource value: 0x7F0801F6
-			public const int vertical_only = 2131231222;
+			public const int useLogo = 2131231222;
 			
 			// aapt resource value: 0x7F0801F7
-			public const int view_offset_helper = 2131231223;
+			public const int vertical_only = 2131231223;
 			
 			// aapt resource value: 0x7F0801F8
-			public const int view_transition = 2131231224;
+			public const int view_offset_helper = 2131231224;
 			
 			// aapt resource value: 0x7F0801F9
-			public const int view_tree_lifecycle_owner = 2131231225;
+			public const int view_transition = 2131231225;
 			
 			// aapt resource value: 0x7F0801FA
-			public const int view_tree_on_back_pressed_dispatcher_owner = 2131231226;
+			public const int view_tree_lifecycle_owner = 2131231226;
 			
 			// aapt resource value: 0x7F0801FB
-			public const int view_tree_saved_state_registry_owner = 2131231227;
+			public const int view_tree_on_back_pressed_dispatcher_owner = 2131231227;
 			
 			// aapt resource value: 0x7F0801FC
-			public const int view_tree_view_model_store_owner = 2131231228;
+			public const int view_tree_saved_state_registry_owner = 2131231228;
 			
 			// aapt resource value: 0x7F0801FD
-			public const int visible = 2131231229;
+			public const int view_tree_view_model_store_owner = 2131231229;
 			
 			// aapt resource value: 0x7F0801FE
-			public const int visible_removing_fragment_view_tag = 2131231230;
+			public const int visible = 2131231230;
 			
 			// aapt resource value: 0x7F0801FF
-			public const int west = 2131231231;
-			
-			// aapt resource value: 0x7F080201
-			public const int withinBounds = 2131231233;
+			public const int visible_removing_fragment_view_tag = 2131231231;
 			
 			// aapt resource value: 0x7F080200
-			public const int withText = 2131231232;
+			public const int west = 2131231232;
 			
 			// aapt resource value: 0x7F080202
-			public const int wrap = 2131231234;
+			public const int withinBounds = 2131231234;
+			
+			// aapt resource value: 0x7F080201
+			public const int withText = 2131231233;
 			
 			// aapt resource value: 0x7F080203
-			public const int wrap_content = 2131231235;
+			public const int wrap = 2131231235;
 			
 			// aapt resource value: 0x7F080204
-			public const int wrap_content_constrained = 2131231236;
+			public const int wrap_content = 2131231236;
 			
 			// aapt resource value: 0x7F080205
-			public const int x_left = 2131231237;
+			public const int wrap_content_constrained = 2131231237;
 			
 			// aapt resource value: 0x7F080206
-			public const int x_right = 2131231238;
+			public const int x_left = 2131231238;
 			
 			// aapt resource value: 0x7F080207
-			public const int zero_corner_chip = 2131231239;
+			public const int x_right = 2131231239;
+			
+			// aapt resource value: 0x7F080208
+			public const int zero_corner_chip = 2131231240;
 			
 			static Id()
 			{

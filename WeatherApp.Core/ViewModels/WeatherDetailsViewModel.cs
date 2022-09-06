@@ -114,8 +114,6 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
-        public IMvxAsyncCommand SaveAsFavouriteCommand => new MvxAsyncCommand(SaveAsFavourite);
-
         public IMvxAsyncCommand CloseCommand => new MvxAsyncCommand(Close);
 
         public WeatherDetailsViewModel(IMvxNavigationService navigationService)
@@ -130,11 +128,6 @@ namespace DjK.WeatherApp.Core.ViewModels
         public override void Prepare(WeatherDetails weatherDetails)
         {
             _weatherDetails = weatherDetails;
-        }
-
-        private async Task SaveAsFavourite()
-        {
-            throw new NotImplementedException();
         }
 
         private async Task Close()

@@ -15,12 +15,16 @@ namespace DjK.WeatherApp.Core.Services
 
         public async Task SaveFavouriteCity(string cityName)
         {
-            await _cityRepository.SaveFavouriteCity(cityName);
+            await _cityRepository
+                .SaveFavouriteCity(cityName)
+                .ConfigureAwait(false);
         }
 
         public async Task<string> LoadFavouriteCity()
         {
-            return await _cityRepository.LoadFavouriteCity();
+            return await _cityRepository
+                .LoadFavouriteCity()
+                .ConfigureAwait(false);
         }
 
     }

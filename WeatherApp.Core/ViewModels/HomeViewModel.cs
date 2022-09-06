@@ -6,6 +6,7 @@ using MvvmCross.ViewModels;
 using System;
 using System.Globalization;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 
 namespace DjK.WeatherApp.Core.ViewModels
 {
@@ -16,19 +17,26 @@ namespace DjK.WeatherApp.Core.ViewModels
         private readonly IFavouritiesService _favouritiesService;
         private readonly MvxInteraction<string> _Interaction;
 
-        private string cityName;
-        private string errorMessage;
+        private bool _showProgress;
+        private string _cityName;
+        private string _errorMessage;
+
+        public bool ShowProgress
+        {
+            get { return _showProgress; }
+            set { SetProperty(ref _showProgress, value); }
+        }
 
         public string CityName
         {
-            get { return cityName; }
-            set { SetProperty(ref cityName, value); }
+            get { return _cityName; }
+            set { SetProperty(ref _cityName, value); }
         }
 
         public string ErrorMessage
         {
-            get { return errorMessage; }
-            set { SetProperty(ref errorMessage, value); }
+            get { return _errorMessage; }
+            set { SetProperty(ref _errorMessage, value); }
         }
 
         public string Language { get; private set; }
@@ -51,8 +59,22 @@ namespace DjK.WeatherApp.Core.ViewModels
         public override async Task Initialize()
         {
             await base.Initialize();
-            await LoadFavouriteCity();
+            if (string.IsNullOrWhiteSpace(CityName))
+                await LoadFavouriteCity();
         }
+
+        protected override void SaveStateToBundle(IMvxBundle bundle)
+        {
+            base.SaveStateToBundle(bundle);
+            bundle.Data["CityName"] = CityName;
+        }
+
+        protected override void ReloadFromBundle(IMvxBundle state)
+        {
+            base.ReloadFromBundle(state);
+            CityName = state.Data["CityName"];
+        }
+
 
         private async Task SaveFavouriteCity()
         {
@@ -85,8 +107,17 @@ namespace DjK.WeatherApp.Core.ViewModels
         {
             try
             {
-                var weatherResponse = 
+                if (Connectivity.NetworkAccess != NetworkAccess.Internet)
+                {
+                    ErrorMessage = "No internet connection";
+                    return;
+                }
+
+                ShowProgress = true;
+                var weatherResponse =
                     await _weatherService.GetWeatherResponseForLocation(CityName, Language, IsMetric);
+                ShowProgress = false;
+
                 if (weatherResponse.IsSuccessful)
                 {
                     ErrorMessage = string.Empty;
@@ -105,5 +136,6 @@ namespace DjK.WeatherApp.Core.ViewModels
                 ErrorMessage = "Unexpected exception";
             }
         }
+
     }
 }

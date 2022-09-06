@@ -1,7 +1,6 @@
 ﻿using DjK.WeatherApp.Droid.Logging;
 using Microsoft.Extensions.Logging;
 using MvvmCross.Platforms.Android.Core;
-using System;
 
 namespace DjK.WeatherApp.Droid
 {
