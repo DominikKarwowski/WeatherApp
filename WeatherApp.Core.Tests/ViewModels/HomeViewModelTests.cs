@@ -11,10 +11,10 @@ namespace WeatherApp.Core.Tests.ViewModels
     [TestFixture]
     public class HomeViewModelTests
     {
-
         Mock<IMvxNavigationService> navigationServiceFake;
         Mock<IWeatherService> weatherServiceFake;
         Mock<IFavouritiesService> favouritiesServiceFake;
+        Mock<IConnectivityService> connectivityServiceFake;
         Mock<ILogger<HomeViewModel>> loggerFake;
 
         [SetUp]
@@ -23,6 +23,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             navigationServiceFake = new Mock<IMvxNavigationService>();
             weatherServiceFake = new Mock<IWeatherService>();
             favouritiesServiceFake = new Mock<IFavouritiesService>();
+            connectivityServiceFake = new Mock<IConnectivityService>();
             loggerFake = new Mock<ILogger<HomeViewModel>>();
         }
 
@@ -148,6 +149,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             var weatherResponse = new WeatherResponse(weatherDetails, testReasonPhrase, testIsSuccessful);
 
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
+            connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponseForLocation(testCityName, testLanguage, testIsMetric)).ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -186,6 +188,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             var weatherResponse = new WeatherResponse(weatherDetails, testReasonPhrase, testIsSuccessful);
 
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
+            connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponseForLocation(testCityName, testLanguage, testIsMetric)).ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -211,6 +214,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             var weatherResponse = new WeatherResponse(weatherDetails, testReasonPhrase, testIsSuccessful);
 
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
+            connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponseForLocation(testCityName, testLanguage, testIsMetric)).ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -242,6 +246,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             var weatherResponse = new WeatherResponse(weatherDetails, testReasonPhrase, testIsSuccessful);
 
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
+            connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponseForLocation(testCityName, testLanguage, testIsMetric)).ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -263,6 +268,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             var weatherDetails = new WeatherDetails();
 
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
+            connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponseForLocation(testCityName, testLanguage, testIsMetric)).Throws<Exception>();
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -273,12 +279,35 @@ namespace WeatherApp.Core.Tests.ViewModels
             Assert.That(sut.ErrorMessage, Is.EqualTo("Unexpected exception"));
         }
 
+        [Test]
+        public void Show_weather_details_command_sets_NoInternet_ErrorMessage_when_there_is_no_Internet_connection()
+        {
+            // Arrange
+            const string testCityName = "Test CityName";
+            const string testLanguage = "en";
+            const bool testIsMetric = true;
+            const string testReasonPhrase = "Test reason phrase";
+            const bool testIsSuccessful = false;
 
+            var weatherDetails = new WeatherDetails();
+            var weatherResponse = new WeatherResponse(weatherDetails, testReasonPhrase, testIsSuccessful);
+
+            favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
+            connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(false);
+            weatherServiceFake.Setup(s => s.GetWeatherResponseForLocation(testCityName, testLanguage, testIsMetric)).ReturnsAsync(weatherResponse);
+            var sut = CreateHomeViewModel();
+            sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
+
+            // Act
+            sut.ShowWeatherDetailsCommand.Execute();
+
+            Assert.That(sut.ErrorMessage, Is.EqualTo("No Internet connection"));
+        }
 
         private HomeViewModel CreateHomeViewModel()
         {
             var homeViewModel = new HomeViewModel(navigationServiceFake.Object, weatherServiceFake.Object,
-                favouritiesServiceFake.Object, loggerFake.Object);
+                favouritiesServiceFake.Object, connectivityServiceFake.Object, loggerFake.Object);
             homeViewModel.Initialize().Wait();
             return homeViewModel;
         }

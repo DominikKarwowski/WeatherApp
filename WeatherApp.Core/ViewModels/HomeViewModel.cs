@@ -160,7 +160,7 @@ namespace DjK.WeatherApp.Core.ViewModels
             {
                 if (!_connectivityService.IsActiveInternetConnection())
                 {
-                    ErrorMessage = "No internet connection";
+                    ErrorMessage = "No Internet connection";
                     return;
                 }
 
