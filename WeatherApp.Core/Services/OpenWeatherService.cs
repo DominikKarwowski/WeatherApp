@@ -1,6 +1,7 @@
 ﻿using DjK.WeatherApp.Core.Models;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using Microsoft.Extensions.Logging;
+using MvvmCross.Base;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -11,7 +12,7 @@ namespace DjK.WeatherApp.Core.Services
     /// <summary>
     /// Weather service implementation for Open Weather API.
     /// </summary>
-    public class OpenWeatherService : IWeatherService
+    public class OpenWeatherService : IWeatherService, IDisposable
     {
         private readonly IRestService _restService;
         private readonly ILogger<OpenWeatherService> _logger;
@@ -101,6 +102,11 @@ namespace DjK.WeatherApp.Core.Services
             var units = isMetric ? "metric" : "imperial";
             return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&lang={language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
 
+        }
+
+        public void Dispose()
+        {
+            _restService.DisposeIfDisposable();
         }
     }
 }
