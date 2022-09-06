@@ -2,7 +2,6 @@
 using Android.OS;
 using Android.Runtime;
 using Android.Views;
-using AndroidX.AppCompat.Widget;
 using DjK.WeatherApp.Core.ViewModels;
 using MvvmCross.Platforms.Android.Views;
 

@@ -17,19 +17,26 @@ namespace DjK.WeatherApp.Core.ViewModels
         private readonly IFavouritiesService _favouritiesService;
         private readonly MvxInteraction<string> _Interaction;
 
-        private string cityName;
-        private string errorMessage;
+        private bool _showProgress;
+        private string _cityName;
+        private string _errorMessage;
+
+        public bool ShowProgress
+        {
+            get { return _showProgress; }
+            set { SetProperty(ref _showProgress, value); }
+        }
 
         public string CityName
         {
-            get { return cityName; }
-            set { SetProperty(ref cityName, value); }
+            get { return _cityName; }
+            set { SetProperty(ref _cityName, value); }
         }
 
         public string ErrorMessage
         {
-            get { return errorMessage; }
-            set { SetProperty(ref errorMessage, value); }
+            get { return _errorMessage; }
+            set { SetProperty(ref _errorMessage, value); }
         }
 
         public string Language { get; private set; }
@@ -106,8 +113,10 @@ namespace DjK.WeatherApp.Core.ViewModels
                     return;
                 }
 
-                var weatherResponse = 
+                ShowProgress = true;
+                var weatherResponse =
                     await _weatherService.GetWeatherResponseForLocation(CityName, Language, IsMetric);
+                ShowProgress = false;
 
                 if (weatherResponse.IsSuccessful)
                 {
@@ -127,5 +136,6 @@ namespace DjK.WeatherApp.Core.ViewModels
                 ErrorMessage = "Unexpected exception";
             }
         }
+
     }
 }

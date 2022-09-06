@@ -6,13 +6,10 @@ using Android.Views.InputMethods;
 using AndroidX.AppCompat.Widget;
 using DjK.WeatherApp.Core.ViewModels;
 using Google.Android.Material.Snackbar;
-using Google.Android.Material.TextField;
-using Java.Interop;
 using MvvmCross.Base;
 using MvvmCross.Binding.BindingContext;
 using MvvmCross.Platforms.Android.Views;
 using MvvmCross.ViewModels;
-using System;
 using System.Globalization;
 
 namespace DjK.WeatherApp.Droid.Views
@@ -20,18 +17,19 @@ namespace DjK.WeatherApp.Droid.Views
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme.NoActionBar")]
     public class HomeView : MvxActivity<HomeViewModel>
     {
-        private IMvxInteraction<string> _Interaction;
+        private IMvxInteraction<string> _interaction;
+        MvxFluentBindingDescriptionSet<HomeView, HomeViewModel> _bindingSet;
 
         public IMvxInteraction<string> Interaction
         {
-            get { return _Interaction; }
+            get { return _interaction; }
             set
             {
-                if (_Interaction != null)
-                    _Interaction.Requested -= OnInteractionRequested;
+                if (_interaction != null)
+                    _interaction.Requested -= OnInteractionRequested;
 
-                _Interaction = value;
-                _Interaction.Requested += OnInteractionRequested;
+                _interaction = value;
+                _interaction.Requested += OnInteractionRequested;
             }
         }
 
@@ -46,9 +44,9 @@ namespace DjK.WeatherApp.Droid.Views
 
             ViewModel.SetCurrentCultureCommand.Execute(CultureInfo.CurrentUICulture);
 
-            var bindingSet = this.CreateBindingSet<HomeView, HomeViewModel>();
-            bindingSet.Bind(this).For(view => view.Interaction).To(viewModel => viewModel.Interaction).OneWay();
-            bindingSet.Apply();
+            _bindingSet = this.CreateBindingSet<HomeView, HomeViewModel>();
+            _bindingSet.Bind(this).For(view => view.Interaction).To(viewModel => viewModel.Interaction).OneWay();
+            _bindingSet.Apply();
         }
 
 
@@ -82,8 +80,9 @@ namespace DjK.WeatherApp.Droid.Views
         {
             base.OnPause();
 
-            if (_Interaction != null)
-                _Interaction.Requested -= OnInteractionRequested;
+            if (_interaction != null)
+                _interaction.Requested -= OnInteractionRequested;
+            _bindingSet.Dispose();
         }
 
     }
