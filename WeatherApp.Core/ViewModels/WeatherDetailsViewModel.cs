@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.ViewModels
 {
+    /// <summary>
+    /// ViewModel for WeatherDetails.
+    /// </summary>
     public class WeatherDetailsViewModel : MvxViewModel<WeatherDetails>
     {
         private readonly IMvxNavigationService _navigationService;
@@ -26,7 +29,6 @@ namespace DjK.WeatherApp.Core.ViewModels
                 RaisePropertyChanged(nameof(CityName));
             }
         }
-
 
         /// <summary>
         /// Weather condition description.
@@ -56,7 +58,6 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
-
         /// <summary>
         /// Temperature according to the human perception of weather.
         /// </summary>
@@ -70,7 +71,6 @@ namespace DjK.WeatherApp.Core.ViewModels
                 RaisePropertyChanged(nameof(TemperatureFeelsLike));
             }
         }
-
 
         /// <summary>
         /// Minimum temperature at the moment.
@@ -114,8 +114,16 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
+        /// <summary>
+        /// Command to close the viewModel.
+        /// </summary>
         public IMvxAsyncCommand CloseCommand => new MvxAsyncCommand(Close);
 
+        /// <summary>
+        /// Creates ViewModel instance.
+        /// </summary>
+        /// <param name="navigationService">Navigation service.</param>
+        /// <exception cref="ArgumentNullException"></exception>
         public WeatherDetailsViewModel(IMvxNavigationService navigationService)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));

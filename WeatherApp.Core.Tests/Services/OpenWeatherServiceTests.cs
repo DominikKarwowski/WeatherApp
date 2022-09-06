@@ -1,8 +1,7 @@
 using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
-using System.Net.Http.Json;
-using System.Text;
 
 namespace WeatherApp.Core.Tests.Services
 {
@@ -11,11 +10,13 @@ namespace WeatherApp.Core.Tests.Services
     {
 
         Mock<IRestService> restServiceFake;
+        Mock<ILogger<OpenWeatherService>> loggerFake;
 
         [SetUp]
         public void Setup()
         {
             restServiceFake = new Mock<IRestService>();
+            loggerFake = new Mock<ILogger<OpenWeatherService>>();
         }
 
         [Test]
@@ -87,7 +88,7 @@ namespace WeatherApp.Core.Tests.Services
         }
 
         private OpenWeatherService CreateOpenWeatherService() =>
-            new(restServiceFake.Object);
+            new(restServiceFake.Object, loggerFake.Object);
 
     }
 }

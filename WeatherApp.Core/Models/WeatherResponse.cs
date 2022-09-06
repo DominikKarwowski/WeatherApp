@@ -1,5 +1,8 @@
 ﻿namespace DjK.WeatherApp.Core.Models
 {
+    /// <summary>
+    /// Wrapper class for WeatherDetails and additional information about a request from a weather data provider.
+    /// </summary>
     public class WeatherResponse
     {
         /// <summary>

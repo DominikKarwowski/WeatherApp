@@ -1,5 +1,7 @@
 ﻿using DjK.WeatherApp.Core.Models;
 using DjK.WeatherApp.Core.Services.Abstractions;
+using Microsoft.Extensions.Logging;
+using MvvmCross.Base;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -7,18 +9,24 @@ using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.Services
 {
-    public class OpenWeatherService : IWeatherService
+    /// <summary>
+    /// Weather service implementation for Open Weather API.
+    /// </summary>
+    public class OpenWeatherService : IWeatherService, IDisposable
     {
         private readonly IRestService _restService;
+        private readonly ILogger<OpenWeatherService> _logger;
 
         /// <summary>
         /// Creates OpenWeatherService instance.
         /// </summary>
         /// <param name="restService">IRestService implementation.</param>
+        /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
-        public OpenWeatherService(IRestService restService)
+        public OpenWeatherService(IRestService restService, ILogger<OpenWeatherService> logger)
         {
             _restService = restService ?? throw new ArgumentNullException(nameof(restService));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
         /// <summary>
@@ -31,9 +39,9 @@ namespace DjK.WeatherApp.Core.Services
             try
             {
                 var uri = BuildRequestUri(cityName, language, isMetric);
-                var response = await _restService.GetHttpResponseMessage(uri);
+                var response = await _restService.GetHttpResponseMessage(uri).ConfigureAwait(false);
                 var reasonPhrase = response.ReasonPhrase;
-                var content = await response.Content.ReadAsStringAsync();
+                var content = await response.Content.ReadAsStringAsync().ConfigureAwait(false);
 
                 if (response.IsSuccessStatusCode)
                 {
@@ -49,9 +57,9 @@ namespace DjK.WeatherApp.Core.Services
                         isSuccessful: false);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }
@@ -77,14 +85,14 @@ namespace DjK.WeatherApp.Core.Services
                 var content = JObject.Parse(message);
                 return contentParser(content);
             }
-            catch (JsonReaderException)
+            catch (JsonReaderException ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }
@@ -94,6 +102,11 @@ namespace DjK.WeatherApp.Core.Services
             var units = isMetric ? "metric" : "imperial";
             return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&lang={language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
 
+        }
+
+        public void Dispose()
+        {
+            _restService.DisposeIfDisposable();
         }
     }
 }
