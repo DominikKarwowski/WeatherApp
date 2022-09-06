@@ -30,7 +30,6 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
-
         /// <summary>
         /// Weather condition description.
         /// </summary>
@@ -59,7 +58,6 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
-
         /// <summary>
         /// Temperature according to the human perception of weather.
         /// </summary>
@@ -73,7 +71,6 @@ namespace DjK.WeatherApp.Core.ViewModels
                 RaisePropertyChanged(nameof(TemperatureFeelsLike));
             }
         }
-
 
         /// <summary>
         /// Minimum temperature at the moment.

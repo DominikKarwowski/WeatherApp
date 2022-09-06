@@ -2,8 +2,8 @@
 using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using DjK.WeatherApp.Core.ViewModels;
+using Microsoft.Extensions.Logging;
 using MvvmCross.Navigation;
-using NUnit.Framework;
 using System.Globalization;
 
 namespace WeatherApp.Core.Tests.ViewModels
@@ -15,6 +15,7 @@ namespace WeatherApp.Core.Tests.ViewModels
         Mock<IMvxNavigationService> navigationServiceFake;
         Mock<IWeatherService> weatherServiceFake;
         Mock<IFavouritiesService> favouritiesServiceFake;
+        Mock<ILogger<HomeViewModel>> loggerFake;
 
         [SetUp]
         public void SetUp()
@@ -22,6 +23,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             navigationServiceFake = new Mock<IMvxNavigationService>();
             weatherServiceFake = new Mock<IWeatherService>();
             favouritiesServiceFake = new Mock<IFavouritiesService>();
+            loggerFake = new Mock<ILogger<HomeViewModel>>();
         }
 
         [Test]
@@ -275,7 +277,8 @@ namespace WeatherApp.Core.Tests.ViewModels
 
         private HomeViewModel CreateHomeViewModel()
         {
-            var homeViewModel = new HomeViewModel(navigationServiceFake.Object, weatherServiceFake.Object, favouritiesServiceFake.Object);
+            var homeViewModel = new HomeViewModel(navigationServiceFake.Object, weatherServiceFake.Object,
+                favouritiesServiceFake.Object, loggerFake.Object);
             homeViewModel.Initialize().Wait();
             return homeViewModel;
         }

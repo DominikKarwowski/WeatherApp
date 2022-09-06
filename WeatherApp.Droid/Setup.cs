@@ -1,16 +1,22 @@
-﻿using DjK.WeatherApp.Droid.Logging;
-using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Logging;
 using MvvmCross.Platforms.Android.Core;
+using Serilog;
+using Serilog.Extensions.Logging;
 
 namespace DjK.WeatherApp.Droid
 {
     public class Setup : MvxAndroidSetup<Core.App>
     {
-        protected override ILoggerFactory CreateLogFactory() => new DroidLoggerFactory();
+        protected override ILoggerFactory CreateLogFactory()
+        {
+            Log.Logger = new LoggerConfiguration()
+                .MinimumLevel.Debug()
+                .CreateLogger();
 
-        protected override ILoggerProvider CreateLogProvider() => new DroidLoggerProvider();
+            return new SerilogLoggerFactory();
+        }
+
+        protected override ILoggerProvider CreateLogProvider() => new SerilogLoggerProvider();
     }
-
-
 
 }

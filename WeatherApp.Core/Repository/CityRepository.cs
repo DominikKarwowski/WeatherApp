@@ -1,4 +1,5 @@
 ﻿using DjK.WeatherApp.Core.Repository.Abstractions;
+using Microsoft.Extensions.Logging;
 using System;
 using System.IO;
 using System.Threading.Tasks;
@@ -11,13 +12,17 @@ namespace DjK.WeatherApp.Core.Repository
     /// </summary>
     public class CityRepository : ICityRepository
     {
+        private readonly ILogger<CityRepository> _logger;
         private readonly string _favouriteCityPath;
 
         /// <summary>
         /// Creates a CityRepository instance.
         /// </summary>
-        public CityRepository()
+        /// <param name="logger">Logger implementation.</param>
+        /// <exception cref="ArgumentNullException"></exception>
+        public CityRepository(ILogger<CityRepository> logger)
         {
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _favouriteCityPath = Path.Combine(FileSystem.AppDataDirectory, "favourite_city.txt");
         }
 
@@ -39,9 +44,9 @@ namespace DjK.WeatherApp.Core.Repository
                     return Task.Run(() => string.Empty);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }
@@ -58,9 +63,9 @@ namespace DjK.WeatherApp.Core.Repository
                 return Task.Run(() =>
                     File.WriteAllText(_favouriteCityPath, cityName));
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }

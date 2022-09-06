@@ -1,4 +1,5 @@
 ﻿using DjK.WeatherApp.Core.Services.Abstractions;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -10,13 +11,16 @@ namespace DjK.WeatherApp.Core.Services
     /// </summary>
     public class RestService : IRestService, IDisposable
     {
+        private readonly ILogger<RestService> _logger;
         private readonly HttpClient _httpClient;
 
         /// <summary>
         /// Creates RestService instance.
+        /// <param name="logger">Logger implementation.</param>
         /// </summary>
-        public RestService()
+        public RestService(ILogger<RestService> logger)
         {
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _httpClient = new HttpClient();
         }
 
@@ -31,9 +35,9 @@ namespace DjK.WeatherApp.Core.Services
             {
                 return _httpClient.GetAsync(requestUri);
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }

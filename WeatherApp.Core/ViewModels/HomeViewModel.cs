@@ -1,5 +1,6 @@
 ﻿using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
+using Microsoft.Extensions.Logging;
 using MvvmCross.Commands;
 using MvvmCross.Navigation;
 using MvvmCross.ViewModels;
@@ -18,6 +19,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         private readonly IMvxNavigationService _navigationService;
         private readonly IWeatherService _weatherService;
         private readonly IFavouritiesService _favouritiesService;
+        private readonly ILogger<HomeViewModel> _logger;
         private readonly MvxInteraction<string> _interactionForCitySaved;
 
         private bool _showProgress;
@@ -87,13 +89,15 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <param name="navigationService">Navigation service.</param>
         /// <param name="weatherService">Weather service.</param>
         /// <param name="favouritiesService">Favourities service.</param>
+        /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
         public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
-            IFavouritiesService favouritiesService)
+            IFavouritiesService favouritiesService, ILogger<HomeViewModel> logger)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
             _weatherService = weatherService ?? throw new ArgumentNullException(nameof(weatherService));
             _favouritiesService = favouritiesService ?? throw new ArgumentNullException(nameof(favouritiesService));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _interactionForCitySaved = new MvxInteraction<string>();
         }
 
@@ -140,9 +144,9 @@ namespace DjK.WeatherApp.Core.ViewModels
                 var regionInfo = new RegionInfo(currentCulture.LCID);
                 IsMetric = regionInfo.IsMetric;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 Language = "en";
                 IsMetric = true;
             }
@@ -175,9 +179,9 @@ namespace DjK.WeatherApp.Core.ViewModels
                 }
 
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 ErrorMessage = "Unexpected exception";
             }
         }

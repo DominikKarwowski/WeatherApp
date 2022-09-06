@@ -1,5 +1,6 @@
 ﻿using DjK.WeatherApp.Core.Models;
 using DjK.WeatherApp.Core.Services.Abstractions;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
@@ -13,15 +14,18 @@ namespace DjK.WeatherApp.Core.Services
     public class OpenWeatherService : IWeatherService
     {
         private readonly IRestService _restService;
+        private readonly ILogger<OpenWeatherService> _logger;
 
         /// <summary>
         /// Creates OpenWeatherService instance.
         /// </summary>
         /// <param name="restService">IRestService implementation.</param>
+        /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
-        public OpenWeatherService(IRestService restService)
+        public OpenWeatherService(IRestService restService, ILogger<OpenWeatherService> logger)
         {
             _restService = restService ?? throw new ArgumentNullException(nameof(restService));
+            _logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
         /// <summary>
@@ -52,9 +56,9 @@ namespace DjK.WeatherApp.Core.Services
                         isSuccessful: false);
                 }
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }
@@ -80,14 +84,14 @@ namespace DjK.WeatherApp.Core.Services
                 var content = JObject.Parse(message);
                 return contentParser(content);
             }
-            catch (JsonReaderException)
+            catch (JsonReaderException ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                // TODO: add logging
+                _logger.LogError(ex.ToString());
                 throw;
             }
         }
