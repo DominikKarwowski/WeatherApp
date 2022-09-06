@@ -39,9 +39,9 @@ namespace DjK.WeatherApp.Core.Services
             try
             {
                 var uri = BuildRequestUri(cityName, language, isMetric);
-                var response = await _restService.GetHttpResponseMessage(uri);
+                var response = await _restService.GetHttpResponseMessage(uri).ConfigureAwait(false);
                 var reasonPhrase = response.ReasonPhrase;
-                var content = await response.Content.ReadAsStringAsync();
+                var content = await response.Content.ReadAsStringAsync().ConfigureAwait(false);
 
                 if (response.IsSuccessStatusCode)
                 {
