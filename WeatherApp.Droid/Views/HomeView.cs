@@ -45,7 +45,7 @@ namespace DjK.WeatherApp.Droid.Views
             ViewModel.SetCurrentCultureCommand.Execute(CultureInfo.CurrentUICulture);
 
             _bindingSet = this.CreateBindingSet<HomeView, HomeViewModel>();
-            _bindingSet.Bind(this).For(view => view.Interaction).To(viewModel => viewModel.Interaction).OneWay();
+            _bindingSet.Bind(this).For(view => view.Interaction).To(viewModel => viewModel.InteractionForCitySaved).OneWay();
             _bindingSet.Apply();
         }
 

@@ -10,52 +10,97 @@ using Xamarin.Essentials;
 
 namespace DjK.WeatherApp.Core.ViewModels
 {
+    /// <summary>
+    /// ViewModel for a HomeView.
+    /// </summary>
     public class HomeViewModel : MvxViewModel
     {
         private readonly IMvxNavigationService _navigationService;
         private readonly IWeatherService _weatherService;
         private readonly IFavouritiesService _favouritiesService;
-        private readonly MvxInteraction<string> _Interaction;
+        private readonly MvxInteraction<string> _interactionForCitySaved;
 
         private bool _showProgress;
         private string _cityName;
         private string _errorMessage;
 
+        /// <summary>
+        /// Indicates visibility for a Progress Bar in a related view.
+        /// </summary>
         public bool ShowProgress
         {
             get { return _showProgress; }
             set { SetProperty(ref _showProgress, value); }
         }
 
+        /// <summary>
+        /// Name of the city for which weather data will be shown.
+        /// </summary>
         public string CityName
         {
             get { return _cityName; }
             set { SetProperty(ref _cityName, value); }
         }
 
+        /// <summary>
+        /// Error message to be displayed in case of unsuccessful request.
+        /// </summary>
         public string ErrorMessage
         {
             get { return _errorMessage; }
             set { SetProperty(ref _errorMessage, value); }
         }
 
+        /// <summary>
+        /// Language in which weather data will be provided. Inherited from the system settings.
+        /// </summary>
         public string Language { get; private set; }
+
+        /// <summary>
+        /// Units in which weather data will be provided. Inherited from a system culture settings.
+        /// </summary>
         public bool IsMetric { get; private set; }
 
+        /// <summary>
+        /// Command to retrieve and show weather data.
+        /// </summary>
         public IMvxAsyncCommand ShowWeatherDetailsCommand => new MvxAsyncCommand(ShowWeatherDetails);
-        public IMvxAsyncCommand SaveFavouriteCityCommand => new MvxAsyncCommand(SaveFavouriteCity);
-        public IMvxCommand<CultureInfo> SetCurrentCultureCommand => new MvxCommand<CultureInfo>(SetCurrentCulture);
-        public IMvxInteraction<string> Interaction => _Interaction;
 
+        /// <summary>
+        /// Command to save provided city name as a favourite.
+        /// </summary>
+        public IMvxAsyncCommand SaveFavouriteCityCommand => new MvxAsyncCommand(SaveFavouriteCity);
+
+        /// <summary>
+        /// Command to set current culture.
+        /// </summary>
+        public IMvxCommand<CultureInfo> SetCurrentCultureCommand => new MvxCommand<CultureInfo>(SetCurrentCulture);
+
+        /// <summary>
+        /// Interaction with related view to raise info to the user about favourite city saving.
+        /// </summary>
+        public IMvxInteraction<string> InteractionForCitySaved => _interactionForCitySaved;
+
+        /// <summary>
+        /// Creates HomeViewModel instance.
+        /// </summary>
+        /// <param name="navigationService">Navigation service.</param>
+        /// <param name="weatherService">Weather service.</param>
+        /// <param name="favouritiesService">Favourities service.</param>
+        /// <exception cref="ArgumentNullException"></exception>
         public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
             IFavouritiesService favouritiesService)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
             _weatherService = weatherService ?? throw new ArgumentNullException(nameof(weatherService));
             _favouritiesService = favouritiesService ?? throw new ArgumentNullException(nameof(favouritiesService));
-            _Interaction = new MvxInteraction<string>();
+            _interactionForCitySaved = new MvxInteraction<string>();
         }
 
+        /// <summary>
+        /// Performs viewModel initialization.
+        /// </summary>
+        /// <returns></returns>
         public override async Task Initialize()
         {
             await base.Initialize();
@@ -79,7 +124,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         private async Task SaveFavouriteCity()
         {
             await _favouritiesService.SaveFavouriteCity(CityName);
-            _Interaction.Raise(CityName);
+            _interactionForCitySaved.Raise(CityName);
         }
 
         private async Task LoadFavouriteCity()

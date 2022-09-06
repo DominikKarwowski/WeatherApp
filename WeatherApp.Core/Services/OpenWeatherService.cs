@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.Services
 {
+    /// <summary>
+    /// Weather service implementation for Open Weather API.
+    /// </summary>
     public class OpenWeatherService : IWeatherService
     {
         private readonly IRestService _restService;

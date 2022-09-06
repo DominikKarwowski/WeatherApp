@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.ViewModels
 {
+    /// <summary>
+    /// ViewModel for WeatherDetails.
+    /// </summary>
     public class WeatherDetailsViewModel : MvxViewModel<WeatherDetails>
     {
         private readonly IMvxNavigationService _navigationService;
@@ -114,8 +117,16 @@ namespace DjK.WeatherApp.Core.ViewModels
             }
         }
 
+        /// <summary>
+        /// Command to close the viewModel.
+        /// </summary>
         public IMvxAsyncCommand CloseCommand => new MvxAsyncCommand(Close);
 
+        /// <summary>
+        /// Creates ViewModel instance.
+        /// </summary>
+        /// <param name="navigationService">Navigation service.</param>
+        /// <exception cref="ArgumentNullException"></exception>
         public WeatherDetailsViewModel(IMvxNavigationService navigationService)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
