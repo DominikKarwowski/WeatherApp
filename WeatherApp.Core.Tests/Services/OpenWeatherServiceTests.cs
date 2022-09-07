@@ -1,3 +1,4 @@
+using DjK.WeatherApp.Core.Models;
 using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using Microsoft.Extensions.Logging;
@@ -33,7 +34,7 @@ namespace WeatherApp.Core.Tests.Services
             var sut = CreateOpenWeatherService();
 
             // Act
-            var result = await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true);
+            var result = await sut.GetWeatherResponse(new WeatherRequestParameters("test city", "test language", isMetric: true));
             Assert.Multiple(() =>
             {
                 Assert.That(result.IsSuccessful);
@@ -60,7 +61,7 @@ namespace WeatherApp.Core.Tests.Services
             var sut = CreateOpenWeatherService();
 
             // Act
-            var result = await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true);
+            var result = await sut.GetWeatherResponse(new WeatherRequestParameters("test city", "test language", isMetric: true));
 
             Assert.Multiple(() =>
             {
@@ -84,7 +85,7 @@ namespace WeatherApp.Core.Tests.Services
             var sut = CreateOpenWeatherService();
 
             Assert.ThrowsAsync<JsonReaderException>(
-                async () => await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true));
+                async () => await sut.GetWeatherResponse(new WeatherRequestParameters("test city", "test language", isMetric: true)));
         }
 
         private OpenWeatherService CreateOpenWeatherService() =>

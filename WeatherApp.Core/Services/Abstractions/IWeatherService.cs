@@ -15,6 +15,6 @@ namespace DjK.WeatherApp.Core.Services.Abstractions
         /// <param name="language">Language in which weather data are requested.</param>
         /// <param name="isMetric">Requested units for a weather data.</param>
         /// <returns>Weather data along with information about the request status.</returns>
-        Task<WeatherResponse> GetWeatherResponseForLocation(string cityName, string language, bool isMetric);
+        Task<WeatherResponse> GetWeatherResponse(WeatherRequestParameters parameters);
     }
 }

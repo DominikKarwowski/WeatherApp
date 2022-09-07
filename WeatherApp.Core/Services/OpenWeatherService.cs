@@ -34,11 +34,11 @@ namespace DjK.WeatherApp.Core.Services
         /// </summary>
         /// <param name="cityName">City for which the weather data are requested.</param>
         /// <returns>WeatherResponse object. If request was not successful, WetherDetails object is null.</returns>
-        public async Task<WeatherResponse> GetWeatherResponseForLocation(string cityName, string language, bool isMetric)
+        public async Task<WeatherResponse> GetWeatherResponse(WeatherRequestParameters parameters)
         {
             try
             {
-                var uri = BuildRequestUri(cityName, language, isMetric);
+                var uri = BuildWeatherRequestUri(parameters);
                 var response = await _restService.GetHttpResponseMessage(uri).ConfigureAwait(false);
                 var reasonPhrase = response.ReasonPhrase;
                 var content = await response.Content.ReadAsStringAsync().ConfigureAwait(false);
@@ -97,10 +97,10 @@ namespace DjK.WeatherApp.Core.Services
             }
         }
 
-        private string BuildRequestUri(string cityName, string language, bool isMetric)
+        private string BuildWeatherRequestUri(WeatherRequestParameters parameters)
         {
-            var units = isMetric ? "metric" : "imperial";
-            return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&lang={language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
+            var units = parameters.IsMetric ? "metric" : "imperial";
+            return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={parameters.CityName}&lang={parameters.Language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
 
         }
 

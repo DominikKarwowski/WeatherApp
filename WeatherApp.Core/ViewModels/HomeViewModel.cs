@@ -1,4 +1,5 @@
-﻿using DjK.WeatherApp.Core.Services;
+﻿using DjK.WeatherApp.Core.Models;
+using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using Microsoft.Extensions.Logging;
 using MvvmCross.Commands;
@@ -166,7 +167,8 @@ namespace DjK.WeatherApp.Core.ViewModels
 
                 ShowProgress = true;
                 var weatherResponse =
-                    await _weatherService.GetWeatherResponseForLocation(CityName, Language, IsMetric);
+                    await _weatherService.GetWeatherResponse(
+                        new WeatherRequestParameters(CityName, Language, IsMetric));
                 ShowProgress = false;
 
                 if (weatherResponse.IsSuccessful)
