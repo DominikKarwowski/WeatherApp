@@ -149,7 +149,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
             connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponse(
-                It.IsAny<WeatherRequestParameters>(), CancellationToken.None))
+                It.IsAny<WeatherRequestParameters>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -188,7 +188,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
             connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponse(
-                It.IsAny<WeatherRequestParameters>(), CancellationToken.None))
+                It.IsAny<WeatherRequestParameters>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -214,7 +214,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
             connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponse(
-                It.IsAny<WeatherRequestParameters>(), CancellationToken.None))
+                It.IsAny<WeatherRequestParameters>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -246,7 +246,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
             connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponse(
-                It.IsAny<WeatherRequestParameters>(), CancellationToken.None))
+                It.IsAny<WeatherRequestParameters>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -268,7 +268,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
             connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(true);
             weatherServiceFake.Setup(s => s.GetWeatherResponse(
-                It.IsAny<WeatherRequestParameters>(), CancellationToken.None))
+                It.IsAny<WeatherRequestParameters>(), It.IsAny<CancellationToken>()))
                 .Throws<Exception>();
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
@@ -276,7 +276,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             // Act
             sut.ShowWeatherDetailsCommand.Execute();
 
-            Assert.That(sut.ErrorMessage, Is.EqualTo("Unexpected exception"));
+            Assert.That(sut.ErrorMessage, Is.EqualTo("Oops, something went wrong..."));
         }
 
         [Test]
@@ -293,7 +293,7 @@ namespace WeatherApp.Core.Tests.ViewModels
             favouritiesServiceFake.Setup(s => s.LoadFavouriteCity()).ReturnsAsync(testCityName);
             connectivityServiceFake.Setup(s => s.IsActiveInternetConnection()).Returns(false);
             weatherServiceFake.Setup(s => s.GetWeatherResponse(
-                It.IsAny<WeatherRequestParameters>(), CancellationToken.None))
+                It.IsAny<WeatherRequestParameters>(), It.IsAny<CancellationToken>()))
                 .ReturnsAsync(weatherResponse);
             var sut = CreateHomeViewModel();
             sut.SetCurrentCultureCommand.Execute(new CultureInfo("en-GB"));
