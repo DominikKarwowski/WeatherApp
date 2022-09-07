@@ -1,6 +1,5 @@
 ﻿using System;
 using Xamarin.UITest;
-using Xamarin.UITest.Queries;
 
 namespace WeatherApp.UITests
 {
@@ -10,7 +9,11 @@ namespace WeatherApp.UITests
         {
             if (platform == Platform.Android)
             {
-                return ConfigureApp.Android.StartApp();
+                return ConfigureApp
+                    .Android
+                    .EnableLocalScreenshots()
+                    .ApkFile("../WeatherApp.Droid/bin/Release/com.djk.weatherapp.droid-Signed.apk")
+                    .StartApp();
             }
 
             return ConfigureApp.iOS.StartApp();
