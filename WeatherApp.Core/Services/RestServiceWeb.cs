@@ -9,16 +9,16 @@ namespace DjK.WeatherApp.Core.Services
     /// <summary>
     /// Implementation of the Rest service.
     /// </summary>
-    public class RestService : IRestService, IDisposable
+    public class RestServiceWeb : IRestServiceWeb, IDisposable
     {
-        private readonly ILogger<RestService> _logger;
+        private readonly ILogger<RestServiceWeb> _logger;
         private readonly HttpClient _httpClient;
 
         /// <summary>
         /// Creates RestService instance.
         /// <param name="logger">Logger implementation.</param>
         /// </summary>
-        public RestService(ILogger<RestService> logger)
+        public RestServiceWeb(ILogger<RestServiceWeb> logger)
         {
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
             _httpClient = new HttpClient();

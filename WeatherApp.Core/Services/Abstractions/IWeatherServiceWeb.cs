@@ -6,7 +6,7 @@ namespace DjK.WeatherApp.Core.Services.Abstractions
     /// <summary>
     /// Represents a service for preparing and posting a request for weather data.
     /// </summary>
-    public interface IWeatherService
+    public interface IWeatherServiceWeb
     {
         /// <summary>
         /// Represents a method to prepare and post request for a weather data.

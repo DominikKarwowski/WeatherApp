@@ -17,7 +17,7 @@ namespace DjK.WeatherApp.Core.ViewModels
     public class HomeViewModel : MvxViewModel
     {
         private readonly IMvxNavigationService _navigationService;
-        private readonly IWeatherService _weatherService;
+        private readonly IWeatherServiceWeb _weatherService;
         private readonly IFavouritiesService _favouritiesService;
         private readonly IConnectivityService _connectivityService;
         private readonly ILogger<HomeViewModel> _logger;
@@ -93,7 +93,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <param name="connectivityService">Favourities service.</param>
         /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
-        public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
+        public HomeViewModel(IMvxNavigationService navigationService, IWeatherServiceWeb weatherService,
             IFavouritiesService favouritiesService, IConnectivityService connectivityService, ILogger<HomeViewModel> logger)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));

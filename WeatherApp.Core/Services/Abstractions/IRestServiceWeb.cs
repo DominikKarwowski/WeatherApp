@@ -6,7 +6,7 @@ namespace DjK.WeatherApp.Core.Services.Abstractions
     /// <summary>
     /// Represents REST service layer.
     /// </summary>
-    public interface IRestService
+    public interface IRestServiceWeb
     {
         /// <summary>
         /// Represents a method to retrieve response from a Web request.

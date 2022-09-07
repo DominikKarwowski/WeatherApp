@@ -12,10 +12,10 @@ namespace DjK.WeatherApp.Core.Services
     /// <summary>
     /// Weather service implementation for Open Weather API.
     /// </summary>
-    public class OpenWeatherService : IWeatherService, IDisposable
+    public class OpenWeatherServiceWeb : IWeatherServiceWeb, IDisposable
     {
-        private readonly IRestService _restService;
-        private readonly ILogger<OpenWeatherService> _logger;
+        private readonly IRestServiceWeb _restService;
+        private readonly ILogger<OpenWeatherServiceWeb> _logger;
 
         /// <summary>
         /// Creates OpenWeatherService instance.
@@ -23,7 +23,7 @@ namespace DjK.WeatherApp.Core.Services
         /// <param name="restService">IRestService implementation.</param>
         /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
-        public OpenWeatherService(IRestService restService, ILogger<OpenWeatherService> logger)
+        public OpenWeatherServiceWeb(IRestServiceWeb restService, ILogger<OpenWeatherServiceWeb> logger)
         {
             _restService = restService ?? throw new ArgumentNullException(nameof(restService));
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));

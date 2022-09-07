@@ -12,7 +12,7 @@ namespace WeatherApp.Core.Tests.ViewModels
     public class HomeViewModelTests
     {
         Mock<IMvxNavigationService> navigationServiceFake;
-        Mock<IWeatherService> weatherServiceFake;
+        Mock<IWeatherServiceWeb> weatherServiceFake;
         Mock<IFavouritiesService> favouritiesServiceFake;
         Mock<IConnectivityService> connectivityServiceFake;
         Mock<ILogger<HomeViewModel>> loggerFake;
@@ -21,7 +21,7 @@ namespace WeatherApp.Core.Tests.ViewModels
         public void SetUp()
         {
             navigationServiceFake = new Mock<IMvxNavigationService>();
-            weatherServiceFake = new Mock<IWeatherService>();
+            weatherServiceFake = new Mock<IWeatherServiceWeb>();
             favouritiesServiceFake = new Mock<IFavouritiesService>();
             connectivityServiceFake = new Mock<IConnectivityService>();
             loggerFake = new Mock<ILogger<HomeViewModel>>();

@@ -10,14 +10,14 @@ namespace WeatherApp.Core.Tests.Services
     public class OpenWeatherServiceTests
     {
 
-        Mock<IRestService> restServiceFake;
-        Mock<ILogger<OpenWeatherService>> loggerFake;
+        Mock<IRestServiceWeb> restServiceFake;
+        Mock<ILogger<OpenWeatherServiceWeb>> loggerFake;
 
         [SetUp]
         public void Setup()
         {
-            restServiceFake = new Mock<IRestService>();
-            loggerFake = new Mock<ILogger<OpenWeatherService>>();
+            restServiceFake = new Mock<IRestServiceWeb>();
+            loggerFake = new Mock<ILogger<OpenWeatherServiceWeb>>();
         }
 
         [Test]
@@ -88,7 +88,7 @@ namespace WeatherApp.Core.Tests.Services
                 async () => await sut.GetWeatherResponse(new WeatherRequestParameters("test city", "test language", isMetric: true)));
         }
 
-        private OpenWeatherService CreateOpenWeatherService() =>
+        private OpenWeatherServiceWeb CreateOpenWeatherService() =>
             new(restServiceFake.Object, loggerFake.Object);
 
     }
