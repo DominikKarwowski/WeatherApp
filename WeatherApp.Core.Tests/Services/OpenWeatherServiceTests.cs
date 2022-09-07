@@ -1,3 +1,4 @@
+using DjK.WeatherApp.Core.Models;
 using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using Microsoft.Extensions.Logging;
@@ -9,14 +10,14 @@ namespace WeatherApp.Core.Tests.Services
     public class OpenWeatherServiceTests
     {
 
-        Mock<IRestService> restServiceFake;
-        Mock<ILogger<OpenWeatherService>> loggerFake;
+        Mock<IRestServiceWeb> restServiceFake;
+        Mock<ILogger<OpenWeatherServiceWeb>> loggerFake;
 
         [SetUp]
         public void Setup()
         {
-            restServiceFake = new Mock<IRestService>();
-            loggerFake = new Mock<ILogger<OpenWeatherService>>();
+            restServiceFake = new Mock<IRestServiceWeb>();
+            loggerFake = new Mock<ILogger<OpenWeatherServiceWeb>>();
         }
 
         [Test]
@@ -29,11 +30,14 @@ namespace WeatherApp.Core.Tests.Services
                 Content = new StringContent(jsonResponse),
                 StatusCode = System.Net.HttpStatusCode.OK
             };
-            restServiceFake.Setup(s => s.GetHttpResponseMessage(It.IsAny<string>())).ReturnsAsync(response);
+            restServiceFake.Setup(s => s.GetHttpResponseMessage(
+                It.IsAny<string>(), CancellationToken.None)).ReturnsAsync(response);
             var sut = CreateOpenWeatherService();
 
             // Act
-            var result = await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true);
+            var result = await sut.GetWeatherResponse(
+                new WeatherRequestParameters("test city", "test language", isMetric: true),
+                CancellationToken.None);
             Assert.Multiple(() =>
             {
                 Assert.That(result.IsSuccessful);
@@ -56,11 +60,14 @@ namespace WeatherApp.Core.Tests.Services
                 Content = new StringContent(jsonResponse),
                 StatusCode = System.Net.HttpStatusCode.NotFound
             };
-            restServiceFake.Setup(s => s.GetHttpResponseMessage(It.IsAny<string>())).ReturnsAsync(response);
+            restServiceFake.Setup(s => s.GetHttpResponseMessage(
+                It.IsAny<string>(), CancellationToken.None)).ReturnsAsync(response);
             var sut = CreateOpenWeatherService();
 
             // Act
-            var result = await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true);
+            var result = await sut.GetWeatherResponse(
+                new WeatherRequestParameters("test city", "test language", isMetric: true), 
+                CancellationToken.None);
 
             Assert.Multiple(() =>
             {
@@ -80,14 +87,17 @@ namespace WeatherApp.Core.Tests.Services
                 Content = new StringContent(jsonResponse),
                 StatusCode = System.Net.HttpStatusCode.NotFound
             };
-            restServiceFake.Setup(s => s.GetHttpResponseMessage(It.IsAny<string>())).ReturnsAsync(response);
+            restServiceFake.Setup(s => s.GetHttpResponseMessage(
+                It.IsAny<string>(), CancellationToken.None)).ReturnsAsync(response);
             var sut = CreateOpenWeatherService();
 
             Assert.ThrowsAsync<JsonReaderException>(
-                async () => await sut.GetWeatherResponseForLocation("test city", "test language", isMetric: true));
+                async () => await sut.GetWeatherResponse(
+                    new WeatherRequestParameters("test city", "test language", isMetric: true),
+                    CancellationToken.None));
         }
 
-        private OpenWeatherService CreateOpenWeatherService() =>
+        private OpenWeatherServiceWeb CreateOpenWeatherService() =>
             new(restServiceFake.Object, loggerFake.Object);
 
     }

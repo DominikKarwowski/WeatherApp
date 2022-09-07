@@ -5,6 +5,7 @@ using MvvmCross.Base;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.Services
@@ -12,18 +13,18 @@ namespace DjK.WeatherApp.Core.Services
     /// <summary>
     /// Weather service implementation for Open Weather API.
     /// </summary>
-    public class OpenWeatherService : IWeatherService, IDisposable
+    public class OpenWeatherServiceWeb : IWeatherServiceWeb, IDisposable
     {
-        private readonly IRestService _restService;
-        private readonly ILogger<OpenWeatherService> _logger;
+        private readonly IRestServiceWeb _restService;
+        private readonly ILogger<OpenWeatherServiceWeb> _logger;
 
         /// <summary>
-        /// Creates OpenWeatherService instance.
+        /// Creates OpenWeatherServiceWeb instance.
         /// </summary>
         /// <param name="restService">IRestService implementation.</param>
         /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
-        public OpenWeatherService(IRestService restService, ILogger<OpenWeatherService> logger)
+        public OpenWeatherServiceWeb(IRestServiceWeb restService, ILogger<OpenWeatherServiceWeb> logger)
         {
             _restService = restService ?? throw new ArgumentNullException(nameof(restService));
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
@@ -32,16 +33,21 @@ namespace DjK.WeatherApp.Core.Services
         /// <summary>
         /// Sends GET request to Open Weather API to retrieve the weather data for the specified city.
         /// </summary>
-        /// <param name="cityName">City for which the weather data are requested.</param>
-        /// <returns>WeatherResponse object. If request was not successful, WetherDetails object is null.</returns>
-        public async Task<WeatherResponse> GetWeatherResponseForLocation(string cityName, string language, bool isMetric)
+        /// <param name="parameters">Request parameters as described in WeatherRequestParameters object.</param>
+        /// <param name="cancellationToken">Request cancellation token.</param>
+        /// <returns>WeatherResponse object. If request was not successful, WeatherDetails object is null.</returns>
+        public async Task<WeatherResponse> GetWeatherResponse(
+            WeatherRequestParameters parameters, CancellationToken cancellationToken)
         {
             try
             {
-                var uri = BuildRequestUri(cityName, language, isMetric);
-                var response = await _restService.GetHttpResponseMessage(uri).ConfigureAwait(false);
+                var uri = BuildWeatherRequestUri(parameters);
+                var response = await _restService.GetHttpResponseMessage(uri, cancellationToken)
+                    .ConfigureAwait(false);
                 var reasonPhrase = response.ReasonPhrase;
                 var content = await response.Content.ReadAsStringAsync().ConfigureAwait(false);
+
+                cancellationToken.ThrowIfCancellationRequested();
 
                 if (response.IsSuccessStatusCode)
                 {
@@ -97,10 +103,10 @@ namespace DjK.WeatherApp.Core.Services
             }
         }
 
-        private string BuildRequestUri(string cityName, string language, bool isMetric)
+        private string BuildWeatherRequestUri(WeatherRequestParameters parameters)
         {
-            var units = isMetric ? "metric" : "imperial";
-            return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={cityName}&lang={language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
+            var units = parameters.IsMetric ? "metric" : "imperial";
+            return $@"{Constants.Constants.OpenWeatherMapEndpoint}?q={parameters.CityName}&lang={parameters.Language}&appid={Constants.Constants.OpenWeatherMapAPIKey}&units={units}";
 
         }
 

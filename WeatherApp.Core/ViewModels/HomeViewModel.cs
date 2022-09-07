@@ -1,4 +1,5 @@
-﻿using DjK.WeatherApp.Core.Services;
+﻿using DjK.WeatherApp.Core.Models;
+using DjK.WeatherApp.Core.Services;
 using DjK.WeatherApp.Core.Services.Abstractions;
 using Microsoft.Extensions.Logging;
 using MvvmCross.Commands;
@@ -6,6 +7,7 @@ using MvvmCross.Navigation;
 using MvvmCross.ViewModels;
 using System;
 using System.Globalization;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.ViewModels
@@ -16,12 +18,13 @@ namespace DjK.WeatherApp.Core.ViewModels
     public class HomeViewModel : MvxViewModel
     {
         private readonly IMvxNavigationService _navigationService;
-        private readonly IWeatherService _weatherService;
+        private readonly IWeatherServiceWeb _weatherService;
         private readonly IFavouritiesService _favouritiesService;
         private readonly IConnectivityService _connectivityService;
         private readonly ILogger<HomeViewModel> _logger;
         private readonly MvxInteraction<string> _interactionForCitySaved;
 
+        private CancellationTokenSource cancellationTokenSource;
         private bool _showProgress;
         private string _cityName;
         private string _errorMessage;
@@ -29,7 +32,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <summary>
         /// Indicates visibility for a Progress Bar in a related view.
         /// </summary>
-        public bool ShowProgress
+        public bool RequestInProgress
         {
             get { return _showProgress; }
             set { SetProperty(ref _showProgress, value); }
@@ -73,6 +76,8 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// </summary>
         public IMvxAsyncCommand SaveFavouriteCityCommand => new MvxAsyncCommand(SaveFavouriteCity);
 
+        public IMvxCommand CancelRequestCommand => new MvxCommand(CancelRequest);
+
         /// <summary>
         /// Command to set current culture.
         /// </summary>
@@ -92,7 +97,7 @@ namespace DjK.WeatherApp.Core.ViewModels
         /// <param name="connectivityService">Favourities service.</param>
         /// <param name="logger">Logger implementation.</param>
         /// <exception cref="ArgumentNullException"></exception>
-        public HomeViewModel(IMvxNavigationService navigationService, IWeatherService weatherService,
+        public HomeViewModel(IMvxNavigationService navigationService, IWeatherServiceWeb weatherService,
             IFavouritiesService favouritiesService, IConnectivityService connectivityService, ILogger<HomeViewModel> logger)
         {
             _navigationService = navigationService ?? throw new ArgumentNullException(nameof(navigationService));
@@ -164,10 +169,25 @@ namespace DjK.WeatherApp.Core.ViewModels
                     return;
                 }
 
-                ShowProgress = true;
-                var weatherResponse =
-                    await _weatherService.GetWeatherResponseForLocation(CityName, Language, IsMetric);
-                ShowProgress = false;
+                await TryRetrieveAndShowWeatherData();
+
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex.ToString());
+                ErrorMessage = "Oops, something went wrong...";
+            }
+        }
+
+        private async Task TryRetrieveAndShowWeatherData()
+        {
+            try
+            {
+                cancellationTokenSource = new CancellationTokenSource();
+                RequestInProgress = true;
+                var weatherResponse = await _weatherService.GetWeatherResponse(
+                        new WeatherRequestParameters(CityName, Language, IsMetric),
+                        cancellationTokenSource.Token);
 
                 if (weatherResponse.IsSuccessful)
                 {
@@ -179,14 +199,37 @@ namespace DjK.WeatherApp.Core.ViewModels
                 {
                     ErrorMessage = weatherResponse.ReasonPhrase;
                 }
-
             }
-            catch (Exception ex)
+            catch (OperationCanceledException) when (cancellationTokenSource.IsCancellationRequested)
             {
-                _logger.LogError(ex.ToString());
-                ErrorMessage = "Unexpected exception";
+                ErrorMessage = "Request has been cancelled";
+            }
+            catch (OperationCanceledException)
+            {
+                ErrorMessage = "Request timeout";
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+                cancellationTokenSource.Dispose();
+                RequestInProgress = false;
             }
         }
+
+        private void CancelRequest()
+        {
+            try
+            {
+                cancellationTokenSource?.Cancel();
+            }
+            catch (ObjectDisposedException)
+            { }
+        }
+
+
 
     }
 }

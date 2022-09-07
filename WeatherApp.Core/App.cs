@@ -9,6 +9,11 @@ namespace DjK.WeatherApp.Core
         public override void Initialize()
         {
             CreatableTypes()
+                .EndingWith("ServiceWeb")
+                .AsInterfaces()
+                .RegisterAsDynamic();
+
+            CreatableTypes()
                 .EndingWith("Service")
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
