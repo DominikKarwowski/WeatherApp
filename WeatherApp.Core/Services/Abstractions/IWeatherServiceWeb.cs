@@ -1,4 +1,5 @@
 ﻿using DjK.WeatherApp.Core.Models;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace DjK.WeatherApp.Core.Services.Abstractions
@@ -11,10 +12,9 @@ namespace DjK.WeatherApp.Core.Services.Abstractions
         /// <summary>
         /// Represents a method to prepare and post request for a weather data.
         /// </summary>
-        /// <param name="cityName">City name for which weather data are requested.</param>
-        /// <param name="language">Language in which weather data are requested.</param>
-        /// <param name="isMetric">Requested units for a weather data.</param>
+        /// <param name="parameters">Request parameters as described in WeatherRequestParameters object.</param>
+        /// <param name="token">Request cancellation token.</param>
         /// <returns>Weather data along with information about the request status.</returns>
-        Task<WeatherResponse> GetWeatherResponse(WeatherRequestParameters parameters);
+        Task<WeatherResponse> GetWeatherResponse(WeatherRequestParameters parameters, CancellationToken token);
     }
 }

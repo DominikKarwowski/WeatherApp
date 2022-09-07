@@ -20,6 +20,8 @@ namespace DjK.WeatherApp.Droid.Views
         private IMvxInteraction<string> _interaction;
         MvxFluentBindingDescriptionSet<HomeView, HomeViewModel> _bindingSet;
 
+        public bool RequestInProgress { get; set; }
+
         public IMvxInteraction<string> Interaction
         {
             get { return _interaction; }
@@ -46,6 +48,7 @@ namespace DjK.WeatherApp.Droid.Views
 
             _bindingSet = this.CreateBindingSet<HomeView, HomeViewModel>();
             _bindingSet.Bind(this).For(view => view.Interaction).To(viewModel => viewModel.InteractionForCitySaved).OneWay();
+            _bindingSet.Bind(this).For(view => view.RequestInProgress).To(viewModel => viewModel.RequestInProgress).OneWay();
             _bindingSet.Apply();
         }
 
@@ -75,6 +78,13 @@ namespace DjK.WeatherApp.Droid.Views
             .Show();
         }
 
+        public override void OnBackPressed()
+        {
+            if (RequestInProgress)
+                ViewModel.CancelRequestCommand.Execute();
+            else
+               base.OnBackPressed();
+        }
 
         protected override void OnPause()
         {
@@ -82,6 +92,7 @@ namespace DjK.WeatherApp.Droid.Views
 
             if (_interaction != null)
                 _interaction.Requested -= OnInteractionRequested;
+
             _bindingSet.Dispose();
         }
 
